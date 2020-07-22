@@ -19,10 +19,10 @@ app.index_string = '''
 <html>
     <head>
         {%metas%}
-        <title>Global Electricity Generation</title>
-        <meta property="og:title" content="Global Electricity Generation">
+        <title>Global Electricity Generation Mix</title>
+        <meta property="og:title" content="Global Electricity Generation Mix">
         <meta property="og:image" content="assets/energy_cons.png">
-        <meta name="description" property="og:description" content="An interactive mini-dashboard built and deployed by me in Python, giving a summary of electricity generation by fuel and country.">
+        <meta name="description" property="og:description" content="An interactive mini-dashboard built and deployed by me in Python, giving a summary of electricity generation mix by fuel and country.">
         <meta name="author" content="Anthony S N Maina">
         {%favicon%}
         {%css%}
