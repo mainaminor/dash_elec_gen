@@ -21,7 +21,7 @@ app.index_string = '''
         {%metas%}
         <title>Global Electricity Generation Mix</title>
         <meta property="og:title" content="Global Electricity Generation Mix">
-        <meta property="og:image" content="assets/energy_cons.png">
+        <meta property="og:image" content="assets/screenshot.png">
         <meta name="description" property="og:description" content="An interactive mini-dashboard built and deployed by me in Python, giving a summary of electricity generation mix by fuel and country.">
         <meta name="author" content="Anthony S N Maina">
         {%favicon%}
@@ -447,7 +447,7 @@ app.layout = html.Div([
       html.P('Data source: U.S. Energy Information Administration',style={'font-size': '1rem','color':'#696969',"marginBottom": "0%"}),
       ],
     className='row',
-    style={'paddingTop':'0%', 'text-align':'center', "marginBottom":"0.5%"}
+    style={'paddingTop':'0%', 'text-align':'center', "margin":"1%"}
     ),
   html.Div([#body
     html.Div([#left six columns
@@ -619,7 +619,7 @@ app.layout = html.Div([
       className='six columns flex-display'
       )
     ],
-    style={'padding':'0'},
+    style={'padding':'0', "marginBottom":"0"},
     className="row"
     ),
   html.Div([#footer
@@ -629,7 +629,7 @@ app.layout = html.Div([
     style={ 'text-align':'center'}
     ),
     ], 
-    style={'marginLeft':'1%','marginRight':'1%'}),
+    style={'marginLeft':'1%','marginRight':'1%', "marginTop":"0", "paddingTop":"0"}),
 
 ],
 style={'backgroundColor': background, 'margin':0}
@@ -752,7 +752,7 @@ def update_chart(country):
   Output('li3', 'children'),
   [Input('country-select', 'value')])
 def update_chart(country):
-  return "Renewables constitute {}% of power used for electricity generation.".format(round(100*df_dep["dependence"][df_dep["label"]=="Renewable"][df_dep["country"]==country].values[0],1))
+  return "Renewables constitute {}% of the power base used for electricity generation.".format(round(100*df_dep["dependence"][df_dep["label"]=="Renewable"][df_dep["country"]==country].values[0],1))
 
 @app.callback(
   Output('li21', 'children'),
