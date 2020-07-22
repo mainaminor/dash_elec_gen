@@ -44,11 +44,11 @@ server = app.server
 ####### DATA TABLES ##########
 ##############################
 
-master_elec=pd.read_csv("../dash_elec_gen/data/master_elec.csv")
-df_dep=pd.read_csv("../dash_elec_gen/data/elec_dep.csv")
-df_dom=pd.read_csv("../dash_elec_gen/data/dominant_source.csv")
-df_growth=pd.read_csv("../dash_elec_gen/data/df_growth.csv")
-df=pd.read_json("../dash_elec_gen/data/IntElecGen.json")
+master_elec=pd.read_csv("data/master_elec.csv")
+df_dep=pd.read_csv("data/elec_dep.csv")
+df_dom=pd.read_csv("data/dominant_source.csv")
+df_growth=pd.read_csv("data/df_growth.csv")
+df=pd.read_json("data/IntElecGen.json")
 
 metrics=[
       {'label': 'Dominant fuel type for electricity generation', 'value': 'dominant'},
