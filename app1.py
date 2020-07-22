@@ -44,22 +44,16 @@ server = app.server
 ####### DATA TABLES ##########
 ##############################
 
-master_elec=pd.read_json("../dash_elec_gen/data/master_elec.json",orient='columns')
+master_elec=pd.read_csv("../dash_elec_gen/data/master_elec.csv")
 df_dep=pd.read_csv("../dash_elec_gen/data/elec_dep.csv")
 df_dom=pd.read_csv("../dash_elec_gen/data/dominant_source.csv")
 df_growth=pd.read_csv("../dash_elec_gen/data/df_growth.csv")
+df=pd.read_json("../dash_elec_gen/data/IntElecGen.json")
 
 metrics=[
       {'label': 'Dominant fuel type for electricity generation', 'value': 'dominant'},
       {'label': 'Total net electricity generation', 'value': "lastValue"},
       {'label': 'Electricity generation per capita', 'value': "kWh PP"},  
-  ]
-
-metrics2=[
-      {'label': 'Fossil fuels', 'value': 'Fossil fuels'},
-      {'label': 'Nuclear', 'value': 'Nuclear'},  
-      {'label': 'Renewables', 'value': 'Renewable'},
-      {'label': "Total electricity generation","value":"Total Electricity net generation"}
   ]
 
 ren=["Hydroelectricity", "Wind", "Biomass and waste", "Solar", "Geothermal", "Tide and wave"]
@@ -79,6 +73,51 @@ metrics_max=[
 colors=pd.DataFrame({'value': ['Total Electricity net generation', 'Fossil fuels','Nuclear', 'Renewable','Hydroelectricity', 'Wind','Biomass and waste', 'Solar',  'Geothermal', 'Tide and wave'],
        "color": ['#636EFA','rgb(102,102,102)','#EF553B','#00CC96','#1F77B4', 'rgb(102, 197, 204)', 'rgb(248, 156, 116)', 'rgb(246, 207, 113)', 'rgb(220, 176, 242)', 'rgb(135, 197, 95)']
       })
+
+cats=['Solar electricity net generation',
+ 'Nuclear electricity net generation',
+ 'Tide and wave electricity net generation',
+ 'Renewable electricity net generation',
+ 'Hydroelectricity net generation',
+ 'Electricity net generation',
+ 'Non-hydro renewable electricity net generation',
+ 'Hydroelectric pumped storage electricity net generation',
+ 'Solar, tide, wave, fuel cell electricity net generation',
+ 'Wind electricity net generation',
+ 'Geothermal electricity net generation',
+ 'Fossil fuels electricity net generation',
+ 'Biomass and waste electricity net generation']
+
+cat=[]
+label=[]
+country=[]
+
+for i in df["name"]:
+    if 'Solar, tide, wave, fuel cell electricity net generation' in i:
+        cat.append('Solar, tide, wave, fuel cell electricity net generation')
+    else:
+        for c in cats:
+            if c == i.split(",")[0]:
+                cat.append(c)
+
+
+for c in cat:
+    if c=="Electricity net generation":
+        label.append("Total Electricity net generation")
+    elif c=="Hydroelectricity net generation":
+        label.append("Hydroelectricity")
+    else:
+        label.append(c.split(" electricity net generation")[0])
+        
+
+for n in df["name"]:
+    if 'Solar, tide, wave, fuel cell electricity net generation' in n:
+        country.append(n.split(', ')[4])
+    else:
+        country.append(n.split(", ")[1])
+
+df["country"]=country
+df["label"]=label
 
 countries = []
 for tic in master_elec["country"].drop_duplicates().sort_values():
@@ -227,32 +266,32 @@ def make_fig_3(d, label, metric, clip_pos):
     return fig
 
 def make_fig_2(geo):
-    k=master_elec["data"][master_elec["country"]==geo]
+    k=df["data"][df["country"]==geo]
 
     x=[]
     y=[]
     name="Fossil fuels"
-    for i in range(len(k[master_elec["label"]==name].iloc[0])):
-        x.append(pd.to_datetime(k[master_elec["label"]==name].iloc[0][i]["date"], unit="ms"))
-        y.append(k[master_elec["label"]==name].iloc[0][i]["value"])
+    for i in range(len(k[df["label"]==name].iloc[0])):
+        x.append(pd.to_datetime(k[df["label"]==name].iloc[0][i]["date"], unit="ms"))
+        y.append(k[df["label"]==name].iloc[0][i]["value"])
         y=[0 if x =="(s)" else x for x in y]
         y=[0 if x =="NA" else x for x in y]
 
     x2=[]
     y2=[]
     name2="Nuclear"
-    for i in range(len(k[master_elec["label"]==name2].iloc[0])):
-        x2.append(pd.to_datetime(k[master_elec["label"]==name2].iloc[0][i]["date"], unit="ms"))
-        y2.append(k[master_elec["label"]==name2].iloc[0][i]["value"])
+    for i in range(len(k[df["label"]==name2].iloc[0])):
+        x2.append(pd.to_datetime(k[df["label"]==name2].iloc[0][i]["date"], unit="ms"))
+        y2.append(k[df["label"]==name2].iloc[0][i]["value"])
         y2=[0 if x =="(s)" else x for x in y2]
         y2=[0 if x =="NA" else x for x in y2]
 
     x3=[]
     y3=[]
     name3="Renewable"
-    for i in range(len(k[master_elec["label"]==name3].iloc[0])):
-        x3.append(pd.to_datetime(k[master_elec["label"]==name3].iloc[0][i]["date"], unit="ms"))
-        y3.append(k[master_elec["label"]==name3].iloc[0][i]["value"])
+    for i in range(len(k[df["label"]==name3].iloc[0])):
+        x3.append(pd.to_datetime(k[df["label"]==name3].iloc[0][i]["date"], unit="ms"))
+        y3.append(k[df["label"]==name3].iloc[0][i]["value"])
         y3=[0 if x =="(s)" else x for x in y3]
         y3=[0 if x =="NA" else x for x in y3]
 
@@ -285,59 +324,59 @@ def make_fig_2(geo):
 
 
 def make_fig_2b(geo):
-    k=master_elec["data"][master_elec["country"]==geo]
+    k=df["data"][df["country"]==geo]
 
     x=[]
     y=[]
     name="Hydroelectricity"
-    for i in range(len(k[master_elec["label"]==name].iloc[0])):
-        x.append(pd.to_datetime(k[master_elec["label"]==name].iloc[0][i]["date"], unit="ms"))
-        y.append(k[master_elec["label"]==name].iloc[0][i]["value"])
+    for i in range(len(k[df["label"]==name].iloc[0])):
+        x.append(pd.to_datetime(k[df["label"]==name].iloc[0][i]["date"], unit="ms"))
+        y.append(k[df["label"]==name].iloc[0][i]["value"])
         y=[0 if x =="(s)" else x for x in y]
         y=[0 if x =="NA" else x for x in y]
 
     x2=[]
     y2=[]
     name2="Wind"
-    for i in range(len(k[master_elec["label"]==name2].iloc[0])):
-        x2.append(pd.to_datetime(k[master_elec["label"]==name2].iloc[0][i]["date"], unit="ms"))
-        y2.append(k[master_elec["label"]==name2].iloc[0][i]["value"])
+    for i in range(len(k[df["label"]==name2].iloc[0])):
+        x2.append(pd.to_datetime(k[df["label"]==name2].iloc[0][i]["date"], unit="ms"))
+        y2.append(k[df["label"]==name2].iloc[0][i]["value"])
         y2=[0 if x =="(s)" else x for x in y2]
         y2=[0 if x =="NA" else x for x in y2]
 
     x3=[]
     y3=[]
     name3="Biomass and waste"
-    for i in range(len(k[master_elec["label"]==name3].iloc[0])):
-        x3.append(pd.to_datetime(k[master_elec["label"]==name3].iloc[0][i]["date"], unit="ms"))
-        y3.append(k[master_elec["label"]==name3].iloc[0][i]["value"])
+    for i in range(len(k[df["label"]==name3].iloc[0])):
+        x3.append(pd.to_datetime(k[df["label"]==name3].iloc[0][i]["date"], unit="ms"))
+        y3.append(k[df["label"]==name3].iloc[0][i]["value"])
         y3=[0 if x =="(s)" else x for x in y3]
         y3=[0 if x =="NA" else x for x in y3]
     
     x4=[]
     y4=[]
     name4="Solar"
-    for i in range(len(k[master_elec["label"]==name4].iloc[0])):
-        x4.append(pd.to_datetime(k[master_elec["label"]==name4].iloc[0][i]["date"], unit="ms"))
-        y4.append(k[master_elec["label"]==name4].iloc[0][i]["value"])
+    for i in range(len(k[df["label"]==name4].iloc[0])):
+        x4.append(pd.to_datetime(k[df["label"]==name4].iloc[0][i]["date"], unit="ms"))
+        y4.append(k[df["label"]==name4].iloc[0][i]["value"])
         y4=[0 if x =="(s)" else x for x in y4]
         y4=[0 if x =="NA" else x for x in y4]
     
     x5=[]
     y5=[]
     name5="Geothermal"
-    for i in range(len(k[master_elec["label"]==name5].iloc[0])):
-        x5.append(pd.to_datetime(k[master_elec["label"]==name5].iloc[0][i]["date"], unit="ms"))
-        y5.append(k[master_elec["label"]==name5].iloc[0][i]["value"])
+    for i in range(len(k[df["label"]==name5].iloc[0])):
+        x5.append(pd.to_datetime(k[df["label"]==name5].iloc[0][i]["date"], unit="ms"))
+        y5.append(k[df["label"]==name5].iloc[0][i]["value"])
         y5=[0 if x =="(s)" else x for x in y5]
         y5=[0 if x =="NA" else x for x in y5]
     
     x6=[]
     y6=[]
     name6="Tide and wave"
-    for i in range(len(k[master_elec["label"]==name6].iloc[0])):
-        x6.append(pd.to_datetime(k[master_elec["label"]==name6].iloc[0][i]["date"], unit="ms"))
-        y6.append(k[master_elec["label"]==name6].iloc[0][i]["value"])
+    for i in range(len(k[df["label"]==name6].iloc[0])):
+        x6.append(pd.to_datetime(k[df["label"]==name6].iloc[0][i]["date"], unit="ms"))
+        y6.append(k[df["label"]==name6].iloc[0][i]["value"])
         y6=[0 if x =="(s)" else x for x in y6]
         y6=[0 if x =="NA" else x for x in y6]
         
