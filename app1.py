@@ -67,7 +67,7 @@ metrics_max=[
       {'label': 'Renewables: Geothermal', 'value': 'Geothermal'},
       {'label': "Renewables: Solar","value":"Solar"},
       {'label': "Renewables: Wind","value":"Wind"},
-      {'label': 'Total generation', 'value': "Total Electricity net generation"}
+      {'label': 'All power sources', 'value': "Total Electricity net generation"}
 ]
 
 colors=pd.DataFrame({'value': ['Total Electricity net generation', 'Fossil fuels','Nuclear', 'Renewable','Hydroelectricity', 'Wind','Biomass and waste', 'Solar',  'Geothermal', 'Tide and wave'],
@@ -474,7 +474,7 @@ app.layout = html.Div([
         ),
       html.Div([#left side bottom half
         html.Div([#left side bottom half four columns
-          html.P(id="abs_title", children="Top 10 total, by fuel type", style={"color": titlecolor}),
+          html.H6(id="abs_title", children="Top 10: Total generation", style={"color": titlecolor}),
           html.Div([
             dcc.Dropdown(
               id='metric-select-abs',
@@ -495,7 +495,7 @@ app.layout = html.Div([
           className="four columns flex-display"
           ),
         html.Div([#left side bottom half four columns
-          html.P(id="capita_title", children="Top 10 per capita, by fuel type", style={"color": titlecolor}),
+          html.H6(id="capita_title", children="Top 10: Per capita generation", style={"color": titlecolor}),
           html.Div([
             dcc.Dropdown(
               id='metric-select-cap',
@@ -516,7 +516,7 @@ app.layout = html.Div([
           className="four columns flex-display"
           ),
         html.Div([#left side bottom half four columns
-          html.P(id="dep_title", children= "Top 10 dependence, by power source", style={"color": titlecolor}),
+          html.H6(id="dep_title", children= "Top 10: Relative dependence", style={"color": titlecolor}),
           html.Div([
             dcc.Dropdown(
               id='metric-select-dep',
@@ -676,32 +676,12 @@ def update_chart(metric):
   return fig
 
 @app.callback(
-  Output('abs_title', 'children'),
-  [Input('metric-select-abs', 'value')])
-def update_title(metric):
-  if metric=="Total Electricity net generation":
-    title="Top 10 total (net) generation"
-  else:
-    title="Top 10 total, by power source"
-  return title
-
-@app.callback(
   Output('top_10_ren', 'figure'),
   [Input('metric-select-cap', 'value')])
 def update_chart(metric):
   fig= make_fig_3(master_elec, metric, "kWh PP",0)
   fig.update_layout(xaxis_title= "thousand kWh PP")
   return fig
-
-@app.callback(
-  Output('capita_title', 'children'),
-  [Input('metric-select-abs', 'value')])
-def update_title(metric):
-  if metric=="Total Electricity net generation":
-    title="Top 10 total (net) generation"
-  else:
-    title="Top 10 per capita, by power source"
-  return title
 
 @app.callback(
   Output('top_10_dep', 'figure'),
