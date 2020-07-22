@@ -158,7 +158,7 @@ l_map=go.Layout(
 
 #WORLD BARS
 l_bar_w=go.Layout(
-  height=324,
+  height=321,
   #width=90,
   margin={"r":20,"t":60,"l":40,"b":20},
   #template="plotly_white",
@@ -688,7 +688,7 @@ def update_chart(metric):
   [Input('metric-select-dep', 'value')])
 def update_chart(metric):
   fig= make_fig_3(df_dep, metric, "dependence",0)
-  fig.update_layout(xaxis_title= "fraction of total generation")
+  fig.update_layout(xaxis_title= "fraction of power base")
   return fig
 
 @app.callback(
@@ -697,7 +697,7 @@ def update_chart(metric):
 def update_chart(country):
   fig= make_fig_2(country)
   fig.update_layout(yaxis_title= "billion kWh")
-  fig.update_layout(title="Total electricity generation: "+country)
+  fig.update_layout(title="Total electricity generation: " + country)
   return fig
 
 @app.callback(
@@ -706,7 +706,7 @@ def update_chart(country):
 def update_chart(country):
   fig= make_fig_2b(country)
   fig.update_layout(yaxis_title= "billion kWh")
-  fig.update_layout(title="Renewables in electricity generation: "+country)
+  fig.update_layout(title="Renewables in elec. generation: " +  country)
   return fig
 
 
