@@ -44,7 +44,7 @@ server = app.server
 ####### DATA TABLES ##########
 ##############################
 
-master_elec=pd.read_json("../dash_elec_gen/data/master_elec.json")
+master_elec=pd.read_json("../dash_elec_gen/data/master_elec.json",orient='columns')
 df_dep=pd.read_csv("../dash_elec_gen/data/elec_dep.csv")
 df_dom=pd.read_csv("../dash_elec_gen/data/dominant_source.csv")
 df_growth=pd.read_csv("../dash_elec_gen/data/df_growth.csv")
