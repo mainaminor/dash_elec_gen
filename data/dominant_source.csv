@@ -1,0 +1,221 @@
+iso,country,dominant_source,score
+MDG,Madagascar,Renewable,-1
+NAM,Namibia,Renewable,-1
+ABW,Aruba,Fossil fuels,1
+PRY,Paraguay,Renewable,-1
+UKR,Ukraine,Nuclear,0
+SHN,Saint Helena,Fossil fuels,1
+SDN,Sudan,Renewable,-1
+KIR,Kiribati,Nuclear,0
+GTM,Guatemala,Renewable,-1
+MAC,Macau,Fossil fuels,1
+VUT,Vanuatu,Nuclear,0
+LSO,Lesotho,Renewable,-1
+HRV,Croatia,Renewable,-1
+URY,Uruguay,Renewable,-1
+BFA,Burkina Faso,Fossil fuels,1
+COK,Cook Islands,Fossil fuels,1
+NIU,Niue,Fossil fuels,1
+MEX,Mexico,Fossil fuels,1
+HKG,Hong Kong,Fossil fuels,1
+IND,India,Fossil fuels,1
+REU,Reunion,Fossil fuels,1
+VIR,U.S. Virgin Islands,Fossil fuels,1
+CHN,China,Fossil fuels,1
+BIH,Bosnia and Herzegovina,Fossil fuels,1
+POL,Poland,Fossil fuels,1
+ATG,Antigua and Barbuda,Fossil fuels,1
+SSD,South Sudan,Fossil fuels,1
+QAT,Qatar,Fossil fuels,1
+TUN,Tunisia,Fossil fuels,1
+BMU,Bermuda,Fossil fuels,1
+WAK,Wake Island,Nuclear,0
+PRI,Puerto Rico,Fossil fuels,1
+ERI,Eritrea,Fossil fuels,1
+CHE,Switzerland,Renewable,-1
+SUR,Suriname,Renewable,-1
+SAU,Saudi Arabia,Fossil fuels,1
+ZAF,South Africa,Fossil fuels,1
+SLB,Solomon Islands,Fossil fuels,1
+ATA,Antarctica,Fossil fuels,1
+SWE,Sweden,Renewable,-1
+UNK,Kosovo,Fossil fuels,1
+EST,Estonia,Fossil fuels,1
+AUS,Australia,Fossil fuels,1
+GUM,Guam,Fossil fuels,1
+NER,Niger,Fossil fuels,1
+STP,Sao Tome and Principe,Fossil fuels,1
+NLD,Netherlands,Fossil fuels,1
+MMR,Burma,Renewable,-1
+GNQ,Equatorial Guinea,Fossil fuels,1
+MTQ,Martinique,Fossil fuels,1
+FLK,Falkland Islands,Nuclear,0
+GAB,Gabon,Fossil fuels,1
+KOR,South Korea,Fossil fuels,1
+KNA,Saint Kitts and Nevis,Fossil fuels,1
+DZA,Algeria,Fossil fuels,1
+MAR,Morocco,Fossil fuels,1
+ESP,Spain,Fossil fuels,1
+NZL,New Zealand,Renewable,-1
+DOM,Dominican Republic,Fossil fuels,1
+ESH,Western Sahara,Fossil fuels,1
+FRA,France,Nuclear,0
+KWT,Kuwait,Fossil fuels,1
+DNK,Denmark,Renewable,-1
+BGD,Bangladesh,Fossil fuels,1
+MYS,Malaysia,Fossil fuels,1
+KGZ,Kyrgyzstan,Renewable,-1
+GIN,Guinea,Renewable,-1
+AZE,Azerbaijan,Fossil fuels,1
+COG,Congo-Brazzaville,Fossil fuels,1
+DJI,Djibouti,Fossil fuels,1
+IRN,Iran,Fossil fuels,1
+LTU,Lithuania,Renewable,-1
+TJK,Tajikistan,Renewable,-1
+KEN,Kenya,Renewable,-1
+VCT,Saint Vincent/Grenadines,Nuclear,0
+TZA,Tanzania,Fossil fuels,1
+GRL,Greenland,Renewable,-1
+ARE,United Arab Emirates,Fossil fuels,1
+HTI,Haiti,Fossil fuels,1
+BLR,Belarus,Fossil fuels,1
+AFG,Afghanistan,Renewable,-1
+OMN,Oman,Fossil fuels,1
+JOR,Jordan,Fossil fuels,1
+BRA,Brazil,Renewable,-1
+CRI,Costa Rica,Renewable,-1
+GRD,Grenada,Fossil fuels,1
+ZWE,Zimbabwe,Renewable,-1
+VEN,Venezuela,Renewable,-1
+JAM,Jamaica,Fossil fuels,1
+HND,Honduras,Renewable,-1
+PAN,Panama,Renewable,-1
+PYF,French Polynesia,Fossil fuels,1
+THA,Thailand,Fossil fuels,1
+USIQ,U.S. Pacific Islands,Fossil fuels,1
+UGA,Uganda,Renewable,-1
+WORL,World,Fossil fuels,1
+FRO,Faroe Islands,Fossil fuels,1
+SOM,Somalia,Fossil fuels,1
+CIV,Côte d’Ivoire,Fossil fuels,1
+RWA,Rwanda,Fossil fuels,1
+PRK,North Korea,Renewable,-1
+TCD,Chad,Fossil fuels,1
+GIB,Gibraltar,Fossil fuels,1
+BHS,The Bahamas,Fossil fuels,1
+VGB,British Virgin Islands,Fossil fuels,1
+MNG,Mongolia,Fossil fuels,1
+GBR,United Kingdom,Fossil fuels,1
+SRB,Serbia,Fossil fuels,1
+MLT,Malta,Fossil fuels,1
+CAN,Canada,Renewable,-1
+BOL,Bolivia,Fossil fuels,1
+BWA,Botswana,Fossil fuels,1
+VNM,Vietnam,Fossil fuels,1
+ITA,Italy,Fossil fuels,1
+KHM,Cambodia,Fossil fuels,1
+SYR,Syria,Fossil fuels,1
+NLDA,Netherlands Antilles,Fossil fuels,1
+SEN,Senegal,Fossil fuels,1
+AGO,Angola,Renewable,-1
+RUS,Russia,Fossil fuels,1
+TWN,Taiwan,Fossil fuels,1
+IRQ,Iraq,Fossil fuels,1
+PAK,Pakistan,Fossil fuels,1
+LCA,Saint Lucia,Fossil fuels,1
+HUN,Hungary,Nuclear,0
+NCL,New Caledonia,Fossil fuels,1
+GEO,Georgia,Renewable,-1
+TLS,Timor-Leste,Fossil fuels,1
+AUT,Austria,Renewable,-1
+LAO,Laos,Renewable,-1
+UZB,Uzbekistan,Fossil fuels,1
+FJI,Fiji,Renewable,-1
+ZMB,Zambia,Renewable,-1
+GMB,Gambia,Fossil fuels,1
+BDI,Burundi,Renewable,-1
+CAF,Central African Republic,Renewable,-1
+CYP,Cyprus,Fossil fuels,1
+SYC,Seychelles,Fossil fuels,1
+TGO,Togo,Renewable,-1
+ECU,Ecuador,Renewable,-1
+COM,Comoros,Fossil fuels,1
+NGA,Nigeria,Fossil fuels,1
+DEU,Germany,Fossil fuels,1
+ASM,American Samoa,Fossil fuels,1
+MLI,Mali,Fossil fuels,1
+IRL,Ireland,Fossil fuels,1
+ROU,Romania,Fossil fuels,1
+SVK,Slovakia,Nuclear,0
+MDV,Maldives,Fossil fuels,1
+PER,Peru,Renewable,-1
+SWZ,Eswatini,Fossil fuels,1
+GRC,Greece,Fossil fuels,1
+ARM,Armenia,Fossil fuels,1
+KAZ,Kazakhstan,Fossil fuels,1
+PRT,Portugal,Fossil fuels,1
+PSE,Palestinian Territories,Fossil fuels,1
+BRB,Barbados,Fossil fuels,1
+CZE,Czech Republic,Fossil fuels,1
+NIC,Nicaragua,Renewable,-1
+NRU,Nauru,Fossil fuels,1
+LVA,Latvia,Renewable,-1
+ARG,Argentina,Fossil fuels,1
+CYM,Cayman Islands,Fossil fuels,1
+LUX,Luxembourg,Renewable,-1
+TUR,Turkey,Fossil fuels,1
+LKA,Sri Lanka,Fossil fuels,1
+COL,Colombia,Renewable,-1
+SPM,Saint Pierre and Miquelon,Fossil fuels,1
+SLE,Sierra Leone,Renewable,-1
+LBY,Libya,Fossil fuels,1
+BRN,Brunei,Fossil fuels,1
+MKD,North Macedonia,Fossil fuels,1
+MNE,Montenegro,Fossil fuels,1
+ETH,Ethiopia,Renewable,-1
+GUF,French Guiana,Renewable,-1
+SLV,El Salvador,Renewable,-1
+GLP,Guadeloupe,Fossil fuels,1
+TTO,Trinidad and Tobago,Fossil fuels,1
+NOR,Norway,Renewable,-1
+NPL,Nepal,Renewable,-1
+ALB,Albania,Renewable,-1
+PNG,Papua New Guinea,Fossil fuels,1
+MSR,Montserrat,Fossil fuels,1
+SVN,Slovenia,Nuclear,0
+CPV,Cabo Verde,Fossil fuels,1
+YEM,Yemen,Fossil fuels,1
+COD,Congo-Kinshasa,Renewable,-1
+MUS,Mauritius,Fossil fuels,1
+BEN,Benin,Fossil fuels,1
+MRT,Mauritania,Fossil fuels,1
+TCA,Turks and Caicos Islands,Fossil fuels,1
+GHA,Ghana,Fossil fuels,1
+GNB,Guinea-Bissau,Nuclear,0
+DMA,Dominica,Fossil fuels,1
+ISL,Iceland,Renewable,-1
+TON,Tonga,Fossil fuels,1
+LBR,Liberia,Fossil fuels,1
+PHL,Philippines,Fossil fuels,1
+FIN,Finland,Renewable,-1
+EGY,Egypt,Fossil fuels,1
+LBN,Lebanon,Fossil fuels,1
+GUY,Guyana,Fossil fuels,1
+JPN,Japan,Fossil fuels,1
+ISR,Israel,Fossil fuels,1
+MDA,Moldova,Fossil fuels,1
+USA,United States,Fossil fuels,1
+CMR,Cameroon,Renewable,-1
+WSM,Samoa,Fossil fuels,1
+BLZ,Belize,Renewable,-1
+CHL,Chile,Fossil fuels,1
+BEL,Belgium,Nuclear,0
+IDN,Indonesia,Fossil fuels,1
+SGP,Singapore,Fossil fuels,1
+MWI,Malawi,Renewable,-1
+MOZ,Mozambique,Renewable,-1
+CUB,Cuba,Fossil fuels,1
+BGR,Bulgaria,Fossil fuels,1
+TKM,Turkmenistan,Fossil fuels,1
+BHR,Bahrain,Fossil fuels,1
+BTN,Bhutan,Renewable,-1

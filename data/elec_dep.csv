@@ -1,0 +1,2861 @@
+country,label,level,dependence
+New Zealand,Tide and wave,4.0,0.0
+New Zealand,Solar,4.0,0.0
+New Zealand,Fossil fuels,1.0,0.18139534883720929
+New Zealand,Nuclear,1.0,0.0
+New Zealand,Biomass and waste,3.0,0.013953488372093002
+New Zealand,"Solar, tide, wave, fuel cell",3.0,0.002325581395348837
+New Zealand,Geothermal,3.0,0.1744186046511628
+New Zealand,Wind,0.0,0.04883720930232558
+New Zealand,Hydroelectricity,2.0,0.5813953488372093
+New Zealand,Renewable,1.0,0.813953488372093
+New Zealand,Non-hydro renewable,2.0,0.23255813953488372
+New Zealand,Total Electricity net generation,0.0,1.0
+New Zealand,Hydroelectric pumped storage,1.0,0.0
+Cuba,Tide and wave,4.0,0.0
+Cuba,Solar,4.0,0.0
+Cuba,Fossil fuels,1.0,1.0
+Cuba,Geothermal,3.0,0.0
+Cuba,Biomass and waste,3.0,0.031578947368421005
+Cuba,Nuclear,1.0,0.0
+Cuba,Renewable,1.0,0.042105263157894736
+Cuba,Hydroelectricity,2.0,0.0
+Cuba,Non-hydro renewable,2.0,0.03684210526315784
+Cuba,Total Electricity net generation,0.0,1.0
+Cuba,"Solar, tide, wave, fuel cell",3.0,0.0
+Cuba,Wind,0.0,0.0
+Cuba,Hydroelectric pumped storage,1.0,0.0
+Ghana,Solar,4.0,0.0
+Ghana,Tide and wave,4.0,0.0
+Ghana,Nuclear,1.0,0.0
+Ghana,Fossil fuels,1.0,0.5642857142857143
+Ghana,"Solar, tide, wave, fuel cell",3.0,0.0
+Ghana,Wind,0.0,0.0
+Ghana,Geothermal,3.0,0.0
+Ghana,Biomass and waste,3.0,0.0
+Ghana,Non-hydro renewable,2.0,0.0
+Ghana,Renewable,1.0,0.3999999999999999
+Ghana,Hydroelectricity,2.0,0.3999999999999999
+Ghana,Total Electricity net generation,0.0,1.0
+Ghana,Hydroelectric pumped storage,1.0,0.0
+Niger,Tide and wave,4.0,0.0
+Niger,Solar,4.0,0.0
+Niger,Fossil fuels,1.0,1.0
+Niger,Nuclear,1.0,0.0
+Niger,"Solar, tide, wave, fuel cell",3.0,0.0
+Niger,Biomass and waste,3.0,0.0
+Niger,Geothermal,3.0,0.0
+Niger,Wind,0.0,0.0
+Niger,Hydroelectricity,2.0,0.0
+Niger,Renewable,1.0,0.0
+Niger,Non-hydro renewable,2.0,0.0
+Niger,Total Electricity net generation,0.0,1.0
+Niger,Hydroelectric pumped storage,1.0,0.0
+Mexico,Tide and wave,4.0,0.0
+Mexico,Solar,4.0,0.0036065573770491808
+Mexico,Fossil fuels,1.0,0.8
+Mexico,Nuclear,1.0,0.036065573770491806
+Mexico,Geothermal,3.0,0.018688524590163937
+Mexico,"Solar, tide, wave, fuel cell",3.0,0.0036065573770491808
+Mexico,Wind,0.0,0.032459016393442626
+Mexico,Hydroelectricity,2.0,0.10491803278688525
+Mexico,Renewable,1.0,0.16721311475409836
+Mexico,Non-hydro renewable,2.0,0.06229508196721312
+Mexico,Total Electricity net generation,0.0,1.0
+Mexico,Biomass and waste,3.0,0.0072131147540983615
+Mexico,Hydroelectric pumped storage,1.0,0.0
+Central African Republic,Tide and wave,4.0,0.0
+Central African Republic,Solar,4.0,0.0
+Central African Republic,Fossil fuels,1.0,0.0
+Central African Republic,Geothermal,3.0,0.0
+Central African Republic,Biomass and waste,3.0,0.0
+Central African Republic,Hydroelectricity,2.0,1.0
+Central African Republic,Nuclear,1.0,0.0
+Central African Republic,Renewable,1.0,1.0
+Central African Republic,Non-hydro renewable,2.0,0.0
+Central African Republic,Total Electricity net generation,0.0,1.0
+Central African Republic,"Solar, tide, wave, fuel cell",3.0,0.0
+Central African Republic,Wind,0.0,0.0
+Central African Republic,Hydroelectric pumped storage,1.0,0.0
+South Korea,Solar,4.0,0.0133383430396393
+South Korea,Tide and wave,4.0,0.00375727972947586
+South Korea,Nuclear,1.0,0.2648882209280481
+South Korea,Fossil fuels,1.0,0.695096749953034
+South Korea,Wind,0.0,0.004133007702423446
+South Korea,"Solar, tide, wave, fuel cell",3.0,0.01690775878264137
+South Korea,Geothermal,3.0,0.0
+South Korea,Hydroelectricity,2.0,0.005260191621266202
+South Korea,Renewable,1.0,0.039451437159496526
+South Korea,Non-hydro renewable,2.0,0.03381551756528274
+South Korea,Total Electricity net generation,0.0,0.9975577681758407
+South Korea,Biomass and waste,3.0,0.012962615066691717
+South Korea,Hydroelectric pumped storage,1.0,-0.002442231824159309
+Switzerland,Tide and wave,4.0,0.0
+Switzerland,Solar,4.0,0.028716216216216218
+Switzerland,Fossil fuels,1.0,0.011824324324324308
+Switzerland,Geothermal,3.0,0.0
+Switzerland,Biomass and waste,3.0,0.052364864864864864
+Switzerland,Hydroelectricity,2.0,0.5743243243243243
+Switzerland,Nuclear,1.0,0.33783783783783783
+Switzerland,Renewable,1.0,0.6587837837837838
+Switzerland,Non-hydro renewable,2.0,0.08277027027027027
+Switzerland,Total Electricity net generation,0.0,0.9797297297297297
+Switzerland,"Solar, tide, wave, fuel cell",3.0,0.028716216216216218
+Switzerland,Wind,0.0,0.0016891891891891893
+Switzerland,Hydroelectric pumped storage,1.0,-0.020270270270270268
+Martinique,Tide and wave,4.0,0.0
+Martinique,Solar,4.0,0.0
+Martinique,Fossil fuels,1.0,0.9333333333333327
+Martinique,Nuclear,1.0,0.0
+Martinique,"Solar, tide, wave, fuel cell",3.0,0.0
+Martinique,Biomass and waste,3.0,0.0
+Martinique,Geothermal,3.0,0.0
+Martinique,Wind,0.0,0.0
+Martinique,Hydroelectricity,2.0,0.0
+Martinique,Renewable,1.0,0.0
+Martinique,Non-hydro renewable,2.0,0.0
+Martinique,Total Electricity net generation,0.0,1.0
+Martinique,Hydroelectric pumped storage,1.0,0.0
+Papua New Guinea,Tide and wave,4.0,0.0
+Papua New Guinea,Solar,4.0,0.0
+Papua New Guinea,Fossil fuels,1.0,0.794871794871795
+Papua New Guinea,Nuclear,1.0,0.0
+Papua New Guinea,Wind,0.0,0.0
+Papua New Guinea,"Solar, tide, wave, fuel cell",3.0,0.0
+Papua New Guinea,Biomass and waste,3.0,0.0
+Papua New Guinea,Geothermal,3.0,0.0
+Papua New Guinea,Non-hydro renewable,2.0,0.0
+Papua New Guinea,Hydroelectricity,2.0,0.2051282051282052
+Papua New Guinea,Renewable,1.0,0.2051282051282052
+Papua New Guinea,Total Electricity net generation,0.0,1.0
+Papua New Guinea,Hydroelectric pumped storage,1.0,0.0
+Panama,Tide and wave,4.0,0.0
+Panama,Solar,4.0,0.018181818181818184
+Panama,Fossil fuels,1.0,0.26363636363636356
+Panama,Nuclear,1.0,0.0
+Panama,Wind,0.0,0.045454545454545456
+Panama,"Solar, tide, wave, fuel cell",3.0,0.018181818181818184
+Panama,Biomass and waste,3.0,0.0
+Panama,Geothermal,3.0,0.0
+Panama,Hydroelectricity,2.0,0.6545454545454545
+Panama,Renewable,1.0,0.7181818181818183
+Panama,Non-hydro renewable,2.0,0.06363636363636355
+Panama,Total Electricity net generation,0.0,1.0
+Panama,Hydroelectric pumped storage,1.0,0.0
+Kiribati,Solar,4.0,0.0
+Kiribati,Tide and wave,4.0,0.0
+Kiribati,Nuclear,1.0,0.0
+Kiribati,Fossil fuels,1.0,0.0
+Kiribati,Wind,0.0,0.0
+Kiribati,"Solar, tide, wave, fuel cell",3.0,0.0
+Kiribati,Geothermal,3.0,0.0
+Kiribati,Hydroelectricity,2.0,0.0
+Kiribati,Renewable,1.0,0.0
+Kiribati,Non-hydro renewable,2.0,0.0
+Kiribati,Total Electricity net generation,0.0,0.0
+Kiribati,Biomass and waste,3.0,0.0
+Kiribati,Hydroelectric pumped storage,1.0,0.0
+Reunion,Tide and wave,4.0,0.0
+Reunion,Solar,4.0,0.09677419354838679
+Reunion,Fossil fuels,1.0,0.6774193548387097
+Reunion,Nuclear,1.0,0.0
+Reunion,Wind,0.0,0.0
+Reunion,Biomass and waste,3.0,0.09677419354838679
+Reunion,Geothermal,3.0,0.0
+Reunion,"Solar, tide, wave, fuel cell",3.0,0.09677419354838679
+Reunion,Non-hydro renewable,2.0,0.16129032258064516
+Reunion,Hydroelectricity,2.0,0.16129032258064516
+Reunion,Renewable,1.0,0.3225806451612903
+Reunion,Total Electricity net generation,0.0,1.0
+Reunion,Hydroelectric pumped storage,1.0,0.0
+Burma,Tide and wave,4.0,0.0
+Burma,Solar,4.0,0.0
+Burma,Fossil fuels,1.0,0.41818181818181815
+Burma,Nuclear,1.0,0.0
+Burma,Biomass and waste,3.0,0.0
+Burma,Geothermal,3.0,0.0
+Burma,Wind,0.0,0.0
+Burma,"Solar, tide, wave, fuel cell",3.0,0.0
+Burma,Hydroelectricity,2.0,0.5454545454545454
+Burma,Renewable,1.0,0.5909090909090909
+Burma,Non-hydro renewable,2.0,0.0
+Burma,Total Electricity net generation,0.0,1.0
+Burma,Hydroelectric pumped storage,1.0,0.0
+Guatemala,Solar,4.0,0.015384615384615385
+Guatemala,Tide and wave,4.0,0.0
+Guatemala,Nuclear,1.0,0.0
+Guatemala,Fossil fuels,1.0,0.27692307692307694
+Guatemala,Wind,0.0,0.015384615384615385
+Guatemala,"Solar, tide, wave, fuel cell",3.0,0.015384615384615385
+Guatemala,Geothermal,3.0,0.023076923076923002
+Guatemala,Non-hydro renewable,2.0,0.24615384615384617
+Guatemala,Hydroelectricity,2.0,0.43846153846153846
+Guatemala,Renewable,1.0,0.6846153846153846
+Guatemala,Total Electricity net generation,0.0,1.0
+Guatemala,Biomass and waste,3.0,0.19230769230769232
+Guatemala,Hydroelectric pumped storage,1.0,0.0
+Liberia,Solar,4.0,0.0
+Liberia,Tide and wave,4.0,0.0
+Liberia,Nuclear,1.0,0.0
+Liberia,Fossil fuels,1.0,1.0
+Liberia,Wind,0.0,0.0
+Liberia,"Solar, tide, wave, fuel cell",3.0,0.0
+Liberia,Geothermal,3.0,0.0
+Liberia,Hydroelectricity,2.0,0.0
+Liberia,Renewable,1.0,0.0
+Liberia,Non-hydro renewable,2.0,0.0
+Liberia,Total Electricity net generation,0.0,1.0
+Liberia,Biomass and waste,3.0,0.0
+Liberia,Hydroelectric pumped storage,1.0,0.0
+Lithuania,Solar,4.0,0.0
+Lithuania,Tide and wave,4.0,0.0
+Lithuania,Nuclear,1.0,0.0
+Lithuania,Fossil fuels,1.0,0.21212121212121182
+Lithuania,Wind,0.0,0.4242424242424239
+Lithuania,"Solar, tide, wave, fuel cell",3.0,0.0
+Lithuania,Geothermal,3.0,0.0
+Lithuania,Hydroelectricity,2.0,0.18181818181818152
+Lithuania,Renewable,1.0,0.7878787878787878
+Lithuania,Non-hydro renewable,2.0,0.606060606060606
+Lithuania,Total Electricity net generation,0.0,0.9393939393939393
+Lithuania,Biomass and waste,3.0,0.18181818181818152
+Lithuania,Hydroelectric pumped storage,1.0,-0.06060606060606061
+Zambia,Solar,4.0,0.0
+Zambia,Tide and wave,4.0,0.0
+Zambia,Nuclear,1.0,0.0
+Zambia,Biomass and waste,3.0,0.0
+Zambia,Geothermal,3.0,0.0
+Zambia,"Solar, tide, wave, fuel cell",3.0,0.0
+Zambia,Wind,0.0,0.0
+Zambia,Hydroelectricity,2.0,0.8571428571428571
+Zambia,Fossil fuels,1.0,0.13571428571428565
+Zambia,Renewable,1.0,0.8571428571428571
+Zambia,Non-hydro renewable,2.0,0.0
+Zambia,Total Electricity net generation,0.0,1.0
+Zambia,Hydroelectric pumped storage,1.0,0.0
+Trinidad and Tobago,Tide and wave,4.0,0.0
+Trinidad and Tobago,Solar,4.0,0.0
+Trinidad and Tobago,Fossil fuels,1.0,1.0
+Trinidad and Tobago,Nuclear,1.0,0.0
+Trinidad and Tobago,Wind,0.0,0.0
+Trinidad and Tobago,"Solar, tide, wave, fuel cell",3.0,0.0
+Trinidad and Tobago,Biomass and waste,3.0,0.0
+Trinidad and Tobago,Geothermal,3.0,0.0
+Trinidad and Tobago,Non-hydro renewable,2.0,0.0
+Trinidad and Tobago,Hydroelectricity,2.0,0.0
+Trinidad and Tobago,Renewable,1.0,0.0
+Trinidad and Tobago,Total Electricity net generation,0.0,1.0
+Trinidad and Tobago,Hydroelectric pumped storage,1.0,0.0
+Guyana,Solar,4.0,0.0
+Guyana,Tide and wave,4.0,0.0
+Guyana,Nuclear,1.0,0.0
+Guyana,Fossil fuels,1.0,1.0
+Guyana,Wind,0.0,0.0
+Guyana,"Solar, tide, wave, fuel cell",3.0,0.0
+Guyana,Geothermal,3.0,0.0
+Guyana,Non-hydro renewable,2.0,0.0
+Guyana,Hydroelectricity,2.0,0.0
+Guyana,Renewable,1.0,0.0
+Guyana,Total Electricity net generation,0.0,1.0
+Guyana,Biomass and waste,3.0,0.0
+Guyana,Hydroelectric pumped storage,1.0,0.0
+Saint Pierre and Miquelon,Tide and wave,4.0,0.0
+Saint Pierre and Miquelon,Solar,4.0,0.0
+Saint Pierre and Miquelon,Fossil fuels,1.0,0.0
+Saint Pierre and Miquelon,Nuclear,1.0,0.0
+Saint Pierre and Miquelon,Wind,0.0,0.0
+Saint Pierre and Miquelon,"Solar, tide, wave, fuel cell",3.0,0.0
+Saint Pierre and Miquelon,Biomass and waste,3.0,0.0
+Saint Pierre and Miquelon,Geothermal,3.0,0.0
+Saint Pierre and Miquelon,Non-hydro renewable,2.0,0.0
+Saint Pierre and Miquelon,Hydroelectricity,2.0,0.0
+Saint Pierre and Miquelon,Renewable,1.0,0.0
+Saint Pierre and Miquelon,Total Electricity net generation,0.0,0.0
+Saint Pierre and Miquelon,Hydroelectric pumped storage,1.0,0.0
+Guinea,Solar,4.0,0.0
+Guinea,Tide and wave,4.0,0.0
+Guinea,Nuclear,1.0,0.0
+Guinea,Fossil fuels,1.0,0.3125
+Guinea,"Solar, tide, wave, fuel cell",3.0,0.0
+Guinea,Wind,0.0,0.0
+Guinea,Geothermal,3.0,0.0
+Guinea,Biomass and waste,3.0,0.0
+Guinea,Non-hydro renewable,2.0,0.0
+Guinea,Renewable,1.0,0.6875
+Guinea,Hydroelectricity,2.0,0.6875
+Guinea,Total Electricity net generation,0.0,1.0
+Guinea,Hydroelectric pumped storage,1.0,0.0
+Somalia,Tide and wave,4.0,0.0
+Somalia,Solar,4.0,0.0
+Somalia,Fossil fuels,1.0,1.0
+Somalia,Nuclear,1.0,0.0
+Somalia,Wind,0.0,0.0
+Somalia,"Solar, tide, wave, fuel cell",3.0,0.0
+Somalia,Biomass and waste,3.0,0.0
+Somalia,Geothermal,3.0,0.0
+Somalia,Non-hydro renewable,2.0,0.0
+Somalia,Hydroelectricity,2.0,0.0
+Somalia,Renewable,1.0,0.0
+Somalia,Total Electricity net generation,0.0,1.0
+Somalia,Hydroelectric pumped storage,1.0,0.0
+Maldives,Tide and wave,4.0,0.0
+Maldives,Solar,4.0,0.0
+Maldives,Nuclear,1.0,0.0
+Maldives,Fossil fuels,1.0,1.0
+Maldives,Geothermal,3.0,0.0
+Maldives,"Solar, tide, wave, fuel cell",3.0,0.0
+Maldives,Wind,0.0,0.0
+Maldives,Hydroelectricity,2.0,0.0
+Maldives,Renewable,1.0,0.0
+Maldives,Non-hydro renewable,2.0,0.0
+Maldives,Total Electricity net generation,0.0,1.0
+Maldives,Biomass and waste,3.0,0.0
+Maldives,Hydroelectric pumped storage,1.0,0.0
+Malta,Tide and wave,4.0,0.0
+Malta,Solar,4.0,0.125
+Malta,Fossil fuels,1.0,0.8749999999999993
+Malta,Nuclear,1.0,0.0
+Malta,Geothermal,3.0,0.0
+Malta,Wind,0.0,0.0
+Malta,"Solar, tide, wave, fuel cell",3.0,0.125
+Malta,Hydroelectricity,2.0,0.0
+Malta,Renewable,1.0,0.125
+Malta,Non-hydro renewable,2.0,0.125
+Malta,Total Electricity net generation,0.0,1.0
+Malta,Biomass and waste,3.0,0.0
+Malta,Hydroelectric pumped storage,1.0,0.0
+Paraguay,Tide and wave,4.0,0.0
+Paraguay,Solar,4.0,0.0
+Paraguay,Fossil fuels,1.0,0.0
+Paraguay,Nuclear,1.0,0.0
+Paraguay,Wind,0.0,0.0
+Paraguay,"Solar, tide, wave, fuel cell",3.0,0.0
+Paraguay,Biomass and waste,3.0,0.0016949152542372883
+Paraguay,Geothermal,3.0,0.0
+Paraguay,Non-hydro renewable,2.0,0.0016949152542372883
+Paraguay,Hydroelectricity,2.0,1.0
+Paraguay,Renewable,1.0,1.0
+Paraguay,Total Electricity net generation,0.0,1.0
+Paraguay,Hydroelectric pumped storage,1.0,0.0
+Congo-Kinshasa,Tide and wave,4.0,0.0
+Congo-Kinshasa,Solar,4.0,0.0
+Congo-Kinshasa,Fossil fuels,1.0,0.0
+Congo-Kinshasa,Geothermal,3.0,0.0
+Congo-Kinshasa,Biomass and waste,3.0,0.0
+Congo-Kinshasa,Hydroelectricity,2.0,1.0
+Congo-Kinshasa,Nuclear,1.0,0.0
+Congo-Kinshasa,Renewable,1.0,1.0
+Congo-Kinshasa,Non-hydro renewable,2.0,0.0
+Congo-Kinshasa,Total Electricity net generation,0.0,1.0
+Congo-Kinshasa,"Solar, tide, wave, fuel cell",3.0,0.0
+Congo-Kinshasa,Wind,0.0,0.0
+Congo-Kinshasa,Hydroelectric pumped storage,1.0,0.0
+Antarctica,Tide and wave,4.0,0.0
+Antarctica,Solar,4.0,0.0
+Antarctica,Fossil fuels,1.0,0.0
+Antarctica,Biomass and waste,3.0,0.0
+Antarctica,Wind,0.0,0.0
+Antarctica,"Solar, tide, wave, fuel cell",3.0,0.0
+Antarctica,Renewable,1.0,0.0
+Antarctica,Hydroelectricity,2.0,0.0
+Antarctica,Geothermal,3.0,0.0
+Antarctica,Non-hydro renewable,2.0,0.0
+Antarctica,Nuclear,1.0,0.0
+Antarctica,Total Electricity net generation,0.0,0.0
+Antarctica,Hydroelectric pumped storage,1.0,0.0
+Nauru,Tide and wave,4.0,0.0
+Nauru,Solar,4.0,0.0
+Nauru,Fossil fuels,1.0,0.0
+Nauru,Nuclear,1.0,0.0
+Nauru,"Solar, tide, wave, fuel cell",3.0,0.0
+Nauru,Biomass and waste,3.0,0.0
+Nauru,Geothermal,3.0,0.0
+Nauru,Wind,0.0,0.0
+Nauru,Hydroelectricity,2.0,0.0
+Nauru,Renewable,1.0,0.0
+Nauru,Non-hydro renewable,2.0,0.0
+Nauru,Total Electricity net generation,0.0,0.0
+Nauru,Hydroelectric pumped storage,1.0,0.0
+Iraq,Solar,4.0,0.0
+Iraq,Tide and wave,4.0,0.0
+Iraq,Nuclear,1.0,0.0
+Iraq,Fossil fuels,1.0,0.9878048780487805
+Iraq,"Solar, tide, wave, fuel cell",3.0,0.0
+Iraq,Wind,0.0,0.0
+Iraq,Geothermal,3.0,0.0
+Iraq,Non-hydro renewable,2.0,0.0
+Iraq,Hydroelectricity,2.0,0.017073170731707304
+Iraq,Renewable,1.0,0.018292682926829267
+Iraq,Total Electricity net generation,0.0,1.0
+Iraq,Biomass and waste,3.0,0.0
+Iraq,Hydroelectric pumped storage,1.0,0.0
+Nepal,Tide and wave,4.0,0.0
+Nepal,Solar,4.0,0.0
+Nepal,Fossil fuels,1.0,0.0
+Nepal,Nuclear,1.0,0.0
+Nepal,"Solar, tide, wave, fuel cell",3.0,0.0
+Nepal,Biomass and waste,3.0,0.0
+Nepal,Geothermal,3.0,0.0
+Nepal,Wind,0.0,0.0
+Nepal,Hydroelectricity,2.0,0.9787234042553189
+Nepal,Renewable,1.0,1.0
+Nepal,Non-hydro renewable,2.0,0.0
+Nepal,Total Electricity net generation,0.0,1.0
+Nepal,Hydroelectric pumped storage,1.0,0.0
+Morocco,Tide and wave,4.0,0.0
+Morocco,Solar,4.0,0.013289036544850499
+Morocco,Nuclear,1.0,0.0
+Morocco,Fossil fuels,1.0,0.8305647840531561
+Morocco,Wind,0.0,0.09966777408637874
+Morocco,"Solar, tide, wave, fuel cell",3.0,0.013289036544850499
+Morocco,Geothermal,3.0,0.0
+Morocco,Hydroelectricity,2.0,0.03986710963455149
+Morocco,Renewable,1.0,0.15282392026578068
+Morocco,Non-hydro renewable,2.0,0.11627906976744186
+Morocco,Total Electricity net generation,0.0,0.9966777408637874
+Morocco,Biomass and waste,3.0,0.0
+Morocco,Hydroelectric pumped storage,1.0,-0.0033222591362126247
+French Polynesia,Tide and wave,4.0,0.0
+French Polynesia,Solar,4.0,0.0
+French Polynesia,Fossil fuels,1.0,0.6666666666666677
+French Polynesia,Nuclear,1.0,0.0
+French Polynesia,Wind,0.0,0.0
+French Polynesia,"Solar, tide, wave, fuel cell",3.0,0.0
+French Polynesia,Biomass and waste,3.0,0.0
+French Polynesia,Geothermal,3.0,0.0
+French Polynesia,Non-hydro renewable,2.0,0.0
+French Polynesia,Hydroelectricity,2.0,0.33333333333333387
+French Polynesia,Renewable,1.0,0.33333333333333387
+French Polynesia,Total Electricity net generation,0.0,1.0
+French Polynesia,Hydroelectric pumped storage,1.0,0.0
+Sri Lanka,Solar,4.0,0.006666666666666667
+Sri Lanka,Tide and wave,4.0,0.0
+Sri Lanka,Nuclear,1.0,0.0
+Sri Lanka,Fossil fuels,1.0,0.7333333333333333
+Sri Lanka,Wind,0.0,0.02666666666666667
+Sri Lanka,"Solar, tide, wave, fuel cell",3.0,0.006666666666666667
+Sri Lanka,Geothermal,3.0,0.0
+Sri Lanka,Hydroelectricity,2.0,0.26666666666666666
+Sri Lanka,Renewable,1.0,0.3066666666666666
+Sri Lanka,Non-hydro renewable,2.0,0.03999999999999994
+Sri Lanka,Total Electricity net generation,0.0,1.0
+Sri Lanka,Biomass and waste,3.0,0.0
+Sri Lanka,Hydroelectric pumped storage,1.0,0.0
+Togo,Tide and wave,4.0,0.0
+Togo,Solar,4.0,0.0
+Togo,Fossil fuels,1.0,0.0
+Togo,Nuclear,1.0,0.0
+Togo,Wind,0.0,0.0
+Togo,Biomass and waste,3.0,0.0
+Togo,"Solar, tide, wave, fuel cell",3.0,0.0
+Togo,Geothermal,3.0,0.0
+Togo,Non-hydro renewable,2.0,0.0
+Togo,Hydroelectricity,2.0,1.0
+Togo,Renewable,1.0,1.0
+Togo,Total Electricity net generation,0.0,1.0
+Togo,Hydroelectric pumped storage,1.0,0.0
+Finland,Solar,4.0,0.0
+Finland,Tide and wave,4.0,0.0015384615384615385
+Finland,Nuclear,1.0,0.3384615384615385
+Finland,Fossil fuels,1.0,0.18461538461538463
+Finland,"Solar, tide, wave, fuel cell",3.0,0.003076923076923077
+Finland,Geothermal,3.0,0.0
+Finland,Biomass and waste,3.0,0.18461538461538463
+Finland,Hydroelectricity,2.0,0.23076923076923078
+Finland,Renewable,1.0,0.49230769230769234
+Finland,Non-hydro renewable,2.0,0.26153846153846155
+Finland,Total Electricity net generation,0.0,1.0
+Finland,Wind,0.0,0.07384615384615383
+Finland,Hydroelectric pumped storage,1.0,0.0
+Tajikistan,Tide and wave,4.0,0.0
+Tajikistan,Solar,4.0,0.0
+Tajikistan,Fossil fuels,1.0,0.05
+Tajikistan,Nuclear,1.0,0.0
+Tajikistan,Wind,0.0,0.0
+Tajikistan,"Solar, tide, wave, fuel cell",3.0,0.0
+Tajikistan,Biomass and waste,3.0,0.0
+Tajikistan,Geothermal,3.0,0.0
+Tajikistan,Non-hydro renewable,2.0,0.0
+Tajikistan,Hydroelectricity,2.0,0.9444444444444444
+Tajikistan,Renewable,1.0,0.9444444444444444
+Tajikistan,Total Electricity net generation,0.0,1.0
+Tajikistan,Hydroelectric pumped storage,1.0,0.0
+North Macedonia,Tide and wave,4.0,0.0
+North Macedonia,Solar,4.0,0.0
+North Macedonia,Fossil fuels,1.0,0.7547169811320756
+North Macedonia,Nuclear,1.0,0.0
+North Macedonia,Geothermal,3.0,0.0
+North Macedonia,"Solar, tide, wave, fuel cell",3.0,0.0
+North Macedonia,Wind,0.0,0.018867924528301893
+North Macedonia,Hydroelectricity,2.0,0.20754716981132082
+North Macedonia,Renewable,1.0,0.24528301886792458
+North Macedonia,Non-hydro renewable,2.0,0.037735849056603786
+North Macedonia,Total Electricity net generation,0.0,1.0
+North Macedonia,Biomass and waste,3.0,0.0
+North Macedonia,Hydroelectric pumped storage,1.0,0.0
+Saint Vincent/Grenadines,Tide and wave,4.0,0.0
+Saint Vincent/Grenadines,Solar,4.0,0.0
+Saint Vincent/Grenadines,Nuclear,1.0,0.0
+Saint Vincent/Grenadines,Fossil fuels,1.0,0.0
+Saint Vincent/Grenadines,Wind,0.0,0.0
+Saint Vincent/Grenadines,"Solar, tide, wave, fuel cell",3.0,0.0
+Saint Vincent/Grenadines,Biomass and waste,3.0,0.0
+Saint Vincent/Grenadines,Geothermal,3.0,0.0
+Saint Vincent/Grenadines,Renewable,1.0,0.0
+Saint Vincent/Grenadines,Non-hydro renewable,2.0,0.0
+Saint Vincent/Grenadines,Hydroelectricity,2.0,0.0
+Saint Vincent/Grenadines,Total Electricity net generation,0.0,1.0
+Saint Vincent/Grenadines,Hydroelectric pumped storage,1.0,0.0
+Philippines,Tide and wave,4.0,0.0
+Philippines,Solar,4.0,0.013333333333333332
+Philippines,Fossil fuels,1.0,0.7444444444444445
+Philippines,Nuclear,1.0,0.0
+Philippines,Wind,0.0,0.012222222222222223
+Philippines,"Solar, tide, wave, fuel cell",3.0,0.013333333333333332
+Philippines,Biomass and waste,3.0,0.011111111111111112
+Philippines,Geothermal,3.0,0.1111111111111111
+Philippines,Hydroelectricity,2.0,0.10555555555555556
+Philippines,Renewable,1.0,0.25555555555555554
+Philippines,Non-hydro renewable,2.0,0.15555555555555556
+Philippines,Total Electricity net generation,0.0,1.0
+Philippines,Hydroelectric pumped storage,1.0,0.0
+French Guiana,Solar,4.0,0.0
+French Guiana,Tide and wave,4.0,0.0
+French Guiana,Nuclear,1.0,0.0
+French Guiana,Fossil fuels,1.0,0.45454545454545453
+French Guiana,Wind,0.0,0.0
+French Guiana,"Solar, tide, wave, fuel cell",3.0,0.0
+French Guiana,Geothermal,3.0,0.0
+French Guiana,Non-hydro renewable,2.0,0.0
+French Guiana,Hydroelectricity,2.0,0.5454545454545446
+French Guiana,Renewable,1.0,0.5454545454545446
+French Guiana,Total Electricity net generation,0.0,1.0
+French Guiana,Biomass and waste,3.0,0.0
+French Guiana,Hydroelectric pumped storage,1.0,0.0
+Slovenia,Tide and wave,4.0,0.0
+Slovenia,Solar,4.0,0.019999999999999938
+Slovenia,Fossil fuels,1.0,0.3333333333333333
+Slovenia,Nuclear,1.0,0.4
+Slovenia,Wind,0.0,0.0
+Slovenia,"Solar, tide, wave, fuel cell",3.0,0.019999999999999938
+Slovenia,Biomass and waste,3.0,0.019999999999999938
+Slovenia,Geothermal,3.0,0.0
+Slovenia,Non-hydro renewable,2.0,0.03999999999999994
+Slovenia,Hydroelectricity,2.0,0.25333333333333324
+Slovenia,Renewable,1.0,0.29333333333333333
+Slovenia,Total Electricity net generation,0.0,1.0
+Slovenia,Hydroelectric pumped storage,1.0,0.0
+Japan,Solar,4.0,0.055549944450055545
+Japan,Tide and wave,4.0,0.0201999798000202
+Japan,Nuclear,1.0,0.01211998788001212
+Japan,Fossil fuels,1.0,0.7787092212907787
+Japan,"Solar, tide, wave, fuel cell",3.0,0.07574992425007575
+Japan,Wind,0.0,0.0065649934350065645
+Japan,Geothermal,3.0,0.002221997778002222
+Japan,Hydroelectricity,2.0,0.08382991617008383
+Japan,Non-hydro renewable,2.0,0.12624987375012625
+Japan,Renewable,1.0,0.21007978992021006
+Japan,Total Electricity net generation,0.0,0.9968690031309968
+Japan,Biomass and waste,3.0,0.04140995859004141
+Japan,Hydroelectric pumped storage,1.0,-0.003130996869003131
+Cambodia,Solar,4.0,0.0
+Cambodia,Tide and wave,4.0,0.0
+Cambodia,Nuclear,1.0,0.0
+Cambodia,Fossil fuels,1.0,0.5970149253731343
+Cambodia,Wind,0.0,0.0
+Cambodia,"Solar, tide, wave, fuel cell",3.0,0.0
+Cambodia,Geothermal,3.0,0.0
+Cambodia,Hydroelectricity,2.0,0.40298507462686567
+Cambodia,Renewable,1.0,0.41791044776119385
+Cambodia,Non-hydro renewable,2.0,0.0
+Cambodia,Total Electricity net generation,0.0,1.0
+Cambodia,Biomass and waste,3.0,0.0
+Cambodia,Hydroelectric pumped storage,1.0,0.0
+Slovakia,Tide and wave,4.0,0.0038314176245210726
+Slovakia,Solar,4.0,0.019157088122605363
+Slovakia,Fossil fuels,1.0,0.2030651340996168
+Slovakia,Nuclear,1.0,0.5363984674329502
+Slovakia,Wind,0.0,0.0
+Slovakia,"Solar, tide, wave, fuel cell",3.0,0.022988505747126402
+Slovakia,Biomass and waste,3.0,0.06513409961685825
+Slovakia,Geothermal,3.0,0.0
+Slovakia,Non-hydro renewable,2.0,0.0919540229885057
+Slovakia,Hydroelectricity,2.0,0.16475095785440608
+Slovakia,Renewable,1.0,0.2567049808429119
+Slovakia,Total Electricity net generation,0.0,0.9961685823754789
+Slovakia,Hydroelectric pumped storage,1.0,-0.0038314176245210726
+Sierra Leone,Tide and wave,4.0,0.0
+Sierra Leone,Solar,4.0,0.0
+Sierra Leone,Fossil fuels,1.0,0.0
+Sierra Leone,Nuclear,1.0,0.0
+Sierra Leone,Wind,0.0,0.0
+Sierra Leone,"Solar, tide, wave, fuel cell",3.0,0.0
+Sierra Leone,Biomass and waste,3.0,0.0
+Sierra Leone,Geothermal,3.0,0.0
+Sierra Leone,Non-hydro renewable,2.0,0.0
+Sierra Leone,Hydroelectricity,2.0,0.5
+Sierra Leone,Renewable,1.0,0.5
+Sierra Leone,Total Electricity net generation,0.0,1.0
+Sierra Leone,Hydroelectric pumped storage,1.0,0.0
+Greece,Solar,4.0,0.07547169811320754
+Greece,Tide and wave,4.0,0.0
+Greece,Nuclear,1.0,0.0
+Greece,Fossil fuels,1.0,0.7358490566037735
+Greece,"Solar, tide, wave, fuel cell",3.0,0.07547169811320754
+Greece,Wind,0.0,0.10377358490566038
+Greece,Geothermal,3.0,0.0
+Greece,Non-hydro renewable,2.0,0.1849056603773585
+Greece,Hydroelectricity,2.0,0.07547169811320754
+Greece,Renewable,1.0,0.2641509433962264
+Greece,Total Electricity net generation,0.0,1.0
+Greece,Biomass and waste,3.0,0.005660377358490548
+Greece,Hydroelectric pumped storage,1.0,0.0
+Poland,Tide and wave,4.0,0.0
+Poland,Solar,4.0,0.0012399256044637321
+Poland,Fossil fuels,1.0,0.8493490390576565
+Poland,Nuclear,1.0,0.0
+Poland,Wind,0.0,0.0929944203347799
+Poland,"Solar, tide, wave, fuel cell",3.0,0.0012399256044637321
+Poland,Biomass and waste,3.0,0.042157470551766885
+Poland,Geothermal,3.0,0.0
+Poland,Non-hydro renewable,2.0,0.13639181649101054
+Poland,Hydroelectricity,2.0,0.016119032858028518
+Poland,Renewable,1.0,0.14879107253564786
+Poland,Total Electricity net generation,0.0,0.9981401115933043
+Poland,Hydroelectric pumped storage,1.0,-0.0018598884066955922
+Burkina Faso,Tide and wave,4.0,0.0
+Burkina Faso,Solar,4.0,0.0
+Burkina Faso,Fossil fuels,1.0,0.9090909090909091
+Burkina Faso,Biomass and waste,3.0,0.0
+Burkina Faso,Renewable,1.0,0.18181818181818182
+Burkina Faso,Geothermal,3.0,0.0
+Burkina Faso,Hydroelectricity,2.0,0.09090909090909091
+Burkina Faso,Non-hydro renewable,2.0,0.0
+Burkina Faso,Nuclear,1.0,0.0
+Burkina Faso,Total Electricity net generation,0.0,1.0
+Burkina Faso,"Solar, tide, wave, fuel cell",3.0,0.0
+Burkina Faso,Wind,0.0,0.0
+Burkina Faso,Hydroelectric pumped storage,1.0,0.0
+Falkland Islands,Solar,4.0,0.0
+Falkland Islands,Tide and wave,4.0,0.0
+Falkland Islands,Nuclear,1.0,0.0
+Falkland Islands,Fossil fuels,1.0,0.0
+Falkland Islands,"Solar, tide, wave, fuel cell",3.0,0.0
+Falkland Islands,Geothermal,3.0,0.0
+Falkland Islands,Biomass and waste,3.0,0.0
+Falkland Islands,Non-hydro renewable,2.0,0.0
+Falkland Islands,Renewable,1.0,0.0
+Falkland Islands,Hydroelectricity,2.0,0.0
+Falkland Islands,Total Electricity net generation,0.0,0.0
+Falkland Islands,Wind,0.0,0.0
+Falkland Islands,Hydroelectric pumped storage,1.0,0.0
+Montenegro,Tide and wave,4.0,0.0
+Montenegro,Solar,4.0,0.0
+Montenegro,Fossil fuels,1.0,0.5416666666666669
+Montenegro,Nuclear,1.0,0.0
+Montenegro,"Solar, tide, wave, fuel cell",3.0,0.0
+Montenegro,Biomass and waste,3.0,0.0
+Montenegro,Geothermal,3.0,0.0
+Montenegro,Wind,0.0,0.0
+Montenegro,Hydroelectricity,2.0,0.41666666666666685
+Montenegro,Renewable,1.0,0.45833333333333354
+Montenegro,Non-hydro renewable,2.0,0.0
+Montenegro,Total Electricity net generation,0.0,1.0
+Montenegro,Hydroelectric pumped storage,1.0,0.0
+China,Tide and wave,4.0,0.0
+China,Solar,4.0,0.01879579483912074
+China,Fossil fuels,1.0,0.7005415737496018
+China,Geothermal,3.0,1.592863969417012e-05
+China,Biomass and waste,3.0,0.012583625358394393
+China,Hydroelectricity,2.0,0.18254221089518954
+China,Nuclear,1.0,0.037113730487416376
+China,Renewable,1.0,0.26250398215992354
+China,Non-hydro renewable,2.0,0.07996177126473399
+China,Total Electricity net generation,0.0,0.9980885632366996
+China,"Solar, tide, wave, fuel cell",3.0,0.01879579483912074
+China,Wind,0.0,0.04858235106721886
+China,Hydroelectric pumped storage,1.0,-0.001911436763300414
+Russia,Tide and wave,4.0,0.0
+Russia,Solar,4.0,0.000579822187862388
+Russia,Fossil fuels,1.0,0.6358716660224198
+Russia,Nuclear,1.0,0.1836103594897565
+Russia,Wind,0.0,9.663703131039815e-05
+Russia,Biomass and waste,3.0,0.00260919984538075
+Russia,"Solar, tide, wave, fuel cell",3.0,0.000579822187862388
+Russia,Geothermal,3.0,0.0003865481252415926
+Russia,Non-hydro renewable,2.0,0.0036722071897951286
+Russia,Hydroelectricity,2.0,0.17684576729802862
+Russia,Renewable,1.0,0.18071124855044454
+Russia,Total Electricity net generation,0.0,0.9992269037495168
+Russia,Hydroelectric pumped storage,1.0,-0.0007730962504831852
+Turkmenistan,Tide and wave,4.0,0.0
+Turkmenistan,Solar,4.0,0.0
+Turkmenistan,Fossil fuels,1.0,1.0
+Turkmenistan,Nuclear,1.0,0.0
+Turkmenistan,Wind,0.0,0.0
+Turkmenistan,"Solar, tide, wave, fuel cell",3.0,0.0
+Turkmenistan,Biomass and waste,3.0,0.0
+Turkmenistan,Geothermal,3.0,0.0
+Turkmenistan,Non-hydro renewable,2.0,0.0
+Turkmenistan,Hydroelectricity,2.0,0.0
+Turkmenistan,Renewable,1.0,0.0
+Turkmenistan,Total Electricity net generation,0.0,1.0
+Turkmenistan,Hydroelectric pumped storage,1.0,0.0
+Palestinian Territories,Tide and wave,4.0,0.0
+Palestinian Territories,Solar,4.0,0.0
+Palestinian Territories,Fossil fuels,1.0,1.0
+Palestinian Territories,Nuclear,1.0,0.0
+Palestinian Territories,Wind,0.0,0.0
+Palestinian Territories,"Solar, tide, wave, fuel cell",3.0,0.0
+Palestinian Territories,Biomass and waste,3.0,0.0
+Palestinian Territories,Geothermal,3.0,0.0
+Palestinian Territories,Non-hydro renewable,2.0,0.0
+Palestinian Territories,Hydroelectricity,2.0,0.0
+Palestinian Territories,Renewable,1.0,0.0
+Palestinian Territories,Total Electricity net generation,0.0,1.0
+Palestinian Territories,Hydroelectric pumped storage,1.0,0.0
+Turkey,Tide and wave,4.0,0.002826855123674912
+Turkey,Solar,4.0,0.009893992932862188
+Turkey,Fossil fuels,1.0,0.696113074204947
+Turkey,Nuclear,1.0,0.0
+Turkey,Wind,0.0,0.0636042402826855
+Turkey,"Solar, tide, wave, fuel cell",3.0,0.012720848056537103
+Turkey,Biomass and waste,3.0,0.007420494699646643
+Turkey,Geothermal,3.0,0.018021201413427557
+Turkey,Non-hydro renewable,2.0,0.10247349823321555
+Turkey,Hydroelectricity,2.0,0.2049469964664311
+Turkey,Renewable,1.0,0.303886925795053
+Turkey,Total Electricity net generation,0.0,1.0
+Turkey,Hydroelectric pumped storage,1.0,0.0
+Taiwan,Tide and wave,4.0,0.0
+Taiwan,Solar,4.0,0.006778309409888357
+Taiwan,Fossil fuels,1.0,0.8612440191387559
+Taiwan,Nuclear,1.0,0.08771929824561403
+Taiwan,Wind,0.0,0.006778309409888357
+Taiwan,"Solar, tide, wave, fuel cell",3.0,0.006778309409888357
+Taiwan,Biomass and waste,3.0,0.013955342902711323
+Taiwan,Geothermal,3.0,0.0
+Taiwan,Renewable,1.0,0.04784688995215311
+Taiwan,Non-hydro renewable,2.0,0.02751196172248804
+Taiwan,Hydroelectricity,2.0,0.0215311004784689
+Taiwan,Total Electricity net generation,0.0,0.996810207336523
+Taiwan,Hydroelectric pumped storage,1.0,-0.003189792663476874
+Cook Islands,Tide and wave,4.0,0.0
+Cook Islands,Solar,4.0,0.0
+Cook Islands,Fossil fuels,1.0,0.0
+Cook Islands,Geothermal,3.0,0.0
+Cook Islands,Biomass and waste,3.0,0.0
+Cook Islands,Nuclear,1.0,0.0
+Cook Islands,Renewable,1.0,0.0
+Cook Islands,Hydroelectricity,2.0,0.0
+Cook Islands,Non-hydro renewable,2.0,0.0
+Cook Islands,Total Electricity net generation,0.0,0.0
+Cook Islands,"Solar, tide, wave, fuel cell",3.0,0.0
+Cook Islands,Wind,0.0,0.0
+Cook Islands,Hydroelectric pumped storage,1.0,0.0
+Colombia,Tide and wave,4.0,0.0
+Colombia,Solar,4.0,0.0
+Colombia,Fossil fuels,1.0,0.2054794520547945
+Colombia,Geothermal,3.0,0.0
+Colombia,Biomass and waste,3.0,0.01917808219178081
+Colombia,Nuclear,1.0,0.0
+Colombia,Renewable,1.0,0.7945205479452054
+Colombia,Hydroelectricity,2.0,0.7808219178082192
+Colombia,Non-hydro renewable,2.0,0.01917808219178081
+Colombia,Total Electricity net generation,0.0,1.0
+Colombia,"Solar, tide, wave, fuel cell",3.0,0.0
+Colombia,Wind,0.0,0.0
+Colombia,Hydroelectric pumped storage,1.0,0.0
+Malaysia,Tide and wave,4.0,0.0
+Malaysia,Solar,4.0,0.001923076923076917
+Malaysia,Fossil fuels,1.0,0.8269230769230769
+Malaysia,Nuclear,1.0,0.0
+Malaysia,"Solar, tide, wave, fuel cell",3.0,0.001923076923076917
+Malaysia,Biomass and waste,3.0,0.005128205128205128
+Malaysia,Geothermal,3.0,0.0
+Malaysia,Wind,0.0,0.0
+Malaysia,Hydroelectricity,2.0,0.16666666666666666
+Malaysia,Renewable,1.0,0.17307692307692307
+Malaysia,Non-hydro renewable,2.0,0.007692307692307692
+Malaysia,Total Electricity net generation,0.0,1.0
+Malaysia,Hydroelectric pumped storage,1.0,0.0
+Luxembourg,Solar,4.0,0.11111111111111112
+Luxembourg,Tide and wave,4.0,0.0
+Luxembourg,Nuclear,1.0,0.0
+Luxembourg,Fossil fuels,1.0,0.22222222222222224
+Luxembourg,Wind,0.0,0.22222222222222224
+Luxembourg,"Solar, tide, wave, fuel cell",3.0,0.11111111111111112
+Luxembourg,Geothermal,3.0,0.0
+Luxembourg,Hydroelectricity,2.0,0.0
+Luxembourg,Renewable,1.0,0.7777777777777767
+Luxembourg,Non-hydro renewable,2.0,0.6666666666666656
+Luxembourg,Total Electricity net generation,0.0,0.4444444444444445
+Luxembourg,Biomass and waste,3.0,0.22222222222222224
+Luxembourg,Hydroelectric pumped storage,1.0,-0.5555555555555556
+Haiti,Solar,4.0,0.0
+Haiti,Tide and wave,4.0,0.0
+Haiti,Nuclear,1.0,0.0
+Haiti,Fossil fuels,1.0,0.9
+Haiti,Wind,0.0,0.0
+Haiti,"Solar, tide, wave, fuel cell",3.0,0.0
+Haiti,Geothermal,3.0,0.0
+Haiti,Non-hydro renewable,2.0,0.0
+Haiti,Hydroelectricity,2.0,0.0
+Haiti,Renewable,1.0,0.0
+Haiti,Total Electricity net generation,0.0,1.0
+Haiti,Biomass and waste,3.0,0.0
+Haiti,Hydroelectric pumped storage,1.0,0.0
+Puerto Rico,Tide and wave,4.0,0.0
+Puerto Rico,Solar,4.0,0.011764705882352941
+Puerto Rico,Fossil fuels,1.0,0.9411764705882353
+Puerto Rico,Nuclear,1.0,0.0
+Puerto Rico,Wind,0.0,0.0058823529411764705
+Puerto Rico,"Solar, tide, wave, fuel cell",3.0,0.011764705882352941
+Puerto Rico,Biomass and waste,3.0,0.0
+Puerto Rico,Geothermal,3.0,0.0
+Puerto Rico,Non-hydro renewable,2.0,0.017647058823529356
+Puerto Rico,Hydroelectricity,2.0,0.0
+Puerto Rico,Renewable,1.0,0.023529411764705882
+Puerto Rico,Total Electricity net generation,0.0,1.0
+Puerto Rico,Hydroelectric pumped storage,1.0,0.0
+Saint Helena,Tide and wave,4.0,0.0
+Saint Helena,Solar,4.0,0.0
+Saint Helena,Fossil fuels,1.0,0.0
+Saint Helena,Nuclear,1.0,0.0
+Saint Helena,Wind,0.0,0.0
+Saint Helena,"Solar, tide, wave, fuel cell",3.0,0.0
+Saint Helena,Biomass and waste,3.0,0.0
+Saint Helena,Geothermal,3.0,0.0
+Saint Helena,Non-hydro renewable,2.0,0.0
+Saint Helena,Hydroelectricity,2.0,0.0
+Saint Helena,Renewable,1.0,0.0
+Saint Helena,Total Electricity net generation,0.0,0.0
+Saint Helena,Hydroelectric pumped storage,1.0,0.0
+Cameroon,Tide and wave,4.0,0.0
+Cameroon,Solar,4.0,0.0
+Cameroon,Fossil fuels,1.0,0.4457831325301205
+Cameroon,Geothermal,3.0,0.0
+Cameroon,Biomass and waste,3.0,0.0
+Cameroon,Hydroelectricity,2.0,0.5542168674698793
+Cameroon,Nuclear,1.0,0.0
+Cameroon,Renewable,1.0,0.5542168674698793
+Cameroon,Non-hydro renewable,2.0,0.0
+Cameroon,Total Electricity net generation,0.0,1.0
+Cameroon,"Solar, tide, wave, fuel cell",3.0,0.0
+Cameroon,Wind,0.0,0.0
+Cameroon,Hydroelectric pumped storage,1.0,0.0
+Congo-Brazzaville,Tide and wave,4.0,0.0
+Congo-Brazzaville,Solar,4.0,0.0
+Congo-Brazzaville,Fossil fuels,1.0,0.6363636363636366
+Congo-Brazzaville,Geothermal,3.0,0.0
+Congo-Brazzaville,Biomass and waste,3.0,0.0
+Congo-Brazzaville,Nuclear,1.0,0.0
+Congo-Brazzaville,Renewable,1.0,0.36363636363636376
+Congo-Brazzaville,Hydroelectricity,2.0,0.36363636363636376
+Congo-Brazzaville,Non-hydro renewable,2.0,0.0
+Congo-Brazzaville,Total Electricity net generation,0.0,1.0
+Congo-Brazzaville,"Solar, tide, wave, fuel cell",3.0,0.0
+Congo-Brazzaville,Wind,0.0,0.0
+Congo-Brazzaville,Hydroelectric pumped storage,1.0,0.0
+Serbia,Tide and wave,4.0,0.0
+Serbia,Solar,4.0,0.0
+Serbia,Fossil fuels,1.0,0.7580174927113703
+Serbia,Nuclear,1.0,0.0
+Serbia,Wind,0.0,0.0
+Serbia,"Solar, tide, wave, fuel cell",3.0,0.0
+Serbia,Biomass and waste,3.0,0.0
+Serbia,Geothermal,3.0,0.0
+Serbia,Non-hydro renewable,2.0,0.002915451895043732
+Serbia,Hydroelectricity,2.0,0.2653061224489796
+Serbia,Renewable,1.0,0.26822157434402333
+Serbia,Total Electricity net generation,0.0,0.9912536443148688
+Serbia,Hydroelectric pumped storage,1.0,-0.008746355685131168
+Mauritius,Tide and wave,4.0,0.0
+Mauritius,Solar,4.0,0.0
+Mauritius,Fossil fuels,1.0,0.7666666666666663
+Mauritius,Nuclear,1.0,0.0
+Mauritius,"Solar, tide, wave, fuel cell",3.0,0.0
+Mauritius,Biomass and waste,3.0,0.16666666666666666
+Mauritius,Geothermal,3.0,0.0
+Mauritius,Wind,0.0,0.0
+Mauritius,Hydroelectricity,2.0,0.0
+Mauritius,Renewable,1.0,0.23333333333333303
+Mauritius,Non-hydro renewable,2.0,0.1999999999999997
+Mauritius,Total Electricity net generation,0.0,1.0
+Mauritius,Hydroelectric pumped storage,1.0,0.0
+Hungary,Solar,4.0,0.009677419354838679
+Hungary,Tide and wave,4.0,0.0
+Hungary,Nuclear,1.0,0.4838709677419355
+Hungary,Fossil fuels,1.0,0.3870967741935484
+Hungary,Wind,0.0,0.022580645161290294
+Hungary,"Solar, tide, wave, fuel cell",3.0,0.012903225806451613
+Hungary,Geothermal,3.0,0.0
+Hungary,Non-hydro renewable,2.0,0.11290322580645161
+Hungary,Hydroelectricity,2.0,0.0064516129032258064
+Hungary,Renewable,1.0,0.11935483870967742
+Hungary,Total Electricity net generation,0.0,1.0
+Hungary,Biomass and waste,3.0,0.07419354838709674
+Hungary,Hydroelectric pumped storage,1.0,0.0
+United States,Tide and wave,4.0,0.0
+United States,Solar,4.0,0.018944519621109608
+United States,Nuclear,1.0,0.19805634149341864
+United States,Fossil fuels,1.0,0.6239389838848567
+United States,Wind,0.0,0.062492311477426496
+United States,"Solar, tide, wave, fuel cell",3.0,0.018944519621109608
+United States,Biomass and waste,3.0,0.018698486898757534
+United States,Geothermal,3.0,0.003936523557633165
+United States,Renewable,1.0,0.17812769098290074
+United States,Non-hydro renewable,2.0,0.10407184155492681
+United States,Hydroelectricity,2.0,0.07380981670562185
+United States,Total Electricity net generation,0.0,0.9984007873047115
+United States,Hydroelectric pumped storage,1.0,-0.0015992126952884733
+Gabon,Solar,4.0,0.0
+Gabon,Tide and wave,4.0,0.0
+Gabon,Nuclear,1.0,0.0
+Gabon,Fossil fuels,1.0,0.5909090909090908
+Gabon,"Solar, tide, wave, fuel cell",3.0,0.0
+Gabon,Wind,0.0,0.0
+Gabon,Geothermal,3.0,0.0
+Gabon,Biomass and waste,3.0,0.0
+Gabon,Non-hydro renewable,2.0,0.0
+Gabon,Renewable,1.0,0.40909090909090906
+Gabon,Hydroelectricity,2.0,0.40909090909090906
+Gabon,Total Electricity net generation,0.0,1.0
+Gabon,Hydroelectric pumped storage,1.0,0.0
+South Africa,Solar,4.0,0.013888888888888885
+South Africa,Tide and wave,4.0,0.0
+South Africa,Nuclear,1.0,0.06313131313131314
+South Africa,Biomass and waste,3.0,0.0012626262626262586
+South Africa,Geothermal,3.0,0.0
+South Africa,"Solar, tide, wave, fuel cell",3.0,0.013888888888888885
+South Africa,Wind,0.0,0.02146464646464646
+South Africa,Hydroelectricity,2.0,0.003787878787878788
+South Africa,Fossil fuels,1.0,0.8964646464646465
+South Africa,Renewable,1.0,0.0404040404040404
+South Africa,Non-hydro renewable,2.0,0.036616161616161616
+South Africa,Total Electricity net generation,0.0,0.9932659932659933
+South Africa,Hydroelectric pumped storage,1.0,-0.006734006734006735
+Portugal,Tide and wave,4.0,0.0
+Portugal,Solar,4.0,0.018018018018018018
+Portugal,Fossil fuels,1.0,0.5945945945945946
+Portugal,Nuclear,1.0,0.0
+Portugal,Wind,0.0,0.21621621621621623
+Portugal,"Solar, tide, wave, fuel cell",3.0,0.018018018018018018
+Portugal,Biomass and waste,3.0,0.06306306306306306
+Portugal,Geothermal,3.0,0.0036036036036036037
+Portugal,Non-hydro renewable,2.0,0.3063063063063063
+Portugal,Hydroelectricity,2.0,0.10450450450450449
+Portugal,Renewable,1.0,0.4144144144144144
+Portugal,Total Electricity net generation,0.0,0.990990990990991
+Portugal,Hydroelectric pumped storage,1.0,-0.009009009009009009
+India,Solar,4.0,0.01808066759388039
+India,Tide and wave,4.0,0.0
+India,Nuclear,1.0,0.024339360222531293
+India,Fossil fuels,1.0,0.803894297635605
+India,Wind,0.0,0.03546592489568846
+India,"Solar, tide, wave, fuel cell",3.0,0.01808066759388039
+India,Geothermal,3.0,0.0
+India,Non-hydro renewable,2.0,0.08553546592489569
+India,Hydroelectricity,2.0,0.08692628650904033
+India,Renewable,1.0,0.17246175243393602
+India,Total Electricity net generation,0.0,1.0
+India,Biomass and waste,3.0,0.03129346314325452
+India,Hydroelectric pumped storage,1.0,0.0
+Chad,Tide and wave,4.0,0.0
+Chad,Solar,4.0,0.0
+Chad,Fossil fuels,1.0,1.0
+Chad,Nuclear,1.0,0.0
+Chad,Wind,0.0,0.0
+Chad,Biomass and waste,3.0,0.0
+Chad,Geothermal,3.0,0.0
+Chad,"Solar, tide, wave, fuel cell",3.0,0.0
+Chad,Non-hydro renewable,2.0,0.0
+Chad,Hydroelectricity,2.0,0.0
+Chad,Renewable,1.0,0.0
+Chad,Total Electricity net generation,0.0,1.0
+Chad,Hydroelectric pumped storage,1.0,0.0
+France,Solar,4.0,0.01791044776119403
+France,Tide and wave,4.0,0.002238805970149254
+France,Nuclear,1.0,0.7126865671641791
+France,Fossil fuels,1.0,0.11007462686567164
+France,"Solar, tide, wave, fuel cell",3.0,0.020522388059701493
+France,Wind,0.0,0.04664179104477612
+France,Geothermal,3.0,0.00018656716417910448
+France,Biomass and waste,3.0,0.018656716417910446
+France,Non-hydro renewable,2.0,0.08582089552238806
+France,Renewable,1.0,0.17723880597014927
+France,Hydroelectricity,2.0,0.0914179104477612
+France,Total Electricity net generation,0.0,0.996268656716418
+France,Hydroelectric pumped storage,1.0,-0.0037313432835820895
+Lebanon,Solar,4.0,0.0
+Lebanon,Tide and wave,4.0,0.0
+Lebanon,Nuclear,1.0,0.0
+Lebanon,Fossil fuels,1.0,1.0
+Lebanon,Wind,0.0,0.0
+Lebanon,"Solar, tide, wave, fuel cell",3.0,0.0
+Lebanon,Geothermal,3.0,0.0
+Lebanon,Hydroelectricity,2.0,0.015789473684210475
+Lebanon,Renewable,1.0,0.021052631578947368
+Lebanon,Non-hydro renewable,2.0,0.0
+Lebanon,Total Electricity net generation,0.0,1.0
+Lebanon,Biomass and waste,3.0,0.0
+Lebanon,Hydroelectric pumped storage,1.0,0.0
+Gibraltar,Solar,4.0,0.0
+Gibraltar,Tide and wave,4.0,0.0
+Gibraltar,Nuclear,1.0,0.0
+Gibraltar,Fossil fuels,1.0,1.0
+Gibraltar,"Solar, tide, wave, fuel cell",3.0,0.0
+Gibraltar,Wind,0.0,0.0
+Gibraltar,Geothermal,3.0,0.0
+Gibraltar,Biomass and waste,3.0,0.0
+Gibraltar,Non-hydro renewable,2.0,0.0
+Gibraltar,Renewable,1.0,0.0
+Gibraltar,Hydroelectricity,2.0,0.0
+Gibraltar,Total Electricity net generation,0.0,1.0
+Gibraltar,Hydroelectric pumped storage,1.0,0.0
+Brunei,Tide and wave,4.0,0.0
+Brunei,Solar,4.0,0.0
+Brunei,Fossil fuels,1.0,1.0
+Brunei,Geothermal,3.0,0.0
+Brunei,Biomass and waste,3.0,0.0
+Brunei,Hydroelectricity,2.0,0.0
+Brunei,Nuclear,1.0,0.0
+Brunei,Renewable,1.0,0.0
+Brunei,Non-hydro renewable,2.0,0.0
+Brunei,Total Electricity net generation,0.0,1.0
+Brunei,"Solar, tide, wave, fuel cell",3.0,0.0
+Brunei,Wind,0.0,0.0
+Brunei,Hydroelectric pumped storage,1.0,0.0
+Iceland,Solar,4.0,0.0
+Iceland,Tide and wave,4.0,0.0
+Iceland,Nuclear,1.0,0.0
+Iceland,Fossil fuels,1.0,0.0
+Iceland,"Solar, tide, wave, fuel cell",3.0,0.0
+Iceland,Wind,0.0,0.0
+Iceland,Geothermal,3.0,0.2578947368421053
+Iceland,Non-hydro renewable,2.0,0.2631578947368421
+Iceland,Hydroelectricity,2.0,0.7368421052631579
+Iceland,Renewable,1.0,1.0
+Iceland,Total Electricity net generation,0.0,1.0
+Iceland,Biomass and waste,3.0,0.0
+Iceland,Hydroelectric pumped storage,1.0,0.0
+Tanzania,Tide and wave,4.0,0.0
+Tanzania,Solar,4.0,0.0
+Tanzania,Fossil fuels,1.0,0.6973684210526315
+Tanzania,Nuclear,1.0,0.0
+Tanzania,Wind,0.0,0.0
+Tanzania,"Solar, tide, wave, fuel cell",3.0,0.0
+Tanzania,Biomass and waste,3.0,0.0
+Tanzania,Geothermal,3.0,0.0
+Tanzania,Renewable,1.0,0.31578947368421045
+Tanzania,Non-hydro renewable,2.0,0.0
+Tanzania,Hydroelectricity,2.0,0.3026315789473683
+Tanzania,Total Electricity net generation,0.0,1.0
+Tanzania,Hydroelectric pumped storage,1.0,0.0
+Denmark,Tide and wave,4.0,0.0
+Denmark,Solar,4.0,0.025806451612903226
+Denmark,Fossil fuels,1.0,0.25483870967741934
+Denmark,Biomass and waste,3.0,0.22903225806451608
+Denmark,Geothermal,3.0,0.0
+Denmark,Nuclear,1.0,0.0
+Denmark,Hydroelectricity,2.0,0.0
+Denmark,Renewable,1.0,0.7419354838709677
+Denmark,Non-hydro renewable,2.0,0.7419354838709677
+Denmark,Total Electricity net generation,0.0,1.0
+Denmark,"Solar, tide, wave, fuel cell",3.0,0.025806451612903226
+Denmark,Wind,0.0,0.4838709677419355
+Denmark,Hydroelectric pumped storage,1.0,0.0
+Brazil,Tide and wave,4.0,0.0
+Brazil,Solar,4.0,0.0013840830449826991
+Brazil,Fossil fuels,1.0,0.17301038062283736
+Brazil,Biomass and waste,3.0,0.08996539792387544
+Brazil,Geothermal,3.0,0.0
+Brazil,Hydroelectricity,2.0,0.6349480968858131
+Brazil,Renewable,1.0,0.801038062283737
+Brazil,Nuclear,1.0,0.025951557093425604
+Brazil,Non-hydro renewable,2.0,0.1643598615916955
+Brazil,Total Electricity net generation,0.0,1.0
+Brazil,"Solar, tide, wave, fuel cell",3.0,0.0013840830449826991
+Brazil,Wind,0.0,0.0726643598615917
+Brazil,Hydroelectric pumped storage,1.0,0.0
+Netherlands,Tide and wave,4.0,0.0009009009009009009
+Netherlands,Solar,4.0,0.019819819819819822
+Netherlands,Fossil fuels,1.0,0.8018018018018018
+Netherlands,Nuclear,1.0,0.02972972972972972
+Netherlands,"Solar, tide, wave, fuel cell",3.0,0.02072072072072071
+Netherlands,Biomass and waste,3.0,0.056756756756756746
+Netherlands,Geothermal,3.0,0.0
+Netherlands,Wind,0.0,0.0990990990990991
+Netherlands,Hydroelectricity,2.0,0.0
+Netherlands,Renewable,1.0,0.17117117117117117
+Netherlands,Non-hydro renewable,2.0,0.17117117117117117
+Netherlands,Total Electricity net generation,0.0,1.0
+Netherlands,Hydroelectric pumped storage,1.0,0.0
+Chile,Tide and wave,4.0,0.0
+Chile,Solar,4.0,0.04999999999999999
+Chile,Fossil fuels,1.0,0.5526315789473685
+Chile,Geothermal,3.0,0.0
+Chile,Biomass and waste,3.0,0.08026315789473683
+Chile,Hydroelectricity,2.0,0.27631578947368424
+Chile,Nuclear,1.0,0.0
+Chile,Renewable,1.0,0.4473684210526316
+Chile,Non-hydro renewable,2.0,0.17105263157894737
+Chile,Total Electricity net generation,0.0,1.0
+Chile,"Solar, tide, wave, fuel cell",3.0,0.04999999999999999
+Chile,Wind,0.0,0.046052631578947366
+Chile,Hydroelectric pumped storage,1.0,0.0
+Benin,Tide and wave,4.0,0.0
+Benin,Solar,4.0,0.0
+Benin,Fossil fuels,1.0,1.0
+Benin,Biomass and waste,3.0,0.0
+Benin,Renewable,1.0,0.0
+Benin,Geothermal,3.0,0.0
+Benin,Hydroelectricity,2.0,0.0
+Benin,Non-hydro renewable,2.0,0.0
+Benin,Nuclear,1.0,0.0
+Benin,Total Electricity net generation,0.0,1.0
+Benin,"Solar, tide, wave, fuel cell",3.0,0.0
+Benin,Wind,0.0,0.0
+Benin,Hydroelectric pumped storage,1.0,0.0
+Armenia,Tide and wave,4.0,0.0
+Armenia,Solar,4.0,0.0
+Armenia,Fossil fuels,1.0,0.36486486486486486
+Armenia,Biomass and waste,3.0,0.0
+Armenia,Wind,0.0,0.0
+Armenia,"Solar, tide, wave, fuel cell",3.0,0.0
+Armenia,Renewable,1.0,0.31081081081081063
+Armenia,Hydroelectricity,2.0,0.2972972972972973
+Armenia,Geothermal,3.0,0.0
+Armenia,Non-hydro renewable,2.0,0.0
+Armenia,Nuclear,1.0,0.3243243243243242
+Armenia,Total Electricity net generation,0.0,1.0
+Armenia,Hydroelectric pumped storage,1.0,0.0
+Angola,Tide and wave,4.0,0.0
+Angola,Solar,4.0,0.0
+Angola,Fossil fuels,1.0,0.26363636363636356
+Angola,Wind,0.0,0.0
+Angola,Biomass and waste,3.0,0.018181818181818184
+Angola,"Solar, tide, wave, fuel cell",3.0,0.0
+Angola,Hydroelectricity,2.0,0.6909090909090908
+Angola,Renewable,1.0,0.709090909090909
+Angola,Geothermal,3.0,0.0
+Angola,Non-hydro renewable,2.0,0.018181818181818184
+Angola,Nuclear,1.0,0.0
+Angola,Total Electricity net generation,0.0,1.0
+Angola,Hydroelectric pumped storage,1.0,0.0
+Austria,Tide and wave,4.0,0.0
+Austria,Solar,4.0,0.018838304552590265
+Austria,Fossil fuels,1.0,0.23547880690737832
+Austria,Biomass and waste,3.0,0.08634222919937205
+Austria,Wind,0.0,0.09733124018838304
+Austria,"Solar, tide, wave, fuel cell",3.0,0.018838304552590265
+Austria,Renewable,1.0,0.7692307692307692
+Austria,Geothermal,3.0,0.0
+Austria,Hydroelectricity,2.0,0.5651491365777079
+Austria,Non-hydro renewable,2.0,0.20408163265306123
+Austria,Nuclear,1.0,0.0
+Austria,Total Electricity net generation,0.0,0.9733124018838304
+Austria,Hydroelectric pumped storage,1.0,-0.026687598116169546
+Jamaica,Solar,4.0,0.0
+Jamaica,Tide and wave,4.0,0.0
+Jamaica,Nuclear,1.0,0.0
+Jamaica,Fossil fuels,1.0,0.8095238095238093
+Jamaica,"Solar, tide, wave, fuel cell",3.0,0.0
+Jamaica,Wind,0.0,0.0714285714285712
+Jamaica,Geothermal,3.0,0.0
+Jamaica,Hydroelectricity,2.0,0.047619047619047616
+Jamaica,Non-hydro renewable,2.0,0.14285714285714263
+Jamaica,Renewable,1.0,0.16666666666666644
+Jamaica,Total Electricity net generation,0.0,1.0
+Jamaica,Biomass and waste,3.0,0.0714285714285712
+Jamaica,Hydroelectric pumped storage,1.0,0.0
+Saint Kitts and Nevis,Solar,4.0,0.0
+Saint Kitts and Nevis,Tide and wave,4.0,0.0
+Saint Kitts and Nevis,Nuclear,1.0,0.0
+Saint Kitts and Nevis,Fossil fuels,1.0,1.0
+Saint Kitts and Nevis,Wind,0.0,0.0
+Saint Kitts and Nevis,"Solar, tide, wave, fuel cell",3.0,0.0
+Saint Kitts and Nevis,Geothermal,3.0,0.0
+Saint Kitts and Nevis,Hydroelectricity,2.0,0.0
+Saint Kitts and Nevis,Renewable,1.0,0.0
+Saint Kitts and Nevis,Non-hydro renewable,2.0,0.0
+Saint Kitts and Nevis,Total Electricity net generation,0.0,1.0
+Saint Kitts and Nevis,Biomass and waste,3.0,0.0
+Saint Kitts and Nevis,Hydroelectric pumped storage,1.0,0.0
+Qatar,Tide and wave,4.0,0.0
+Qatar,Solar,4.0,0.0
+Qatar,Fossil fuels,1.0,1.0
+Qatar,Nuclear,1.0,0.0
+Qatar,Wind,0.0,0.0
+Qatar,"Solar, tide, wave, fuel cell",3.0,0.0
+Qatar,Biomass and waste,3.0,0.002325581395348837
+Qatar,Geothermal,3.0,0.0
+Qatar,Non-hydro renewable,2.0,0.002325581395348837
+Qatar,Hydroelectricity,2.0,0.0
+Qatar,Renewable,1.0,0.002325581395348837
+Qatar,Total Electricity net generation,0.0,1.0
+Qatar,Hydroelectric pumped storage,1.0,0.0
+Albania,Tide and wave,4.0,0.0
+Albania,Solar,4.0,0.0
+Albania,Fossil fuels,1.0,0.0
+Albania,Biomass and waste,3.0,0.0
+Albania,Wind,0.0,0.0
+Albania,"Solar, tide, wave, fuel cell",3.0,0.0
+Albania,Hydroelectricity,2.0,1.0
+Albania,Renewable,1.0,1.0
+Albania,Geothermal,3.0,0.0
+Albania,Non-hydro renewable,2.0,0.0
+Albania,Nuclear,1.0,0.0
+Albania,Total Electricity net generation,0.0,1.0
+Albania,Hydroelectric pumped storage,1.0,0.0
+Sao Tome and Principe,Tide and wave,4.0,0.0
+Sao Tome and Principe,Solar,4.0,0.0
+Sao Tome and Principe,Fossil fuels,1.0,0.0
+Sao Tome and Principe,Nuclear,1.0,0.0
+Sao Tome and Principe,Wind,0.0,0.0
+Sao Tome and Principe,"Solar, tide, wave, fuel cell",3.0,0.0
+Sao Tome and Principe,Biomass and waste,3.0,0.0
+Sao Tome and Principe,Geothermal,3.0,0.0
+Sao Tome and Principe,Non-hydro renewable,2.0,0.0
+Sao Tome and Principe,Hydroelectricity,2.0,0.0
+Sao Tome and Principe,Renewable,1.0,0.0
+Sao Tome and Principe,Total Electricity net generation,0.0,0.0
+Sao Tome and Principe,Hydroelectric pumped storage,1.0,0.0
+Sweden,Tide and wave,4.0,0.0
+Sweden,Solar,4.0,0.0012422360248447205
+Sweden,Fossil fuels,1.0,0.010559006211180125
+Sweden,Nuclear,1.0,0.391304347826087
+Sweden,Wind,0.0,0.11180124223602485
+Sweden,"Solar, tide, wave, fuel cell",3.0,0.0012422360248447205
+Sweden,Biomass and waste,3.0,0.08695652173913043
+Sweden,Geothermal,3.0,0.0
+Sweden,Non-hydro renewable,2.0,0.19875776397515527
+Sweden,Hydroelectricity,2.0,0.40372670807453415
+Sweden,Renewable,1.0,0.5962732919254659
+Sweden,Total Electricity net generation,0.0,1.0
+Sweden,Hydroelectric pumped storage,1.0,0.0
+Macau,Tide and wave,4.0,0.0
+Macau,Solar,4.0,0.0
+Macau,Nuclear,1.0,0.0
+Macau,Fossil fuels,1.0,1.0
+Macau,Wind,0.0,0.0
+Macau,"Solar, tide, wave, fuel cell",3.0,0.0
+Macau,Geothermal,3.0,0.0
+Macau,Hydroelectricity,2.0,0.0
+Macau,Renewable,1.0,0.0
+Macau,Non-hydro renewable,2.0,0.0
+Macau,Total Electricity net generation,0.0,1.0
+Macau,Biomass and waste,3.0,0.0
+Macau,Hydroelectric pumped storage,1.0,0.0
+U.S. Pacific Islands,Tide and wave,4.0,0.0
+U.S. Pacific Islands,Solar,4.0,0.0
+U.S. Pacific Islands,Nuclear,1.0,0.0
+U.S. Pacific Islands,Fossil fuels,1.0,1.0
+U.S. Pacific Islands,Wind,0.0,0.0
+U.S. Pacific Islands,"Solar, tide, wave, fuel cell",3.0,0.0
+U.S. Pacific Islands,Biomass and waste,3.0,0.0
+U.S. Pacific Islands,Geothermal,3.0,0.0
+U.S. Pacific Islands,Renewable,1.0,0.0
+U.S. Pacific Islands,Non-hydro renewable,2.0,0.0
+U.S. Pacific Islands,Hydroelectricity,2.0,0.0
+U.S. Pacific Islands,Total Electricity net generation,0.0,1.0
+U.S. Pacific Islands,Hydroelectric pumped storage,1.0,0.0
+Faroe Islands,Solar,4.0,0.0
+Faroe Islands,Tide and wave,4.0,0.0
+Faroe Islands,Nuclear,1.0,0.0
+Faroe Islands,Fossil fuels,1.0,0.6666666666666689
+Faroe Islands,"Solar, tide, wave, fuel cell",3.0,0.0
+Faroe Islands,Wind,0.0,0.0
+Faroe Islands,Geothermal,3.0,0.0
+Faroe Islands,Biomass and waste,3.0,0.0
+Faroe Islands,Non-hydro renewable,2.0,0.0
+Faroe Islands,Renewable,1.0,0.6666666666666689
+Faroe Islands,Hydroelectricity,2.0,0.3333333333333344
+Faroe Islands,Total Electricity net generation,0.0,1.0
+Faroe Islands,Hydroelectric pumped storage,1.0,0.0
+Jordan,Solar,4.0,0.045
+Jordan,Tide and wave,4.0,0.0
+Jordan,Nuclear,1.0,0.0
+Jordan,Fossil fuels,1.0,0.9
+Jordan,"Solar, tide, wave, fuel cell",3.0,0.045
+Jordan,Wind,0.0,0.025
+Jordan,Geothermal,3.0,0.0
+Jordan,Hydroelectricity,2.0,0.0
+Jordan,Non-hydro renewable,2.0,0.065
+Jordan,Renewable,1.0,0.06999999999999995
+Jordan,Total Electricity net generation,0.0,1.0
+Jordan,Biomass and waste,3.0,0.0
+Jordan,Hydroelectric pumped storage,1.0,0.0
+Kyrgyzstan,Solar,4.0,0.0
+Kyrgyzstan,Tide and wave,4.0,0.0
+Kyrgyzstan,Nuclear,1.0,0.0
+Kyrgyzstan,Fossil fuels,1.0,0.08
+Kyrgyzstan,Wind,0.0,0.0
+Kyrgyzstan,"Solar, tide, wave, fuel cell",3.0,0.0
+Kyrgyzstan,Geothermal,3.0,0.0
+Kyrgyzstan,Hydroelectricity,2.0,0.9333333333333333
+Kyrgyzstan,Renewable,1.0,0.9333333333333333
+Kyrgyzstan,Non-hydro renewable,2.0,0.0
+Kyrgyzstan,Total Electricity net generation,0.0,1.0
+Kyrgyzstan,Biomass and waste,3.0,0.0
+Kyrgyzstan,Hydroelectric pumped storage,1.0,0.0
+Côte d’Ivoire,Tide and wave,4.0,0.0
+Côte d’Ivoire,Solar,4.0,0.0
+Côte d’Ivoire,Fossil fuels,1.0,0.8247422680412372
+Côte d’Ivoire,Geothermal,3.0,0.0
+Côte d’Ivoire,Biomass and waste,3.0,0.02061855670103093
+Côte d’Ivoire,Hydroelectricity,2.0,0.15463917525773196
+Côte d’Ivoire,Nuclear,1.0,0.0
+Côte d’Ivoire,Renewable,1.0,0.17525773195876293
+Côte d’Ivoire,Non-hydro renewable,2.0,0.02061855670103093
+Côte d’Ivoire,Total Electricity net generation,0.0,1.0
+Côte d’Ivoire,"Solar, tide, wave, fuel cell",3.0,0.0
+Côte d’Ivoire,Wind,0.0,0.0
+Côte d’Ivoire,Hydroelectric pumped storage,1.0,0.0
+Wake Island,Tide and wave,4.0,0.0
+Wake Island,Solar,4.0,0.0
+Wake Island,Nuclear,1.0,0.0
+Wake Island,Fossil fuels,1.0,0.0
+Wake Island,"Solar, tide, wave, fuel cell",3.0,0.0
+Wake Island,Wind,0.0,0.0
+Wake Island,Biomass and waste,3.0,0.0
+Wake Island,Geothermal,3.0,0.0
+Wake Island,Hydroelectricity,2.0,0.0
+Wake Island,Renewable,1.0,0.0
+Wake Island,Non-hydro renewable,2.0,0.0
+Wake Island,Total Electricity net generation,0.0,0.0
+Wake Island,Hydroelectric pumped storage,1.0,0.0
+Turks and Caicos Islands,Tide and wave,4.0,0.0
+Turks and Caicos Islands,Solar,4.0,0.0
+Turks and Caicos Islands,Fossil fuels,1.0,1.0
+Turks and Caicos Islands,Nuclear,1.0,0.0
+Turks and Caicos Islands,Wind,0.0,0.0
+Turks and Caicos Islands,Biomass and waste,3.0,0.0
+Turks and Caicos Islands,Geothermal,3.0,0.0
+Turks and Caicos Islands,"Solar, tide, wave, fuel cell",3.0,0.0
+Turks and Caicos Islands,Non-hydro renewable,2.0,0.0
+Turks and Caicos Islands,Hydroelectricity,2.0,0.0
+Turks and Caicos Islands,Renewable,1.0,0.0
+Turks and Caicos Islands,Total Electricity net generation,0.0,1.0
+Turks and Caicos Islands,Hydroelectric pumped storage,1.0,0.0
+Syria,Tide and wave,4.0,0.0
+Syria,Solar,4.0,0.0
+Syria,Fossil fuels,1.0,0.9411764705882353
+Syria,Nuclear,1.0,0.0
+Syria,Wind,0.0,0.0
+Syria,Biomass and waste,3.0,0.0
+Syria,Geothermal,3.0,0.0
+Syria,"Solar, tide, wave, fuel cell",3.0,0.0
+Syria,Non-hydro renewable,2.0,0.0
+Syria,Hydroelectricity,2.0,0.04117647058823524
+Syria,Renewable,1.0,0.047058823529411764
+Syria,Total Electricity net generation,0.0,1.0
+Syria,Hydroelectric pumped storage,1.0,0.0
+Eswatini,Tide and wave,4.0,0.0
+Eswatini,Solar,4.0,0.0
+Eswatini,Fossil fuels,1.0,0.49999999999999917
+Eswatini,Nuclear,1.0,0.0
+Eswatini,Wind,0.0,0.0
+Eswatini,"Solar, tide, wave, fuel cell",3.0,0.0
+Eswatini,Biomass and waste,3.0,0.33333333333333387
+Eswatini,Geothermal,3.0,0.0
+Eswatini,Non-hydro renewable,2.0,0.33333333333333387
+Eswatini,Hydroelectricity,2.0,0.16666666666666693
+Eswatini,Renewable,1.0,0.49999999999999917
+Eswatini,Total Electricity net generation,0.0,1.0
+Eswatini,Hydroelectric pumped storage,1.0,0.0
+Spain,Tide and wave,4.0,0.0
+Spain,Solar,4.0,0.05355776587605203
+Spain,Fossil fuels,1.0,0.4552410099464423
+Spain,"Solar, tide, wave, fuel cell",3.0,0.05355776587605203
+Spain,Geothermal,3.0,0.0
+Spain,Biomass and waste,3.0,0.02639632746748279
+Spain,Hydroelectricity,2.0,0.06885998469778118
+Spain,Renewable,1.0,0.33282325937260904
+Spain,Non-hydro renewable,2.0,0.2639632746748279
+Spain,Total Electricity net generation,0.0,0.9946442234123949
+Spain,Nuclear,1.0,0.21423106350420812
+Spain,Wind,0.0,0.18362662586074982
+Spain,Hydroelectric pumped storage,1.0,-0.005355776587605199
+Rwanda,Tide and wave,4.0,0.0
+Rwanda,Solar,4.0,0.0
+Rwanda,Fossil fuels,1.0,0.5714285714285722
+Rwanda,Nuclear,1.0,0.0
+Rwanda,Wind,0.0,0.0
+Rwanda,"Solar, tide, wave, fuel cell",3.0,0.0
+Rwanda,Biomass and waste,3.0,0.0
+Rwanda,Geothermal,3.0,0.0
+Rwanda,Non-hydro renewable,2.0,0.0
+Rwanda,Hydroelectricity,2.0,0.42857142857142777
+Rwanda,Renewable,1.0,0.42857142857142777
+Rwanda,Total Electricity net generation,0.0,1.0
+Rwanda,Hydroelectric pumped storage,1.0,0.0
+New Caledonia,Tide and wave,4.0,0.0
+New Caledonia,Solar,4.0,0.0
+New Caledonia,Fossil fuels,1.0,0.8666666666666667
+New Caledonia,Nuclear,1.0,0.0
+New Caledonia,"Solar, tide, wave, fuel cell",3.0,0.0
+New Caledonia,Biomass and waste,3.0,0.0
+New Caledonia,Geothermal,3.0,0.0
+New Caledonia,Wind,0.0,0.0
+New Caledonia,Hydroelectricity,2.0,0.13333333333333333
+New Caledonia,Renewable,1.0,0.13333333333333333
+New Caledonia,Non-hydro renewable,2.0,0.0
+New Caledonia,Total Electricity net generation,0.0,1.0
+New Caledonia,Hydroelectric pumped storage,1.0,0.0
+Egypt,Tide and wave,4.0,0.0
+Egypt,Solar,4.0,0.001098901098901099
+Egypt,Fossil fuels,1.0,0.9120879120879121
+Egypt,Geothermal,3.0,0.0
+Egypt,Biomass and waste,3.0,0.0016483516483516431
+Egypt,Hydroelectricity,2.0,0.07142857142857142
+Egypt,Renewable,1.0,0.08791208791208792
+Egypt,Non-hydro renewable,2.0,0.017032967032967035
+Egypt,Total Electricity net generation,0.0,1.0
+Egypt,Nuclear,1.0,0.0
+Egypt,"Solar, tide, wave, fuel cell",3.0,0.001098901098901099
+Egypt,Wind,0.0,0.014285714285714287
+Egypt,Hydroelectric pumped storage,1.0,0.0
+Comoros,Tide and wave,4.0,0.0
+Comoros,Solar,4.0,0.0
+Comoros,Fossil fuels,1.0,0.0
+Comoros,Geothermal,3.0,0.0
+Comoros,Biomass and waste,3.0,0.0
+Comoros,Nuclear,1.0,0.0
+Comoros,Renewable,1.0,0.0
+Comoros,Hydroelectricity,2.0,0.0
+Comoros,Non-hydro renewable,2.0,0.0
+Comoros,Total Electricity net generation,0.0,0.0
+Comoros,"Solar, tide, wave, fuel cell",3.0,0.0
+Comoros,Wind,0.0,0.0
+Comoros,Hydroelectric pumped storage,1.0,0.0
+Kosovo,Tide and wave,4.0,0.0
+Kosovo,Solar,4.0,0.0
+Kosovo,Fossil fuels,1.0,0.9642857142857145
+Kosovo,Nuclear,1.0,0.0
+Kosovo,Wind,0.0,0.0
+Kosovo,"Solar, tide, wave, fuel cell",3.0,0.0
+Kosovo,Biomass and waste,3.0,0.0
+Kosovo,Geothermal,3.0,0.0
+Kosovo,Renewable,1.0,0.035714285714285726
+Kosovo,Non-hydro renewable,2.0,0.0
+Kosovo,Hydroelectricity,2.0,0.035714285714285726
+Kosovo,Total Electricity net generation,0.0,1.0
+Kosovo,Hydroelectric pumped storage,1.0,0.0
+Bahrain,Tide and wave,4.0,0.0
+Bahrain,Solar,4.0,0.0
+Bahrain,Fossil fuels,1.0,1.0
+Bahrain,Biomass and waste,3.0,0.0
+Bahrain,Geothermal,3.0,0.0
+Bahrain,Renewable,1.0,0.0
+Bahrain,Hydroelectricity,2.0,0.0
+Bahrain,Non-hydro renewable,2.0,0.0
+Bahrain,Nuclear,1.0,0.0
+Bahrain,Total Electricity net generation,0.0,1.0
+Bahrain,"Solar, tide, wave, fuel cell",3.0,0.0
+Bahrain,Wind,0.0,0.0
+Bahrain,Hydroelectric pumped storage,1.0,0.0
+Tonga,Tide and wave,4.0,0.0
+Tonga,Solar,4.0,0.0
+Tonga,Fossil fuels,1.0,0.0
+Tonga,Nuclear,1.0,0.0
+Tonga,Wind,0.0,0.0
+Tonga,"Solar, tide, wave, fuel cell",3.0,0.0
+Tonga,Biomass and waste,3.0,0.0
+Tonga,Geothermal,3.0,0.0
+Tonga,Non-hydro renewable,2.0,0.0
+Tonga,Hydroelectricity,2.0,0.0
+Tonga,Renewable,1.0,0.0
+Tonga,Total Electricity net generation,0.0,0.0
+Tonga,Hydroelectric pumped storage,1.0,0.0
+Venezuela,Tide and wave,4.0,0.0
+Venezuela,Solar,4.0,0.0
+Venezuela,Nuclear,1.0,0.0
+Venezuela,Fossil fuels,1.0,0.38461538461538464
+Venezuela,Wind,0.0,0.0
+Venezuela,"Solar, tide, wave, fuel cell",3.0,0.0
+Venezuela,Biomass and waste,3.0,0.0
+Venezuela,Geothermal,3.0,0.0
+Venezuela,Renewable,1.0,0.6153846153846154
+Venezuela,Non-hydro renewable,2.0,0.0
+Venezuela,Hydroelectricity,2.0,0.6153846153846154
+Venezuela,Total Electricity net generation,0.0,1.0
+Venezuela,Hydroelectric pumped storage,1.0,0.0
+Argentina,Tide and wave,4.0,0.0
+Argentina,Solar,4.0,0.0
+Argentina,Fossil fuels,1.0,0.6584659913169321
+Argentina,Biomass and waste,3.0,0.01519536903039074
+Argentina,Wind,0.0,0.004341534008683061
+Argentina,"Solar, tide, wave, fuel cell",3.0,0.0
+Argentina,Hydroelectricity,2.0,0.28219971056439946
+Argentina,Renewable,1.0,0.3039073806078148
+Argentina,Geothermal,3.0,0.0
+Argentina,Non-hydro renewable,2.0,0.019536903039073808
+Argentina,Nuclear,1.0,0.041244573082489154
+Argentina,Total Electricity net generation,0.0,0.9985528219971057
+Argentina,Hydroelectric pumped storage,1.0,-0.0014471780028943561
+Antigua and Barbuda,Tide and wave,4.0,0.0
+Antigua and Barbuda,Solar,4.0,0.0
+Antigua and Barbuda,Fossil fuels,1.0,1.0
+Antigua and Barbuda,Biomass and waste,3.0,0.0
+Antigua and Barbuda,Wind,0.0,0.0
+Antigua and Barbuda,"Solar, tide, wave, fuel cell",3.0,0.0
+Antigua and Barbuda,Renewable,1.0,0.0
+Antigua and Barbuda,Hydroelectricity,2.0,0.0
+Antigua and Barbuda,Geothermal,3.0,0.0
+Antigua and Barbuda,Non-hydro renewable,2.0,0.0
+Antigua and Barbuda,Nuclear,1.0,0.0
+Antigua and Barbuda,Total Electricity net generation,0.0,1.0
+Antigua and Barbuda,Hydroelectric pumped storage,1.0,0.0
+Latvia,Solar,4.0,0.0
+Latvia,Tide and wave,4.0,0.0
+Latvia,Nuclear,1.0,0.0
+Latvia,Fossil fuels,1.0,0.25675675675675663
+Latvia,Wind,0.0,0.013513513513513514
+Latvia,"Solar, tide, wave, fuel cell",3.0,0.0
+Latvia,Geothermal,3.0,0.0
+Latvia,Hydroelectricity,2.0,0.5945945945945946
+Latvia,Renewable,1.0,0.7297297297297297
+Latvia,Non-hydro renewable,2.0,0.14864864864864866
+Latvia,Total Electricity net generation,0.0,1.0
+Latvia,Biomass and waste,3.0,0.12162162162162161
+Latvia,Hydroelectric pumped storage,1.0,0.0
+Pakistan,Tide and wave,4.0,0.0
+Pakistan,Solar,4.0,0.007142857142857143
+Pakistan,Fossil fuels,1.0,0.6666666666666666
+Pakistan,Nuclear,1.0,0.06428571428571428
+Pakistan,Wind,0.0,0.016666666666666666
+Pakistan,"Solar, tide, wave, fuel cell",3.0,0.007142857142857143
+Pakistan,Biomass and waste,3.0,0.024603174603174603
+Pakistan,Geothermal,3.0,0.0
+Pakistan,Hydroelectricity,2.0,0.2222222222222222
+Pakistan,Renewable,1.0,0.2698412698412698
+Pakistan,Non-hydro renewable,2.0,0.0484126984126984
+Pakistan,Total Electricity net generation,0.0,1.0
+Pakistan,Hydroelectric pumped storage,1.0,0.0
+Belgium,Tide and wave,4.0,0.0
+Belgium,Solar,4.0,0.04054054054054052
+Belgium,Fossil fuels,1.0,0.29484029484029484
+Belgium,Biomass and waste,3.0,0.08845208845208845
+Belgium,Renewable,1.0,0.20884520884520882
+Belgium,Geothermal,3.0,0.0
+Belgium,Hydroelectricity,2.0,0.0036855036855036735
+Belgium,Non-hydro renewable,2.0,0.20884520884520882
+Belgium,Nuclear,1.0,0.49140049140049136
+Belgium,Total Electricity net generation,0.0,0.995085995085995
+Belgium,Wind,0.0,0.07862407862407862
+Belgium,"Solar, tide, wave, fuel cell",3.0,0.04054054054054052
+Belgium,Hydroelectric pumped storage,1.0,-0.004914004914004914
+Singapore,Tide and wave,4.0,0.0
+Singapore,Solar,4.0,0.004081632653061225
+Singapore,Fossil fuels,1.0,0.9795918367346939
+Singapore,Nuclear,1.0,0.0
+Singapore,Wind,0.0,0.0
+Singapore,"Solar, tide, wave, fuel cell",3.0,0.004081632653061225
+Singapore,Biomass and waste,3.0,0.030612244897959183
+Singapore,Geothermal,3.0,0.0
+Singapore,Non-hydro renewable,2.0,0.0326530612244898
+Singapore,Hydroelectricity,2.0,0.0
+Singapore,Renewable,1.0,0.0326530612244898
+Singapore,Total Electricity net generation,0.0,1.0
+Singapore,Hydroelectric pumped storage,1.0,0.0
+Bhutan,Tide and wave,4.0,0.0
+Bhutan,Solar,4.0,0.0
+Bhutan,Fossil fuels,1.0,0.0
+Bhutan,Geothermal,3.0,0.0
+Bhutan,Biomass and waste,3.0,0.0
+Bhutan,Hydroelectricity,2.0,1.0
+Bhutan,Nuclear,1.0,0.0
+Bhutan,Renewable,1.0,1.0
+Bhutan,Non-hydro renewable,2.0,0.0
+Bhutan,Total Electricity net generation,0.0,1.0
+Bhutan,"Solar, tide, wave, fuel cell",3.0,0.0
+Bhutan,Wind,0.0,0.0
+Bhutan,Hydroelectric pumped storage,1.0,0.0
+Madagascar,Tide and wave,4.0,0.0
+Madagascar,Solar,4.0,0.0
+Madagascar,Nuclear,1.0,0.0
+Madagascar,Fossil fuels,1.0,0.47058823529411764
+Madagascar,Geothermal,3.0,0.0
+Madagascar,Wind,0.0,0.0
+Madagascar,"Solar, tide, wave, fuel cell",3.0,0.0
+Madagascar,Hydroelectricity,2.0,0.5294117647058824
+Madagascar,Renewable,1.0,0.5294117647058824
+Madagascar,Non-hydro renewable,2.0,0.0
+Madagascar,Total Electricity net generation,0.0,1.0
+Madagascar,Biomass and waste,3.0,0.0
+Madagascar,Hydroelectric pumped storage,1.0,0.0
+Guam,Solar,4.0,0.0
+Guam,Tide and wave,4.0,0.0
+Guam,Nuclear,1.0,0.0
+Guam,Fossil fuels,1.0,0.9444444444444445
+Guam,Wind,0.0,0.0
+Guam,"Solar, tide, wave, fuel cell",3.0,0.0
+Guam,Geothermal,3.0,0.0
+Guam,Non-hydro renewable,2.0,0.0
+Guam,Hydroelectricity,2.0,0.0
+Guam,Renewable,1.0,0.0
+Guam,Total Electricity net generation,0.0,1.0
+Guam,Biomass and waste,3.0,0.0
+Guam,Hydroelectric pumped storage,1.0,0.0
+Western Sahara,Tide and wave,4.0,0.0
+Western Sahara,Solar,4.0,0.0
+Western Sahara,Fossil fuels,1.0,0.0
+Western Sahara,"Solar, tide, wave, fuel cell",3.0,0.0
+Western Sahara,Geothermal,3.0,0.0
+Western Sahara,Biomass and waste,3.0,0.0
+Western Sahara,Hydroelectricity,2.0,0.0
+Western Sahara,Renewable,1.0,0.0
+Western Sahara,Non-hydro renewable,2.0,0.0
+Western Sahara,Total Electricity net generation,0.0,0.0
+Western Sahara,Nuclear,1.0,0.0
+Western Sahara,Wind,0.0,0.0
+Western Sahara,Hydroelectric pumped storage,1.0,0.0
+Solomon Islands,Tide and wave,4.0,0.0
+Solomon Islands,Solar,4.0,0.0
+Solomon Islands,Fossil fuels,1.0,1.0
+Solomon Islands,Nuclear,1.0,0.0
+Solomon Islands,Wind,0.0,0.0
+Solomon Islands,"Solar, tide, wave, fuel cell",3.0,0.0
+Solomon Islands,Biomass and waste,3.0,0.0
+Solomon Islands,Geothermal,3.0,0.0
+Solomon Islands,Non-hydro renewable,2.0,0.0
+Solomon Islands,Hydroelectricity,2.0,0.0
+Solomon Islands,Renewable,1.0,0.0
+Solomon Islands,Total Electricity net generation,0.0,1.0
+Solomon Islands,Hydroelectric pumped storage,1.0,0.0
+Oman,Tide and wave,4.0,0.0
+Oman,Solar,4.0,0.0
+Oman,Fossil fuels,1.0,1.0
+Oman,Nuclear,1.0,0.0
+Oman,Wind,0.0,0.0
+Oman,"Solar, tide, wave, fuel cell",3.0,0.0
+Oman,Biomass and waste,3.0,0.0
+Oman,Geothermal,3.0,0.0
+Oman,Hydroelectricity,2.0,0.0
+Oman,Renewable,1.0,0.0
+Oman,Non-hydro renewable,2.0,0.0
+Oman,Total Electricity net generation,0.0,1.0
+Oman,Hydroelectric pumped storage,1.0,0.0
+Bangladesh,Tide and wave,4.0,0.0
+Bangladesh,Solar,4.0,0.002898550724637681
+Bangladesh,Fossil fuels,1.0,0.9855072463768116
+Bangladesh,Biomass and waste,3.0,0.0
+Bangladesh,Geothermal,3.0,0.0
+Bangladesh,Renewable,1.0,0.017391304347826087
+Bangladesh,Hydroelectricity,2.0,0.014492753623188406
+Bangladesh,Non-hydro renewable,2.0,0.002898550724637681
+Bangladesh,Nuclear,1.0,0.0
+Bangladesh,Total Electricity net generation,0.0,1.0
+Bangladesh,"Solar, tide, wave, fuel cell",3.0,0.002898550724637681
+Bangladesh,Wind,0.0,0.0
+Bangladesh,Hydroelectric pumped storage,1.0,0.0
+Guinea-Bissau,Solar,4.0,0.0
+Guinea-Bissau,Tide and wave,4.0,0.0
+Guinea-Bissau,Nuclear,1.0,0.0
+Guinea-Bissau,Fossil fuels,1.0,0.0
+Guinea-Bissau,"Solar, tide, wave, fuel cell",3.0,0.0
+Guinea-Bissau,Wind,0.0,0.0
+Guinea-Bissau,Geothermal,3.0,0.0
+Guinea-Bissau,Non-hydro renewable,2.0,0.0
+Guinea-Bissau,Hydroelectricity,2.0,0.0
+Guinea-Bissau,Renewable,1.0,0.0
+Guinea-Bissau,Total Electricity net generation,0.0,0.0
+Guinea-Bissau,Biomass and waste,3.0,0.0
+Guinea-Bissau,Hydroelectric pumped storage,1.0,0.0
+Estonia,Tide and wave,4.0,0.0
+Estonia,Solar,4.0,0.0
+Estonia,Fossil fuels,1.0,0.8333333333333334
+Estonia,"Solar, tide, wave, fuel cell",3.0,0.0
+Estonia,Geothermal,3.0,0.0
+Estonia,Biomass and waste,3.0,0.09999999999999999
+Estonia,Hydroelectricity,2.0,0.0
+Estonia,Renewable,1.0,0.15833333333333324
+Estonia,Non-hydro renewable,2.0,0.15833333333333324
+Estonia,Total Electricity net generation,0.0,1.0
+Estonia,Nuclear,1.0,0.0
+Estonia,Wind,0.0,0.05833333333333326
+Estonia,Hydroelectric pumped storage,1.0,0.0
+Moldova,Tide and wave,4.0,0.0
+Moldova,Solar,4.0,0.0
+Moldova,Nuclear,1.0,0.0
+Moldova,Fossil fuels,1.0,0.9361702127659575
+Moldova,Geothermal,3.0,0.0
+Moldova,Wind,0.0,0.0
+Moldova,"Solar, tide, wave, fuel cell",3.0,0.0
+Moldova,Hydroelectricity,2.0,0.06382978723404235
+Moldova,Renewable,1.0,0.06382978723404235
+Moldova,Non-hydro renewable,2.0,0.0
+Moldova,Total Electricity net generation,0.0,1.0
+Moldova,Biomass and waste,3.0,0.0
+Moldova,Hydroelectric pumped storage,1.0,0.0
+Indonesia,Solar,4.0,0.0
+Indonesia,Tide and wave,4.0,0.0
+Indonesia,Nuclear,1.0,0.0
+Indonesia,Fossil fuels,1.0,0.8672199170124482
+Indonesia,Wind,0.0,0.0
+Indonesia,"Solar, tide, wave, fuel cell",3.0,0.0
+Indonesia,Geothermal,3.0,0.05394190871369295
+Indonesia,Non-hydro renewable,2.0,0.058091286307053944
+Indonesia,Hydroelectricity,2.0,0.07468879668049792
+Indonesia,Renewable,1.0,0.13278008298755187
+Indonesia,Total Electricity net generation,0.0,1.0
+Indonesia,Biomass and waste,3.0,0.003319502074688797
+Indonesia,Hydroelectric pumped storage,1.0,0.0
+Bermuda,Tide and wave,4.0,0.0
+Bermuda,Solar,4.0,0.0
+Bermuda,Fossil fuels,1.0,1.0
+Bermuda,Biomass and waste,3.0,0.0
+Bermuda,Geothermal,3.0,0.0
+Bermuda,Hydroelectricity,2.0,0.0
+Bermuda,Renewable,1.0,0.0
+Bermuda,Nuclear,1.0,0.0
+Bermuda,Non-hydro renewable,2.0,0.0
+Bermuda,Total Electricity net generation,0.0,1.0
+Bermuda,"Solar, tide, wave, fuel cell",3.0,0.0
+Bermuda,Wind,0.0,0.0
+Bermuda,Hydroelectric pumped storage,1.0,0.0
+Germany,Tide and wave,4.0,0.0025798129635601417
+Germany,Solar,4.0,0.06288294098677845
+Germany,Fossil fuels,1.0,0.5240245082231538
+Germany,Geothermal,3.0,0.0003224766204450177
+Germany,Biomass and waste,3.0,0.09351821992905514
+Germany,Nuclear,1.0,0.11609158336020638
+Germany,Hydroelectricity,2.0,0.032247662044501774
+Germany,Renewable,1.0,0.35956143179619476
+Germany,Non-hydro renewable,2.0,0.32731376975169296
+Germany,Total Electricity net generation,0.0,0.9964527571751047
+Germany,"Solar, tide, wave, fuel cell",3.0,0.06610770719122863
+Germany,Wind,0.0,0.1676878426314092
+Germany,Hydroelectric pumped storage,1.0,-0.003547242824895195
+Mongolia,Tide and wave,4.0,0.0
+Mongolia,Solar,4.0,0.0
+Mongolia,Fossil fuels,1.0,0.9298245614035086
+Mongolia,Nuclear,1.0,0.0
+Mongolia,"Solar, tide, wave, fuel cell",3.0,0.0
+Mongolia,Biomass and waste,3.0,0.0
+Mongolia,Geothermal,3.0,0.0
+Mongolia,Wind,0.0,0.05263157894736825
+Mongolia,Hydroelectricity,2.0,0.0
+Mongolia,Renewable,1.0,0.07017543859649122
+Mongolia,Non-hydro renewable,2.0,0.05263157894736825
+Mongolia,Total Electricity net generation,0.0,1.0
+Mongolia,Hydroelectric pumped storage,1.0,0.0
+Libya,Solar,4.0,0.0
+Libya,Tide and wave,4.0,0.0
+Libya,Nuclear,1.0,0.0
+Libya,Fossil fuels,1.0,1.0
+Libya,Wind,0.0,0.0
+Libya,"Solar, tide, wave, fuel cell",3.0,0.0
+Libya,Geothermal,3.0,0.0
+Libya,Hydroelectricity,2.0,0.0
+Libya,Renewable,1.0,0.0
+Libya,Non-hydro renewable,2.0,0.0
+Libya,Total Electricity net generation,0.0,1.0
+Libya,Biomass and waste,3.0,0.0
+Libya,Hydroelectric pumped storage,1.0,0.0
+Belarus,Tide and wave,4.0,0.0
+Belarus,Solar,4.0,0.0
+Belarus,Fossil fuels,1.0,1.0
+Belarus,Biomass and waste,3.0,0.00625
+Belarus,Geothermal,3.0,0.0
+Belarus,Renewable,1.0,0.025
+Belarus,Hydroelectricity,2.0,0.0125
+Belarus,Nuclear,1.0,0.0
+Belarus,Non-hydro renewable,2.0,0.0125
+Belarus,Total Electricity net generation,0.0,1.0
+Belarus,"Solar, tide, wave, fuel cell",3.0,0.0
+Belarus,Wind,0.0,0.0
+Belarus,Hydroelectric pumped storage,1.0,0.0
+North Korea,Tide and wave,4.0,0.0
+North Korea,Solar,4.0,0.0
+North Korea,Fossil fuels,1.0,0.26874999999999993
+North Korea,Nuclear,1.0,0.0
+North Korea,Wind,0.0,0.0
+North Korea,"Solar, tide, wave, fuel cell",3.0,0.0
+North Korea,Biomass and waste,3.0,0.0
+North Korea,Geothermal,3.0,0.0
+North Korea,Non-hydro renewable,2.0,0.0
+North Korea,Hydroelectricity,2.0,0.75
+North Korea,Renewable,1.0,0.75
+North Korea,Total Electricity net generation,0.0,1.0
+North Korea,Hydroelectric pumped storage,1.0,0.0
+Sudan,Tide and wave,4.0,0.0
+Sudan,Solar,4.0,0.0
+Sudan,Fossil fuels,1.0,0.3866666666666666
+Sudan,Nuclear,1.0,0.0
+Sudan,Wind,0.0,0.0
+Sudan,"Solar, tide, wave, fuel cell",3.0,0.0
+Sudan,Biomass and waste,3.0,0.006666666666666667
+Sudan,Geothermal,3.0,0.0
+Sudan,Non-hydro renewable,2.0,0.006666666666666667
+Sudan,Hydroelectricity,2.0,0.62
+Sudan,Renewable,1.0,0.6266666666666667
+Sudan,Total Electricity net generation,0.0,1.0
+Sudan,Hydroelectric pumped storage,1.0,0.0
+Nicaragua,Tide and wave,4.0,0.0
+Nicaragua,Solar,4.0,0.0
+Nicaragua,Fossil fuels,1.0,0.43181818181818155
+Nicaragua,Nuclear,1.0,0.0
+Nicaragua,"Solar, tide, wave, fuel cell",3.0,0.0
+Nicaragua,Biomass and waste,3.0,0.15909090909090887
+Nicaragua,Geothermal,3.0,0.18181818181818182
+Nicaragua,Wind,0.0,0.13636363636363616
+Nicaragua,Hydroelectricity,2.0,0.11363636363636363
+Nicaragua,Renewable,1.0,0.5909090909090908
+Nicaragua,Non-hydro renewable,2.0,0.47727272727272724
+Nicaragua,Total Electricity net generation,0.0,1.0
+Nicaragua,Hydroelectric pumped storage,1.0,0.0
+Georgia,Solar,4.0,0.0
+Georgia,Tide and wave,4.0,0.0
+Georgia,Nuclear,1.0,0.0
+Georgia,Fossil fuels,1.0,0.19090909090909092
+Georgia,"Solar, tide, wave, fuel cell",3.0,0.0
+Georgia,Wind,0.0,0.0
+Georgia,Geothermal,3.0,0.0
+Georgia,Biomass and waste,3.0,0.0
+Georgia,Non-hydro renewable,2.0,0.0
+Georgia,Renewable,1.0,0.8363636363636363
+Georgia,Hydroelectricity,2.0,0.8272727272727273
+Georgia,Total Electricity net generation,0.0,1.0
+Georgia,Hydroelectric pumped storage,1.0,0.0
+Gambia,Solar,4.0,0.0
+Gambia,Tide and wave,4.0,0.0
+Gambia,Nuclear,1.0,0.0
+Gambia,Fossil fuels,1.0,1.0
+Gambia,"Solar, tide, wave, fuel cell",3.0,0.0
+Gambia,Wind,0.0,0.0
+Gambia,Geothermal,3.0,0.0
+Gambia,Non-hydro renewable,2.0,0.0
+Gambia,Hydroelectricity,2.0,0.0
+Gambia,Renewable,1.0,0.0
+Gambia,Total Electricity net generation,0.0,1.0
+Gambia,Biomass and waste,3.0,0.0
+Gambia,Hydroelectric pumped storage,1.0,0.0
+Cayman Islands,Tide and wave,4.0,0.0
+Cayman Islands,Solar,4.0,0.0
+Cayman Islands,Fossil fuels,1.0,1.0
+Cayman Islands,Geothermal,3.0,0.0
+Cayman Islands,Biomass and waste,3.0,0.0
+Cayman Islands,Nuclear,1.0,0.0
+Cayman Islands,Renewable,1.0,0.0
+Cayman Islands,Hydroelectricity,2.0,0.0
+Cayman Islands,Non-hydro renewable,2.0,0.0
+Cayman Islands,Total Electricity net generation,0.0,1.0
+Cayman Islands,"Solar, tide, wave, fuel cell",3.0,0.0
+Cayman Islands,Wind,0.0,0.0
+Cayman Islands,Hydroelectric pumped storage,1.0,0.0
+British Virgin Islands,Tide and wave,4.0,0.0
+British Virgin Islands,Solar,4.0,0.0
+British Virgin Islands,Nuclear,1.0,0.0
+British Virgin Islands,Fossil fuels,1.0,1.0
+British Virgin Islands,Wind,0.0,0.0
+British Virgin Islands,"Solar, tide, wave, fuel cell",3.0,0.0
+British Virgin Islands,Biomass and waste,3.0,0.0
+British Virgin Islands,Geothermal,3.0,0.0
+British Virgin Islands,Renewable,1.0,0.0
+British Virgin Islands,Non-hydro renewable,2.0,0.0
+British Virgin Islands,Hydroelectricity,2.0,0.0
+British Virgin Islands,Total Electricity net generation,0.0,1.0
+British Virgin Islands,Hydroelectric pumped storage,1.0,0.0
+Thailand,Tide and wave,4.0,0.0
+Thailand,Solar,4.0,0.025423728813559324
+Thailand,Fossil fuels,1.0,0.8305084745762712
+Thailand,Nuclear,1.0,0.0
+Thailand,Wind,0.0,0.0062146892655367235
+Thailand,Biomass and waste,3.0,0.0847457627118644
+Thailand,"Solar, tide, wave, fuel cell",3.0,0.025423728813559324
+Thailand,Geothermal,3.0,0.0
+Thailand,Non-hydro renewable,2.0,0.11864406779661017
+Thailand,Hydroelectricity,2.0,0.053107344632768366
+Thailand,Renewable,1.0,0.1751412429378531
+Thailand,Total Electricity net generation,0.0,1.0
+Thailand,Hydroelectric pumped storage,1.0,0.0
+Ecuador,Tide and wave,4.0,0.0
+Ecuador,Solar,4.0,0.0
+Ecuador,Fossil fuels,1.0,0.2793103448275862
+Ecuador,Geothermal,3.0,0.0
+Ecuador,Biomass and waste,3.0,0.017241379310344827
+Ecuador,Hydroelectricity,2.0,0.6896551724137931
+Ecuador,Renewable,1.0,0.6896551724137931
+Ecuador,Non-hydro renewable,2.0,0.02068965517241376
+Ecuador,Total Electricity net generation,0.0,1.0
+Ecuador,Nuclear,1.0,0.0
+Ecuador,"Solar, tide, wave, fuel cell",3.0,0.0
+Ecuador,Wind,0.0,0.0
+Ecuador,Hydroelectric pumped storage,1.0,0.0
+Mali,Tide and wave,4.0,0.0
+Mali,Solar,4.0,0.0
+Mali,Fossil fuels,1.0,0.5384615384615381
+Mali,Nuclear,1.0,0.0
+Mali,Geothermal,3.0,0.0
+Mali,Wind,0.0,0.0
+Mali,"Solar, tide, wave, fuel cell",3.0,0.0
+Mali,Hydroelectricity,2.0,0.4230769230769231
+Mali,Renewable,1.0,0.4615384615384615
+Mali,Non-hydro renewable,2.0,0.0
+Mali,Total Electricity net generation,0.0,1.0
+Mali,Biomass and waste,3.0,0.0
+Mali,Hydroelectric pumped storage,1.0,0.0
+Fiji,Solar,4.0,0.0
+Fiji,Tide and wave,4.0,0.0
+Fiji,Nuclear,1.0,0.0
+Fiji,Fossil fuels,1.0,0.5
+Fiji,"Solar, tide, wave, fuel cell",3.0,0.0
+Fiji,Geothermal,3.0,0.0
+Fiji,Biomass and waste,3.0,0.0
+Fiji,Non-hydro renewable,2.0,0.0
+Fiji,Hydroelectricity,2.0,0.5
+Fiji,Renewable,1.0,0.5999999999999991
+Fiji,Total Electricity net generation,0.0,1.0
+Fiji,Wind,0.0,0.0
+Fiji,Hydroelectric pumped storage,1.0,0.0
+Cyprus,Tide and wave,4.0,0.0
+Cyprus,Solar,4.0,0.0425531914893617
+Cyprus,Fossil fuels,1.0,0.9148936170212764
+Cyprus,Geothermal,3.0,0.0
+Cyprus,Biomass and waste,3.0,0.0
+Cyprus,Nuclear,1.0,0.0
+Cyprus,Renewable,1.0,0.0851063829787234
+Cyprus,Hydroelectricity,2.0,0.0
+Cyprus,Non-hydro renewable,2.0,0.0851063829787234
+Cyprus,Total Electricity net generation,0.0,1.0
+Cyprus,"Solar, tide, wave, fuel cell",3.0,0.0425531914893617
+Cyprus,Wind,0.0,0.0425531914893617
+Cyprus,Hydroelectric pumped storage,1.0,0.0
+Ethiopia,Tide and wave,4.0,0.0
+Ethiopia,Solar,4.0,0.0
+Ethiopia,Fossil fuels,1.0,0.0
+Ethiopia,"Solar, tide, wave, fuel cell",3.0,0.0
+Ethiopia,Geothermal,3.0,0.0
+Ethiopia,Biomass and waste,3.0,0.0
+Ethiopia,Hydroelectricity,2.0,0.9285714285714286
+Ethiopia,Renewable,1.0,1.0
+Ethiopia,Non-hydro renewable,2.0,0.0642857142857143
+Ethiopia,Total Electricity net generation,0.0,1.0
+Ethiopia,Nuclear,1.0,0.0
+Ethiopia,Wind,0.0,0.0642857142857143
+Ethiopia,Hydroelectric pumped storage,1.0,0.0
+Guadeloupe,Solar,4.0,0.0
+Guadeloupe,Tide and wave,4.0,0.0
+Guadeloupe,Nuclear,1.0,0.0
+Guadeloupe,Fossil fuels,1.0,0.8749999999999993
+Guadeloupe,"Solar, tide, wave, fuel cell",3.0,0.0
+Guadeloupe,Wind,0.0,0.0
+Guadeloupe,Geothermal,3.0,0.0
+Guadeloupe,Biomass and waste,3.0,0.0
+Guadeloupe,Non-hydro renewable,2.0,0.125
+Guadeloupe,Hydroelectricity,2.0,0.0
+Guadeloupe,Renewable,1.0,0.125
+Guadeloupe,Total Electricity net generation,0.0,1.0
+Guadeloupe,Hydroelectric pumped storage,1.0,0.0
+Honduras,Solar,4.0,0.1
+Honduras,Tide and wave,4.0,0.0
+Honduras,Nuclear,1.0,0.0
+Honduras,Fossil fuels,1.0,0.41111111111111115
+Honduras,Wind,0.0,0.06666666666666657
+Honduras,"Solar, tide, wave, fuel cell",3.0,0.1
+Honduras,Geothermal,3.0,0.0
+Honduras,Non-hydro renewable,2.0,0.2555555555555554
+Honduras,Hydroelectricity,2.0,0.32222222222222213
+Honduras,Renewable,1.0,0.5888888888888888
+Honduras,Total Electricity net generation,0.0,1.0
+Honduras,Biomass and waste,3.0,0.08888888888888889
+Honduras,Hydroelectric pumped storage,1.0,0.0
+Greenland,Solar,4.0,0.0
+Greenland,Tide and wave,4.0,0.0
+Greenland,Nuclear,1.0,0.0
+Greenland,Fossil fuels,1.0,0.2
+Greenland,Wind,0.0,0.0
+Greenland,"Solar, tide, wave, fuel cell",3.0,0.0
+Greenland,Geothermal,3.0,0.0
+Greenland,Non-hydro renewable,2.0,0.0
+Greenland,Hydroelectricity,2.0,0.8
+Greenland,Renewable,1.0,0.8
+Greenland,Total Electricity net generation,0.0,1.0
+Greenland,Biomass and waste,3.0,0.0
+Greenland,Hydroelectric pumped storage,1.0,0.0
+Kenya,Solar,4.0,0.0
+Kenya,Tide and wave,4.0,0.0
+Kenya,Nuclear,1.0,0.0
+Kenya,Fossil fuels,1.0,0.2
+Kenya,"Solar, tide, wave, fuel cell",3.0,0.0
+Kenya,Wind,0.0,0.0
+Kenya,Geothermal,3.0,0.47999999999999987
+Kenya,Hydroelectricity,2.0,0.32
+Kenya,Renewable,1.0,0.8099999999999999
+Kenya,Non-hydro renewable,2.0,0.5
+Kenya,Total Electricity net generation,0.0,1.0
+Kenya,Biomass and waste,3.0,0.01
+Kenya,Hydroelectric pumped storage,1.0,0.0
+Eritrea,Tide and wave,4.0,0.0
+Eritrea,Solar,4.0,0.0
+Eritrea,Fossil fuels,1.0,1.0
+Eritrea,"Solar, tide, wave, fuel cell",3.0,0.0
+Eritrea,Geothermal,3.0,0.0
+Eritrea,Biomass and waste,3.0,0.0
+Eritrea,Hydroelectricity,2.0,0.0
+Eritrea,Renewable,1.0,0.0
+Eritrea,Non-hydro renewable,2.0,0.0
+Eritrea,Total Electricity net generation,0.0,1.0
+Eritrea,Nuclear,1.0,0.0
+Eritrea,Wind,0.0,0.0
+Eritrea,Hydroelectric pumped storage,1.0,0.0
+Seychelles,Tide and wave,4.0,0.0
+Seychelles,Solar,4.0,0.0
+Seychelles,Fossil fuels,1.0,1.0
+Seychelles,Nuclear,1.0,0.0
+Seychelles,Wind,0.0,0.0
+Seychelles,Biomass and waste,3.0,0.0
+Seychelles,Geothermal,3.0,0.0
+Seychelles,"Solar, tide, wave, fuel cell",3.0,0.0
+Seychelles,Non-hydro renewable,2.0,0.0
+Seychelles,Hydroelectricity,2.0,0.0
+Seychelles,Renewable,1.0,0.0
+Seychelles,Total Electricity net generation,0.0,1.0
+Seychelles,Hydroelectric pumped storage,1.0,0.0
+Lesotho,Solar,4.0,0.0
+Lesotho,Tide and wave,4.0,0.0
+Lesotho,Nuclear,1.0,0.0
+Lesotho,Fossil fuels,1.0,0.0
+Lesotho,Wind,0.0,0.0
+Lesotho,"Solar, tide, wave, fuel cell",3.0,0.0
+Lesotho,Geothermal,3.0,0.0
+Lesotho,Hydroelectricity,2.0,1.0
+Lesotho,Renewable,1.0,1.0
+Lesotho,Non-hydro renewable,2.0,0.0
+Lesotho,Total Electricity net generation,0.0,1.0
+Lesotho,Biomass and waste,3.0,0.0
+Lesotho,Hydroelectric pumped storage,1.0,0.0
+Czech Republic,Tide and wave,4.0,0.0
+Czech Republic,Solar,4.0,0.02702702702702703
+Czech Republic,Fossil fuels,1.0,0.5528255528255528
+Czech Republic,Geothermal,3.0,0.0
+Czech Republic,Biomass and waste,3.0,0.06265356265356263
+Czech Republic,Nuclear,1.0,0.33169533169533166
+Czech Republic,Renewable,1.0,0.11916461916461915
+Czech Republic,Hydroelectricity,2.0,0.023341523341523326
+Czech Republic,Non-hydro renewable,2.0,0.09705159705159705
+Czech Republic,Total Electricity net generation,0.0,0.995085995085995
+Czech Republic,"Solar, tide, wave, fuel cell",3.0,0.02702702702702703
+Czech Republic,Wind,0.0,0.007371007371007359
+Czech Republic,Hydroelectric pumped storage,1.0,-0.004914004914004914
+Vanuatu,Tide and wave,4.0,0.0
+Vanuatu,Solar,4.0,0.0
+Vanuatu,Nuclear,1.0,0.0
+Vanuatu,Fossil fuels,1.0,0.0
+Vanuatu,"Solar, tide, wave, fuel cell",3.0,0.0
+Vanuatu,Wind,0.0,0.0
+Vanuatu,Biomass and waste,3.0,0.0
+Vanuatu,Geothermal,3.0,0.0
+Vanuatu,Renewable,1.0,0.0
+Vanuatu,Non-hydro renewable,2.0,0.0
+Vanuatu,Hydroelectricity,2.0,0.0
+Vanuatu,Total Electricity net generation,0.0,0.0
+Vanuatu,Hydroelectric pumped storage,1.0,0.0
+Azerbaijan,Tide and wave,4.0,0.0
+Azerbaijan,Solar,4.0,0.0
+Azerbaijan,Fossil fuels,1.0,0.9130434782608695
+Azerbaijan,Biomass and waste,3.0,0.008695652173913044
+Azerbaijan,Wind,0.0,0.0
+Azerbaijan,Renewable,1.0,0.08695652173913043
+Azerbaijan,Geothermal,3.0,0.0
+Azerbaijan,Hydroelectricity,2.0,0.07391304347826087
+Azerbaijan,Non-hydro renewable,2.0,0.008695652173913044
+Azerbaijan,Nuclear,1.0,0.0
+Azerbaijan,Total Electricity net generation,0.0,1.0
+Azerbaijan,"Solar, tide, wave, fuel cell",3.0,0.0
+Azerbaijan,Hydroelectric pumped storage,1.0,0.0
+Uganda,Tide and wave,4.0,0.0
+Uganda,Solar,4.0,0.0
+Uganda,Fossil fuels,1.0,0.0512820512820513
+Uganda,Nuclear,1.0,0.0
+Uganda,Wind,0.0,0.0
+Uganda,"Solar, tide, wave, fuel cell",3.0,0.0
+Uganda,Biomass and waste,3.0,0.0512820512820513
+Uganda,Geothermal,3.0,0.0
+Uganda,Renewable,1.0,0.948717948717949
+Uganda,Non-hydro renewable,2.0,0.07692307692307669
+Uganda,Hydroelectricity,2.0,0.8717948717948718
+Uganda,Total Electricity net generation,0.0,1.0
+Uganda,Hydroelectric pumped storage,1.0,0.0
+Laos,Solar,4.0,0.0
+Laos,Tide and wave,4.0,0.0
+Laos,Nuclear,1.0,0.0
+Laos,Fossil fuels,1.0,0.33571428571428574
+Laos,Wind,0.0,0.0
+Laos,"Solar, tide, wave, fuel cell",3.0,0.0
+Laos,Geothermal,3.0,0.0
+Laos,Hydroelectricity,2.0,0.6428571428571429
+Laos,Renewable,1.0,0.6428571428571429
+Laos,Non-hydro renewable,2.0,0.0
+Laos,Total Electricity net generation,0.0,1.0
+Laos,Biomass and waste,3.0,0.0
+Laos,Hydroelectric pumped storage,1.0,0.0
+Dominican Republic,Tide and wave,4.0,0.0
+Dominican Republic,Solar,4.0,0.005555555555555556
+Dominican Republic,Fossil fuels,1.0,0.8333333333333334
+Dominican Republic,Geothermal,3.0,0.0
+Dominican Republic,Biomass and waste,3.0,0.011111111111111112
+Dominican Republic,Nuclear,1.0,0.0
+Dominican Republic,Hydroelectricity,2.0,0.12222222222222223
+Dominican Republic,Renewable,1.0,0.16111111111111107
+Dominican Republic,Non-hydro renewable,2.0,0.038888888888888834
+Dominican Republic,Total Electricity net generation,0.0,1.0
+Dominican Republic,"Solar, tide, wave, fuel cell",3.0,0.005555555555555556
+Dominican Republic,Wind,0.0,0.022222222222222223
+Dominican Republic,Hydroelectric pumped storage,1.0,0.0
+Bulgaria,Tide and wave,4.0,0.0
+Bulgaria,Solar,4.0,0.03233256351039259
+Bulgaria,Fossil fuels,1.0,0.5080831408775982
+Bulgaria,Biomass and waste,3.0,0.009237875288683604
+Bulgaria,Geothermal,3.0,0.0
+Bulgaria,Renewable,1.0,0.14087759815242493
+Bulgaria,Hydroelectricity,2.0,0.0646651270207852
+Bulgaria,Non-hydro renewable,2.0,0.0762124711316397
+Bulgaria,Nuclear,1.0,0.3464203233256351
+Bulgaria,Total Electricity net generation,0.0,0.9930715935334874
+Bulgaria,"Solar, tide, wave, fuel cell",3.0,0.03233256351039259
+Bulgaria,Wind,0.0,0.034642032332563515
+Bulgaria,Hydroelectric pumped storage,1.0,-0.006928406466512681
+Romania,Tide and wave,4.0,0.0
+Romania,Solar,4.0,0.03109656301145661
+Romania,Fossil fuels,1.0,0.425531914893617
+Romania,Nuclear,1.0,0.18003273322422259
+Romania,Wind,0.0,0.12111292962356793
+Romania,Biomass and waste,3.0,0.008183306055646482
+Romania,"Solar, tide, wave, fuel cell",3.0,0.03109656301145661
+Romania,Geothermal,3.0,0.0
+Romania,Non-hydro renewable,2.0,0.16039279869067105
+Romania,Hydroelectricity,2.0,0.22913256955810146
+Romania,Renewable,1.0,0.39279869067103107
+Romania,Total Electricity net generation,0.0,0.9983633387888707
+Romania,Hydroelectric pumped storage,1.0,-0.0016366612111292963
+Burundi,Tide and wave,4.0,0.0
+Burundi,Solar,4.0,0.0
+Burundi,Fossil fuels,1.0,0.0
+Burundi,Biomass and waste,3.0,0.0
+Burundi,Renewable,1.0,1.0
+Burundi,Geothermal,3.0,0.0
+Burundi,Hydroelectricity,2.0,1.0
+Burundi,Non-hydro renewable,2.0,0.0
+Burundi,Nuclear,1.0,0.0
+Burundi,Total Electricity net generation,0.0,1.0
+Burundi,Wind,0.0,0.0
+Burundi,"Solar, tide, wave, fuel cell",3.0,0.0
+Burundi,Hydroelectric pumped storage,1.0,0.0
+Bosnia and Herzegovina,Tide and wave,4.0,0.0
+Bosnia and Herzegovina,Solar,4.0,0.0
+Bosnia and Herzegovina,Fossil fuels,1.0,0.75
+Bosnia and Herzegovina,Biomass and waste,3.0,0.0
+Bosnia and Herzegovina,Geothermal,3.0,0.0
+Bosnia and Herzegovina,Renewable,1.0,0.25
+Bosnia and Herzegovina,Hydroelectricity,2.0,0.24374999999999994
+Bosnia and Herzegovina,Non-hydro renewable,2.0,0.0
+Bosnia and Herzegovina,Nuclear,1.0,0.0
+Bosnia and Herzegovina,Total Electricity net generation,0.0,1.0
+Bosnia and Herzegovina,"Solar, tide, wave, fuel cell",3.0,0.0
+Bosnia and Herzegovina,Wind,0.0,0.0
+Bosnia and Herzegovina,Hydroelectric pumped storage,1.0,0.0
+Nigeria,Tide and wave,4.0,0.0
+Nigeria,Solar,4.0,0.0
+Nigeria,Fossil fuels,1.0,0.8064516129032258
+Nigeria,Nuclear,1.0,0.0
+Nigeria,"Solar, tide, wave, fuel cell",3.0,0.0
+Nigeria,Biomass and waste,3.0,0.0
+Nigeria,Geothermal,3.0,0.0
+Nigeria,Wind,0.0,0.0
+Nigeria,Hydroelectricity,2.0,0.1774193548387097
+Nigeria,Renewable,1.0,0.1774193548387097
+Nigeria,Non-hydro renewable,2.0,0.0
+Nigeria,Total Electricity net generation,0.0,1.0
+Nigeria,Hydroelectric pumped storage,1.0,0.0
+Algeria,Tide and wave,4.0,0.0
+Algeria,Solar,4.0,0.0084507042253521
+Algeria,Fossil fuels,1.0,1.0
+Algeria,Geothermal,3.0,0.0
+Algeria,Biomass and waste,3.0,0.0
+Algeria,Hydroelectricity,2.0,0.0
+Algeria,Renewable,1.0,0.0084507042253521
+Algeria,Non-hydro renewable,2.0,0.0084507042253521
+Algeria,Total Electricity net generation,0.0,1.0
+Algeria,Nuclear,1.0,0.0
+Algeria,"Solar, tide, wave, fuel cell",3.0,0.0084507042253521
+Algeria,Wind,0.0,0.0
+Algeria,Hydroelectric pumped storage,1.0,0.0
+Malawi,Tide and wave,4.0,0.0
+Malawi,Solar,4.0,0.0
+Malawi,Fossil fuels,1.0,0.1
+Malawi,Nuclear,1.0,0.0
+Malawi,"Solar, tide, wave, fuel cell",3.0,0.0
+Malawi,Biomass and waste,3.0,0.0
+Malawi,Geothermal,3.0,0.0
+Malawi,Wind,0.0,0.0
+Malawi,Hydroelectricity,2.0,0.9
+Malawi,Renewable,1.0,0.9499999999999995
+Malawi,Non-hydro renewable,2.0,0.0
+Malawi,Total Electricity net generation,0.0,1.0
+Malawi,Hydroelectric pumped storage,1.0,0.0
+Ukraine,Tide and wave,4.0,0.0
+Ukraine,Solar,4.0,0.004794520547945199
+Ukraine,Fossil fuels,1.0,0.3698630136986301
+Ukraine,Nuclear,1.0,0.547945205479452
+Ukraine,Wind,0.0,0.00684931506849315
+Ukraine,"Solar, tide, wave, fuel cell",3.0,0.004794520547945199
+Ukraine,Biomass and waste,3.0,0.0013698630136986301
+Ukraine,Geothermal,3.0,0.0
+Ukraine,Renewable,1.0,0.07534246575342465
+Ukraine,Non-hydro renewable,2.0,0.01301369863013698
+Ukraine,Hydroelectricity,2.0,0.06095890410958904
+Ukraine,Total Electricity net generation,0.0,1.0
+Ukraine,Hydroelectric pumped storage,1.0,0.0
+Saudi Arabia,Tide and wave,4.0,0.0
+Saudi Arabia,Solar,4.0,0.0006116207951070337
+Saudi Arabia,Fossil fuels,1.0,1.0
+Saudi Arabia,Nuclear,1.0,0.0
+Saudi Arabia,Wind,0.0,0.0
+Saudi Arabia,"Solar, tide, wave, fuel cell",3.0,0.0006116207951070337
+Saudi Arabia,Biomass and waste,3.0,0.0
+Saudi Arabia,Geothermal,3.0,0.0
+Saudi Arabia,Non-hydro renewable,2.0,0.0006116207951070337
+Saudi Arabia,Hydroelectricity,2.0,0.0
+Saudi Arabia,Renewable,1.0,0.0006116207951070337
+Saudi Arabia,Total Electricity net generation,0.0,1.0
+Saudi Arabia,Hydroelectric pumped storage,1.0,0.0
+South Sudan,Tide and wave,4.0,0.0
+South Sudan,Solar,4.0,0.0
+South Sudan,Fossil fuels,1.0,1.0
+South Sudan,Nuclear,1.0,0.0
+South Sudan,Wind,0.0,0.0
+South Sudan,"Solar, tide, wave, fuel cell",3.0,0.0
+South Sudan,Biomass and waste,3.0,0.0
+South Sudan,Geothermal,3.0,0.0
+South Sudan,Non-hydro renewable,2.0,0.0
+South Sudan,Hydroelectricity,2.0,0.0
+South Sudan,Renewable,1.0,0.0
+South Sudan,Total Electricity net generation,0.0,1.0
+South Sudan,Hydroelectric pumped storage,1.0,0.0
+Kuwait,Solar,4.0,0.0
+Kuwait,Tide and wave,4.0,0.0
+Kuwait,Nuclear,1.0,0.0
+Kuwait,Fossil fuels,1.0,1.0
+Kuwait,Wind,0.0,0.0
+Kuwait,"Solar, tide, wave, fuel cell",3.0,0.0
+Kuwait,Geothermal,3.0,0.0
+Kuwait,Hydroelectricity,2.0,0.0
+Kuwait,Renewable,1.0,0.0
+Kuwait,Non-hydro renewable,2.0,0.0
+Kuwait,Total Electricity net generation,0.0,1.0
+Kuwait,Biomass and waste,3.0,0.0
+Kuwait,Hydroelectric pumped storage,1.0,0.0
+Uzbekistan,Tide and wave,4.0,0.0
+Uzbekistan,Solar,4.0,0.0
+Uzbekistan,Nuclear,1.0,0.0
+Uzbekistan,Fossil fuels,1.0,0.847457627118644
+Uzbekistan,Wind,0.0,0.0
+Uzbekistan,"Solar, tide, wave, fuel cell",3.0,0.0
+Uzbekistan,Biomass and waste,3.0,0.0
+Uzbekistan,Geothermal,3.0,0.0
+Uzbekistan,Renewable,1.0,0.14067796610169492
+Uzbekistan,Non-hydro renewable,2.0,0.0
+Uzbekistan,Hydroelectricity,2.0,0.14067796610169492
+Uzbekistan,Total Electricity net generation,0.0,1.0
+Uzbekistan,Hydroelectric pumped storage,1.0,0.0
+Norway,Tide and wave,4.0,0.0
+Norway,Solar,4.0,0.0
+Norway,Fossil fuels,1.0,0.017627118644067796
+Norway,Nuclear,1.0,0.0
+Norway,"Solar, tide, wave, fuel cell",3.0,0.0
+Norway,Biomass and waste,3.0,0.003389830508474576
+Norway,Geothermal,3.0,0.0
+Norway,Wind,0.0,0.019661016949152534
+Norway,Hydroelectricity,2.0,0.9559322033898305
+Norway,Renewable,1.0,0.976271186440678
+Norway,Non-hydro renewable,2.0,0.023050847457627113
+Norway,Total Electricity net generation,0.0,0.9966101694915255
+Norway,Hydroelectric pumped storage,1.0,-0.003389830508474576
+Afghanistan,Tide and wave,4.0,0.0
+Afghanistan,Solar,4.0,0.0
+Afghanistan,Fossil fuels,1.0,0.15384615384615385
+Afghanistan,Wind,0.0,0.0
+Afghanistan,Biomass and waste,3.0,0.0
+Afghanistan,"Solar, tide, wave, fuel cell",3.0,0.0
+Afghanistan,Hydroelectricity,2.0,0.8461538461538461
+Afghanistan,Renewable,1.0,0.8461538461538461
+Afghanistan,Geothermal,3.0,0.0
+Afghanistan,Non-hydro renewable,2.0,0.0
+Afghanistan,Nuclear,1.0,0.0
+Afghanistan,Total Electricity net generation,0.0,1.0
+Afghanistan,Hydroelectric pumped storage,1.0,0.0
+Namibia,Tide and wave,4.0,0.0
+Namibia,Solar,4.0,0.0
+Namibia,Fossil fuels,1.0,0.0
+Namibia,Nuclear,1.0,0.0
+Namibia,"Solar, tide, wave, fuel cell",3.0,0.0
+Namibia,Biomass and waste,3.0,0.0
+Namibia,Geothermal,3.0,0.0
+Namibia,Wind,0.0,0.0
+Namibia,Hydroelectricity,2.0,1.0
+Namibia,Renewable,1.0,1.0
+Namibia,Non-hydro renewable,2.0,0.0
+Namibia,Total Electricity net generation,0.0,1.0
+Namibia,Hydroelectric pumped storage,1.0,0.0
+Suriname,Tide and wave,4.0,0.0
+Suriname,Solar,4.0,0.0
+Suriname,Fossil fuels,1.0,0.4444444444444445
+Suriname,Nuclear,1.0,0.0
+Suriname,Wind,0.0,0.0
+Suriname,"Solar, tide, wave, fuel cell",3.0,0.0
+Suriname,Biomass and waste,3.0,0.0
+Suriname,Geothermal,3.0,0.0
+Suriname,Non-hydro renewable,2.0,0.0
+Suriname,Hydroelectricity,2.0,0.5555555555555556
+Suriname,Renewable,1.0,0.6111111111111112
+Suriname,Total Electricity net generation,0.0,1.0
+Suriname,Hydroelectric pumped storage,1.0,0.0
+U.S. Virgin Islands,Tide and wave,4.0,0.0
+U.S. Virgin Islands,Solar,4.0,0.0
+U.S. Virgin Islands,Nuclear,1.0,0.0
+U.S. Virgin Islands,Fossil fuels,1.0,1.0
+U.S. Virgin Islands,Wind,0.0,0.0
+U.S. Virgin Islands,Biomass and waste,3.0,0.0
+U.S. Virgin Islands,Geothermal,3.0,0.0
+U.S. Virgin Islands,"Solar, tide, wave, fuel cell",3.0,0.0
+U.S. Virgin Islands,Renewable,1.0,0.0
+U.S. Virgin Islands,Non-hydro renewable,2.0,0.0
+U.S. Virgin Islands,Hydroelectricity,2.0,0.0
+U.S. Virgin Islands,Total Electricity net generation,0.0,1.0
+U.S. Virgin Islands,Hydroelectric pumped storage,1.0,0.0
+Montserrat,Tide and wave,4.0,0.0
+Montserrat,Solar,4.0,0.0
+Montserrat,Fossil fuels,1.0,0.0
+Montserrat,Nuclear,1.0,0.0
+Montserrat,"Solar, tide, wave, fuel cell",3.0,0.0
+Montserrat,Biomass and waste,3.0,0.0
+Montserrat,Geothermal,3.0,0.0
+Montserrat,Wind,0.0,0.0
+Montserrat,Hydroelectricity,2.0,0.0
+Montserrat,Renewable,1.0,0.0
+Montserrat,Non-hydro renewable,2.0,0.0
+Montserrat,Total Electricity net generation,0.0,0.0
+Montserrat,Hydroelectric pumped storage,1.0,0.0
+Samoa,Solar,4.0,0.0
+Samoa,Tide and wave,4.0,0.0
+Samoa,Nuclear,1.0,0.0
+Samoa,"Solar, tide, wave, fuel cell",3.0,0.0
+Samoa,Biomass and waste,3.0,0.0
+Samoa,Geothermal,3.0,0.0
+Samoa,Wind,0.0,0.0
+Samoa,Hydroelectricity,2.0,0.0
+Samoa,Fossil fuels,1.0,1.0
+Samoa,Renewable,1.0,0.0
+Samoa,Non-hydro renewable,2.0,0.0
+Samoa,Total Electricity net generation,0.0,1.0
+Samoa,Hydroelectric pumped storage,1.0,0.0
+Barbados,Tide and wave,4.0,0.0
+Barbados,Solar,4.0,0.0
+Barbados,Fossil fuels,1.0,1.0
+Barbados,Biomass and waste,3.0,0.0
+Barbados,Geothermal,3.0,0.0
+Barbados,Hydroelectricity,2.0,0.0
+Barbados,Renewable,1.0,0.0
+Barbados,Nuclear,1.0,0.0
+Barbados,Non-hydro renewable,2.0,0.0
+Barbados,Total Electricity net generation,0.0,1.0
+Barbados,"Solar, tide, wave, fuel cell",3.0,0.0
+Barbados,Wind,0.0,0.0
+Barbados,Hydroelectric pumped storage,1.0,0.0
+Kazakhstan,Solar,4.0,0.0
+Kazakhstan,Tide and wave,4.0,0.0
+Kazakhstan,Nuclear,1.0,0.0
+Kazakhstan,Fossil fuels,1.0,0.8775510204081632
+Kazakhstan,"Solar, tide, wave, fuel cell",3.0,0.0
+Kazakhstan,Wind,0.0,0.0030612244897959087
+Kazakhstan,Geothermal,3.0,0.0
+Kazakhstan,Hydroelectricity,2.0,0.11224489795918367
+Kazakhstan,Renewable,1.0,0.12244897959183673
+Kazakhstan,Non-hydro renewable,2.0,0.00510204081632653
+Kazakhstan,Total Electricity net generation,0.0,1.0
+Kazakhstan,Biomass and waste,3.0,0.0
+Kazakhstan,Hydroelectric pumped storage,1.0,0.0
+Iran,Solar,4.0,0.0
+Iran,Tide and wave,4.0,0.0
+Iran,Nuclear,1.0,0.02206896551724138
+Iran,Fossil fuels,1.0,0.9241379310344827
+Iran,"Solar, tide, wave, fuel cell",3.0,0.0
+Iran,Wind,0.0,0.0010344827586206864
+Iran,Geothermal,3.0,0.0
+Iran,Non-hydro renewable,2.0,0.0013793103448275863
+Iran,Hydroelectricity,2.0,0.05172413793103448
+Iran,Renewable,1.0,0.05172413793103448
+Iran,Total Electricity net generation,0.0,1.0
+Iran,Biomass and waste,3.0,0.0
+Iran,Hydroelectric pumped storage,1.0,0.0
+Saint Lucia,Solar,4.0,0.0
+Saint Lucia,Tide and wave,4.0,0.0
+Saint Lucia,Nuclear,1.0,0.0
+Saint Lucia,Fossil fuels,1.0,1.0
+Saint Lucia,Wind,0.0,0.0
+Saint Lucia,"Solar, tide, wave, fuel cell",3.0,0.0
+Saint Lucia,Geothermal,3.0,0.0
+Saint Lucia,Hydroelectricity,2.0,0.0
+Saint Lucia,Renewable,1.0,0.0
+Saint Lucia,Non-hydro renewable,2.0,0.0
+Saint Lucia,Total Electricity net generation,0.0,1.0
+Saint Lucia,Biomass and waste,3.0,0.0
+Saint Lucia,Hydroelectric pumped storage,1.0,0.0
+American Samoa,Tide and wave,4.0,0.0
+American Samoa,Solar,4.0,0.0
+American Samoa,Fossil fuels,1.0,1.0
+American Samoa,Biomass and waste,3.0,0.0
+American Samoa,Wind,0.0,0.0
+American Samoa,"Solar, tide, wave, fuel cell",3.0,0.0
+American Samoa,Renewable,1.0,0.0
+American Samoa,Hydroelectricity,2.0,0.0
+American Samoa,Geothermal,3.0,0.0
+American Samoa,Non-hydro renewable,2.0,0.0
+American Samoa,Nuclear,1.0,0.0
+American Samoa,Total Electricity net generation,0.0,1.0
+American Samoa,Hydroelectric pumped storage,1.0,0.0
+Botswana,Tide and wave,4.0,0.0
+Botswana,Solar,4.0,0.0
+Botswana,Fossil fuels,1.0,1.0
+Botswana,Geothermal,3.0,0.0
+Botswana,Biomass and waste,3.0,0.0
+Botswana,Hydroelectricity,2.0,0.0
+Botswana,Nuclear,1.0,0.0
+Botswana,Renewable,1.0,0.0
+Botswana,Non-hydro renewable,2.0,0.0
+Botswana,Total Electricity net generation,0.0,1.0
+Botswana,"Solar, tide, wave, fuel cell",3.0,0.0
+Botswana,Wind,0.0,0.0
+Botswana,Hydroelectric pumped storage,1.0,0.0
+Peru,Tide and wave,4.0,0.0
+Peru,Solar,4.0,0.005882352941176452
+Peru,Fossil fuels,1.0,0.39215686274509803
+Peru,Nuclear,1.0,0.0
+Peru,Wind,0.0,0.021568627450980395
+Peru,"Solar, tide, wave, fuel cell",3.0,0.005882352941176452
+Peru,Biomass and waste,3.0,0.0196078431372549
+Peru,Geothermal,3.0,0.0
+Peru,Hydroelectricity,2.0,0.5686274509803921
+Peru,Renewable,1.0,0.6078431372549019
+Peru,Non-hydro renewable,2.0,0.04705882352941174
+Peru,Total Electricity net generation,0.0,1.0
+Peru,Hydroelectric pumped storage,1.0,0.0
+Costa Rica,Tide and wave,4.0,0.0
+Costa Rica,Solar,4.0,0.0
+Costa Rica,Fossil fuels,1.0,0.0
+Costa Rica,Geothermal,3.0,0.1
+Costa Rica,Biomass and waste,3.0,0.018181818181818184
+Costa Rica,Nuclear,1.0,0.0
+Costa Rica,Renewable,1.0,1.0
+Costa Rica,Hydroelectricity,2.0,0.7818181818181817
+Costa Rica,Non-hydro renewable,2.0,0.23636363636363636
+Costa Rica,Total Electricity net generation,0.0,1.0
+Costa Rica,"Solar, tide, wave, fuel cell",3.0,0.0
+Costa Rica,Wind,0.0,0.11818181818181818
+Costa Rica,Hydroelectric pumped storage,1.0,0.0
+Senegal,Tide and wave,4.0,0.0
+Senegal,Solar,4.0,0.022222222222222223
+Senegal,Fossil fuels,1.0,0.8666666666666665
+Senegal,Nuclear,1.0,0.0
+Senegal,Wind,0.0,0.0
+Senegal,"Solar, tide, wave, fuel cell",3.0,0.022222222222222223
+Senegal,Biomass and waste,3.0,0.0
+Senegal,Geothermal,3.0,0.0
+Senegal,Non-hydro renewable,2.0,0.044444444444444446
+Senegal,Hydroelectricity,2.0,0.06666666666666646
+Senegal,Renewable,1.0,0.1111111111111111
+Senegal,Total Electricity net generation,0.0,1.0
+Senegal,Hydroelectric pumped storage,1.0,0.0
+Zimbabwe,Solar,4.0,0.0
+Zimbabwe,Tide and wave,4.0,0.0
+Zimbabwe,Nuclear,1.0,0.0
+Zimbabwe,Biomass and waste,3.0,0.027397260273972608
+Zimbabwe,Geothermal,3.0,0.0
+Zimbabwe,"Solar, tide, wave, fuel cell",3.0,0.0
+Zimbabwe,Wind,0.0,0.0
+Zimbabwe,Hydroelectricity,2.0,0.5342465753424657
+Zimbabwe,Fossil fuels,1.0,0.43835616438356173
+Zimbabwe,Renewable,1.0,0.5616438356164383
+Zimbabwe,Non-hydro renewable,2.0,0.027397260273972608
+Zimbabwe,Total Electricity net generation,0.0,1.0
+Zimbabwe,Hydroelectric pumped storage,1.0,0.0
+Equatorial Guinea,Solar,4.0,0.0
+Equatorial Guinea,Tide and wave,4.0,0.0
+Equatorial Guinea,Nuclear,1.0,0.0
+Equatorial Guinea,Fossil fuels,1.0,0.7058823529411764
+Equatorial Guinea,"Solar, tide, wave, fuel cell",3.0,0.0
+Equatorial Guinea,Wind,0.0,0.0
+Equatorial Guinea,Geothermal,3.0,0.0
+Equatorial Guinea,Non-hydro renewable,2.0,0.0
+Equatorial Guinea,Hydroelectricity,2.0,0.35294117647058765
+Equatorial Guinea,Renewable,1.0,0.35294117647058765
+Equatorial Guinea,Total Electricity net generation,0.0,1.0
+Equatorial Guinea,Biomass and waste,3.0,0.0
+Equatorial Guinea,Hydroelectric pumped storage,1.0,0.0
+Cabo Verde,Tide and wave,4.0,0.0
+Cabo Verde,Solar,4.0,0.0
+Cabo Verde,Fossil fuels,1.0,1.0
+Cabo Verde,Geothermal,3.0,0.0
+Cabo Verde,Biomass and waste,3.0,0.0
+Cabo Verde,Nuclear,1.0,0.0
+Cabo Verde,Renewable,1.0,0.0
+Cabo Verde,Hydroelectricity,2.0,0.0
+Cabo Verde,Non-hydro renewable,2.0,0.0
+Cabo Verde,Total Electricity net generation,0.0,1.0
+Cabo Verde,"Solar, tide, wave, fuel cell",3.0,0.0
+Cabo Verde,Wind,0.0,0.0
+Cabo Verde,Hydroelectric pumped storage,1.0,0.0
+Niue,Tide and wave,4.0,0.0
+Niue,Solar,4.0,0.0
+Niue,Fossil fuels,1.0,0.0
+Niue,Nuclear,1.0,0.0
+Niue,"Solar, tide, wave, fuel cell",3.0,0.0
+Niue,Biomass and waste,3.0,0.0
+Niue,Geothermal,3.0,0.0
+Niue,Wind,0.0,0.0
+Niue,Hydroelectricity,2.0,0.0
+Niue,Renewable,1.0,0.0
+Niue,Non-hydro renewable,2.0,0.0
+Niue,Total Electricity net generation,0.0,0.0
+Niue,Hydroelectric pumped storage,1.0,0.0
+Canada,Tide and wave,4.0,0.00031201248049921997
+Canada,Solar,4.0,0.00546021840873635
+Canada,Fossil fuels,1.0,0.18252730109204368
+Canada,Geothermal,3.0,0.0
+Canada,Biomass and waste,3.0,0.011544461778471139
+Canada,Hydroelectricity,2.0,0.6068642745709828
+Canada,Nuclear,1.0,0.1482059282371295
+Canada,Renewable,1.0,0.6677067082683308
+Canada,Non-hydro renewable,2.0,0.062402496099843996
+Canada,Total Electricity net generation,0.0,1.0
+Canada,"Solar, tide, wave, fuel cell",3.0,0.005928237129485178
+Canada,Wind,0.0,0.0436817472698908
+Canada,Hydroelectric pumped storage,1.0,0.0
+Hong Kong,Solar,4.0,0.0
+Hong Kong,Tide and wave,4.0,0.0
+Hong Kong,Nuclear,1.0,0.0
+Hong Kong,Fossil fuels,1.0,1.0
+Hong Kong,Wind,0.0,0.0
+Hong Kong,"Solar, tide, wave, fuel cell",3.0,0.0
+Hong Kong,Geothermal,3.0,0.0
+Hong Kong,Non-hydro renewable,2.0,0.002857142857142857
+Hong Kong,Hydroelectricity,2.0,0.0
+Hong Kong,Renewable,1.0,0.002857142857142857
+Hong Kong,Total Electricity net generation,0.0,1.0
+Hong Kong,Biomass and waste,3.0,0.002857142857142857
+Hong Kong,Hydroelectric pumped storage,1.0,0.0
+Mozambique,Tide and wave,4.0,0.0
+Mozambique,Solar,4.0,0.0
+Mozambique,Fossil fuels,1.0,0.16470588235294112
+Mozambique,Nuclear,1.0,0.0
+Mozambique,"Solar, tide, wave, fuel cell",3.0,0.0
+Mozambique,Biomass and waste,3.0,0.0
+Mozambique,Geothermal,3.0,0.0
+Mozambique,Wind,0.0,0.0
+Mozambique,Hydroelectricity,2.0,0.8235294117647058
+Mozambique,Renewable,1.0,0.8235294117647058
+Mozambique,Non-hydro renewable,2.0,0.0
+Mozambique,Total Electricity net generation,0.0,1.0
+Mozambique,Hydroelectric pumped storage,1.0,0.0
+El Salvador,Tide and wave,4.0,0.0
+El Salvador,Solar,4.0,0.037735849056603786
+El Salvador,Fossil fuels,1.0,0.24528301886792458
+El Salvador,Nuclear,1.0,0.0
+El Salvador,Wind,0.0,0.0
+El Salvador,"Solar, tide, wave, fuel cell",3.0,0.037735849056603786
+El Salvador,Biomass and waste,3.0,0.13207547169811307
+El Salvador,Geothermal,3.0,0.28301886792452835
+El Salvador,Non-hydro renewable,2.0,0.4528301886792452
+El Salvador,Hydroelectricity,2.0,0.3018867924528303
+El Salvador,Renewable,1.0,0.7547169811320756
+El Salvador,Total Electricity net generation,0.0,1.0
+El Salvador,Hydroelectric pumped storage,1.0,0.0
+Mauritania,Tide and wave,4.0,0.0
+Mauritania,Solar,4.0,0.08333333333333334
+Mauritania,Fossil fuels,1.0,0.5833333333333326
+Mauritania,Nuclear,1.0,0.0
+Mauritania,"Solar, tide, wave, fuel cell",3.0,0.08333333333333334
+Mauritania,Biomass and waste,3.0,0.0
+Mauritania,Geothermal,3.0,0.0
+Mauritania,Wind,0.0,0.08333333333333334
+Mauritania,Hydroelectricity,2.0,0.16666666666666669
+Mauritania,Renewable,1.0,0.4166666666666667
+Mauritania,Non-hydro renewable,2.0,0.16666666666666669
+Mauritania,Total Electricity net generation,0.0,1.0
+Mauritania,Hydroelectric pumped storage,1.0,0.0
+Vietnam,Tide and wave,4.0,0.0
+Vietnam,Solar,4.0,0.0
+Vietnam,Nuclear,1.0,0.0
+Vietnam,Fossil fuels,1.0,0.5953757225433526
+Vietnam,Wind,0.0,0.0017341040462427691
+Vietnam,Biomass and waste,3.0,0.0
+Vietnam,Geothermal,3.0,0.0
+Vietnam,"Solar, tide, wave, fuel cell",3.0,0.0
+Vietnam,Renewable,1.0,0.41040462427745666
+Vietnam,Non-hydro renewable,2.0,0.0023121387283236996
+Vietnam,Hydroelectricity,2.0,0.4046242774566474
+Vietnam,Total Electricity net generation,0.0,1.0
+Vietnam,Hydroelectric pumped storage,1.0,0.0
+Ireland,Solar,4.0,0.0
+Ireland,Tide and wave,4.0,0.0
+Ireland,Nuclear,1.0,0.0
+Ireland,Fossil fuels,1.0,0.684931506849315
+Ireland,Wind,0.0,0.2534246575342466
+Ireland,"Solar, tide, wave, fuel cell",3.0,0.0
+Ireland,Geothermal,3.0,0.0
+Ireland,Non-hydro renewable,2.0,0.2842465753424658
+Ireland,Hydroelectricity,2.0,0.023972602739725995
+Ireland,Renewable,1.0,0.3082191780821918
+Ireland,Total Electricity net generation,0.0,0.9931506849315068
+Ireland,Biomass and waste,3.0,0.03082191780821918
+Ireland,Hydroelectric pumped storage,1.0,-0.006849315068493151
+Timor-Leste,Tide and wave,4.0,0.0
+Timor-Leste,Solar,4.0,0.0
+Timor-Leste,Fossil fuels,1.0,0.0
+Timor-Leste,Nuclear,1.0,0.0
+Timor-Leste,Wind,0.0,0.0
+Timor-Leste,"Solar, tide, wave, fuel cell",3.0,0.0
+Timor-Leste,Biomass and waste,3.0,0.0
+Timor-Leste,Geothermal,3.0,0.0
+Timor-Leste,Non-hydro renewable,2.0,0.0
+Timor-Leste,Hydroelectricity,2.0,0.0
+Timor-Leste,Renewable,1.0,0.0
+Timor-Leste,Total Electricity net generation,0.0,0.0
+Timor-Leste,Hydroelectric pumped storage,1.0,0.0
+Croatia,Solar,4.0,0.0
+Croatia,Tide and wave,4.0,0.0
+Croatia,Nuclear,1.0,0.0
+Croatia,Fossil fuels,1.0,0.4
+Croatia,Wind,0.0,0.10909090909090909
+Croatia,"Solar, tide, wave, fuel cell",3.0,0.0
+Croatia,Geothermal,3.0,0.0
+Croatia,Non-hydro renewable,2.0,0.16363636363636364
+Croatia,Hydroelectricity,2.0,0.4818181818181817
+Croatia,Renewable,1.0,0.6454545454545454
+Croatia,Total Electricity net generation,0.0,1.0
+Croatia,Biomass and waste,3.0,0.045454545454545456
+Croatia,Hydroelectric pumped storage,1.0,0.0
+Bolivia,Tide and wave,4.0,0.0
+Bolivia,Solar,4.0,0.0
+Bolivia,Fossil fuels,1.0,0.7263157894736842
+Bolivia,Biomass and waste,3.0,0.03157894736842095
+Bolivia,Geothermal,3.0,0.0
+Bolivia,Hydroelectricity,2.0,0.23157894736842108
+Bolivia,Renewable,1.0,0.2736842105263158
+Bolivia,Nuclear,1.0,0.0
+Bolivia,Non-hydro renewable,2.0,0.03157894736842095
+Bolivia,Total Electricity net generation,0.0,1.0
+Bolivia,"Solar, tide, wave, fuel cell",3.0,0.0
+Bolivia,Wind,0.0,0.0
+Bolivia,Hydroelectric pumped storage,1.0,0.0
+Uruguay,Tide and wave,4.0,0.0
+Uruguay,Solar,4.0,0.02142857142857136
+Uruguay,Nuclear,1.0,0.0
+Uruguay,Fossil fuels,1.0,0.014285714285714287
+Uruguay,Wind,0.0,0.27142857142857135
+Uruguay,"Solar, tide, wave, fuel cell",3.0,0.02142857142857136
+Uruguay,Biomass and waste,3.0,0.1285714285714286
+Uruguay,Geothermal,3.0,0.0
+Uruguay,Renewable,1.0,0.9285714285714286
+Uruguay,Non-hydro renewable,2.0,0.42142857142857143
+Uruguay,Hydroelectricity,2.0,0.5285714285714286
+Uruguay,Total Electricity net generation,0.0,1.0
+Uruguay,Hydroelectric pumped storage,1.0,0.0
+Djibouti,Tide and wave,4.0,0.0
+Djibouti,Solar,4.0,0.0
+Djibouti,Fossil fuels,1.0,1.0
+Djibouti,Biomass and waste,3.0,0.0
+Djibouti,Geothermal,3.0,0.0
+Djibouti,Nuclear,1.0,0.0
+Djibouti,Hydroelectricity,2.0,0.0
+Djibouti,Renewable,1.0,0.0
+Djibouti,Non-hydro renewable,2.0,0.0
+Djibouti,Total Electricity net generation,0.0,1.0
+Djibouti,"Solar, tide, wave, fuel cell",3.0,0.0
+Djibouti,Wind,0.0,0.0
+Djibouti,Hydroelectric pumped storage,1.0,0.0
+United Kingdom,Solar,4.0,0.03761755485893417
+United Kingdom,Tide and wave,4.0,0.0
+United Kingdom,Nuclear,1.0,0.2006269592476489
+United Kingdom,Fossil fuels,1.0,0.47648902821316613
+United Kingdom,"Solar, tide, wave, fuel cell",3.0,0.03761755485893417
+United Kingdom,Wind,0.0,0.15673981191222572
+United Kingdom,Geothermal,3.0,0.0
+United Kingdom,Biomass and waste,3.0,0.11285266457680251
+United Kingdom,Non-hydro renewable,2.0,0.3072100313479624
+United Kingdom,Renewable,1.0,0.322884012539185
+United Kingdom,Hydroelectricity,2.0,0.018495297805642633
+United Kingdom,Total Electricity net generation,0.0,0.9968652037617555
+United Kingdom,Hydroelectric pumped storage,1.0,-0.003134796238244514
+World,Tide and wave,4.0,0.0011073742925108688
+World,Solar,4.0,0.018333196620457716
+World,Nuclear,1.0,0.10187843491099992
+World,Fossil fuels,1.0,0.6409236321876794
+World,"Solar, tide, wave, fuel cell",3.0,0.019440570912968583
+World,Wind,0.0,0.046304650972028544
+World,Biomass and waste,3.0,0.023952095808383235
+World,Geothermal,3.0,0.003158067426790255
+World,Hydroelectricity,2.0,0.16430153391846444
+World,Renewable,1.0,0.25727996062669184
+World,Non-hydro renewable,2.0,0.09297842670822738
+World,Total Electricity net generation,0.0,0.9984414732179476
+World,Hydroelectric pumped storage,1.0,-0.0015585267820523337
+Netherlands Antilles,Tide and wave,4.0,0.0
+Netherlands Antilles,Solar,4.0,0.0
+Netherlands Antilles,Fossil fuels,1.0,0.75
+Netherlands Antilles,Nuclear,1.0,0.0
+Netherlands Antilles,"Solar, tide, wave, fuel cell",3.0,0.0
+Netherlands Antilles,Biomass and waste,3.0,0.0
+Netherlands Antilles,Geothermal,3.0,0.0
+Netherlands Antilles,Wind,0.0,0.24999999999999922
+Netherlands Antilles,Hydroelectricity,2.0,0.0
+Netherlands Antilles,Renewable,1.0,0.24999999999999922
+Netherlands Antilles,Non-hydro renewable,2.0,0.24999999999999922
+Netherlands Antilles,Total Electricity net generation,0.0,1.0
+Netherlands Antilles,Hydroelectric pumped storage,1.0,0.0
+Yemen,Solar,4.0,0.044444444444444446
+Yemen,Tide and wave,4.0,0.0
+Yemen,Nuclear,1.0,0.0
+Yemen,"Solar, tide, wave, fuel cell",3.0,0.044444444444444446
+Yemen,Biomass and waste,3.0,0.0
+Yemen,Geothermal,3.0,0.0
+Yemen,Wind,0.0,0.0
+Yemen,Hydroelectricity,2.0,0.0
+Yemen,Fossil fuels,1.0,0.9555555555555553
+Yemen,Renewable,1.0,0.044444444444444446
+Yemen,Non-hydro renewable,2.0,0.044444444444444446
+Yemen,Total Electricity net generation,0.0,1.0
+Yemen,Hydroelectric pumped storage,1.0,0.0
+Israel,Solar,4.0,0.023809523809523808
+Israel,Tide and wave,4.0,0.0
+Israel,Nuclear,1.0,0.0
+Israel,Fossil fuels,1.0,0.9841269841269841
+Israel,"Solar, tide, wave, fuel cell",3.0,0.023809523809523808
+Israel,Wind,0.0,0.0031746031746031746
+Israel,Geothermal,3.0,0.0
+Israel,Hydroelectricity,2.0,0.0
+Israel,Non-hydro renewable,2.0,0.026984126984126985
+Israel,Renewable,1.0,0.026984126984126985
+Israel,Total Electricity net generation,0.0,1.0
+Israel,Biomass and waste,3.0,0.0
+Israel,Hydroelectric pumped storage,1.0,0.0
+Grenada,Solar,4.0,0.0
+Grenada,Tide and wave,4.0,0.0
+Grenada,Nuclear,1.0,0.0
+Grenada,Fossil fuels,1.0,1.0
+Grenada,"Solar, tide, wave, fuel cell",3.0,0.0
+Grenada,Wind,0.0,0.0
+Grenada,Geothermal,3.0,0.0
+Grenada,Non-hydro renewable,2.0,0.0
+Grenada,Hydroelectricity,2.0,0.0
+Grenada,Renewable,1.0,0.0
+Grenada,Total Electricity net generation,0.0,1.0
+Grenada,Biomass and waste,3.0,0.0
+Grenada,Hydroelectric pumped storage,1.0,0.0
+Italy,Solar,4.0,0.08519701810436635
+Italy,Tide and wave,4.0,0.0021299254526091554
+Italy,Nuclear,1.0,0.0
+Italy,Fossil fuels,1.0,0.6247781327653532
+Italy,"Solar, tide, wave, fuel cell",3.0,0.08874689385871495
+Italy,Wind,0.0,0.06389776357827476
+Italy,Geothermal,3.0,0.020589279375221866
+Italy,Hydroelectricity,2.0,0.12779552715654952
+Italy,Non-hydro renewable,2.0,0.24849130280440185
+Italy,Renewable,1.0,0.37628682996095136
+Italy,Total Electricity net generation,0.0,0.997515086971956
+Italy,Biomass and waste,3.0,0.07809726659566915
+Italy,Hydroelectric pumped storage,1.0,-0.002484913028044015
+Australia,Tide and wave,4.0,0.0
+Australia,Solar,4.0,0.03303425774877651
+Australia,Fossil fuels,1.0,0.8360522022838499
+Australia,Biomass and waste,3.0,0.014274061990212073
+Australia,Wind,0.0,0.053017944535073414
+Australia,"Solar, tide, wave, fuel cell",3.0,0.03303425774877651
+Australia,Renewable,1.0,0.1631321370309951
+Australia,Hydroelectricity,2.0,0.06525285481239805
+Australia,Geothermal,3.0,0.0
+Australia,Non-hydro renewable,2.0,0.09787928221859707
+Australia,Nuclear,1.0,0.0
+Australia,Total Electricity net generation,0.0,0.9991843393148451
+Australia,Hydroelectric pumped storage,1.0,-0.0008156606851549756
+The Bahamas,Tide and wave,4.0,0.0
+The Bahamas,Solar,4.0,0.0
+The Bahamas,Fossil fuels,1.0,1.0
+The Bahamas,Biomass and waste,3.0,0.0
+The Bahamas,Geothermal,3.0,0.0
+The Bahamas,Renewable,1.0,0.0
+The Bahamas,Hydroelectricity,2.0,0.0
+The Bahamas,Non-hydro renewable,2.0,0.0
+The Bahamas,Nuclear,1.0,0.0
+The Bahamas,Total Electricity net generation,0.0,1.0
+The Bahamas,"Solar, tide, wave, fuel cell",3.0,0.0
+The Bahamas,Wind,0.0,0.0
+The Bahamas,Hydroelectric pumped storage,1.0,0.0
+Belize,Tide and wave,4.0,0.0
+Belize,Solar,4.0,0.0
+Belize,Fossil fuels,1.0,0.0
+Belize,Biomass and waste,3.0,0.25
+Belize,Geothermal,3.0,0.0
+Belize,Renewable,1.0,1.0
+Belize,Hydroelectricity,2.0,0.7499999999999976
+Belize,Nuclear,1.0,0.0
+Belize,Non-hydro renewable,2.0,0.25
+Belize,Total Electricity net generation,0.0,1.0
+Belize,"Solar, tide, wave, fuel cell",3.0,0.0
+Belize,Wind,0.0,0.0
+Belize,Hydroelectric pumped storage,1.0,0.0
+Dominica,Tide and wave,4.0,0.0
+Dominica,Solar,4.0,0.0
+Dominica,Fossil fuels,1.0,0.0
+Dominica,Biomass and waste,3.0,0.0
+Dominica,Geothermal,3.0,0.0
+Dominica,Nuclear,1.0,0.0
+Dominica,Hydroelectricity,2.0,0.0
+Dominica,Renewable,1.0,0.0
+Dominica,Non-hydro renewable,2.0,0.0
+Dominica,Total Electricity net generation,0.0,0.0
+Dominica,"Solar, tide, wave, fuel cell",3.0,0.0
+Dominica,Wind,0.0,0.0
+Dominica,Hydroelectric pumped storage,1.0,0.0
+United Arab Emirates,Tide and wave,4.0,0.0
+United Arab Emirates,Solar,4.0,0.006299212598425198
+United Arab Emirates,Fossil fuels,1.0,0.9921259842519685
+United Arab Emirates,Biomass and waste,3.0,0.0
+United Arab Emirates,Wind,0.0,0.0
+United Arab Emirates,"Solar, tide, wave, fuel cell",3.0,0.006299212598425198
+United Arab Emirates,Hydroelectricity,2.0,0.0
+United Arab Emirates,Renewable,1.0,0.006299212598425198
+United Arab Emirates,Geothermal,3.0,0.0
+United Arab Emirates,Non-hydro renewable,2.0,0.006299212598425198
+United Arab Emirates,Nuclear,1.0,0.0
+United Arab Emirates,Total Electricity net generation,0.0,1.0
+United Arab Emirates,Hydroelectric pumped storage,1.0,0.0
+Tunisia,Tide and wave,4.0,0.0
+Tunisia,Solar,4.0,0.005263157894736842
+Tunisia,Fossil fuels,1.0,1.0
+Tunisia,Nuclear,1.0,0.0
+Tunisia,Wind,0.0,0.021052631578947368
+Tunisia,"Solar, tide, wave, fuel cell",3.0,0.005263157894736842
+Tunisia,Biomass and waste,3.0,0.0
+Tunisia,Geothermal,3.0,0.0
+Tunisia,Non-hydro renewable,2.0,0.031578947368421005
+Tunisia,Hydroelectricity,2.0,0.0
+Tunisia,Renewable,1.0,0.031578947368421005
+Tunisia,Total Electricity net generation,0.0,1.0
+Tunisia,Hydroelectric pumped storage,1.0,0.0
+Aruba,Tide and wave,4.0,0.0
+Aruba,Solar,4.0,0.0
+Aruba,Fossil fuels,1.0,0.888888888888889
+Aruba,Wind,0.0,0.11111111111111112
+Aruba,Biomass and waste,3.0,0.0
+Aruba,"Solar, tide, wave, fuel cell",3.0,0.0
+Aruba,Hydroelectricity,2.0,0.0
+Aruba,Renewable,1.0,0.11111111111111112
+Aruba,Geothermal,3.0,0.0
+Aruba,Non-hydro renewable,2.0,0.11111111111111112
+Aruba,Nuclear,1.0,0.0
+Aruba,Total Electricity net generation,0.0,1.0
+Aruba,Hydroelectric pumped storage,1.0,0.0

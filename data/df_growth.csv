@@ -1,0 +1,1321 @@
+,country,label,growth
+0,Reunion,Hydroelectricity,0.0
+1,Reunion,Biomass and waste,0.0
+2,Reunion,Geothermal,0.0
+3,Reunion,Solar,0.5000000000000002
+4,Reunion,Wind,0.0
+5,Reunion,Tide and wave,0.0
+0,Costa Rica,Hydroelectricity,0.19444444444444442
+1,Costa Rica,Biomass and waste,0.0
+2,Costa Rica,Geothermal,-0.2142857142857142
+3,Costa Rica,Solar,0.0
+4,Costa Rica,Wind,1.6
+5,Costa Rica,Tide and wave,0.0
+0,Namibia,Hydroelectricity,0.0
+1,Namibia,Biomass and waste,0.0
+2,Namibia,Geothermal,0.0
+3,Namibia,Solar,0.0
+4,Namibia,Wind,0.0
+5,Namibia,Tide and wave,0.0
+0,Solomon Islands,Hydroelectricity,0.0
+1,Solomon Islands,Biomass and waste,0.0
+2,Solomon Islands,Geothermal,0.0
+3,Solomon Islands,Solar,0.0
+4,Solomon Islands,Wind,0.0
+5,Solomon Islands,Tide and wave,0.0
+0,South Sudan,Hydroelectricity,0.0
+1,South Sudan,Biomass and waste,0.0
+2,South Sudan,Geothermal,0.0
+3,South Sudan,Solar,0.0
+4,South Sudan,Wind,0.0
+5,South Sudan,Tide and wave,0.0
+0,Iraq,Hydroelectricity,-0.6744186046511629
+1,Iraq,Biomass and waste,0.0
+2,Iraq,Geothermal,0.0
+3,Iraq,Solar,0.0
+4,Iraq,Wind,0.0
+5,Iraq,Tide and wave,0.0
+0,Saint Kitts and Nevis,Hydroelectricity,0.0
+1,Saint Kitts and Nevis,Biomass and waste,0.0
+2,Saint Kitts and Nevis,Geothermal,0.0
+3,Saint Kitts and Nevis,Solar,0.0
+4,Saint Kitts and Nevis,Wind,0.0
+5,Saint Kitts and Nevis,Tide and wave,0.0
+0,Zimbabwe,Hydroelectricity,-0.26415094339622636
+1,Zimbabwe,Biomass and waste,0.0
+2,Zimbabwe,Geothermal,0.0
+3,Zimbabwe,Solar,0.0
+4,Zimbabwe,Wind,0.0
+5,Zimbabwe,Tide and wave,0.0
+0,Guyana,Hydroelectricity,0.0
+1,Guyana,Biomass and waste,0.0
+2,Guyana,Geothermal,0.0
+3,Guyana,Solar,0.0
+4,Guyana,Wind,0.0
+5,Guyana,Tide and wave,0.0
+0,Nepal,Hydroelectricity,0.3142857142857143
+1,Nepal,Biomass and waste,0.0
+2,Nepal,Geothermal,0.0
+3,Nepal,Solar,0.0
+4,Nepal,Wind,0.0
+5,Nepal,Tide and wave,0.0
+0,Sweden,Hydroelectricity,-0.16666666666666663
+1,Sweden,Biomass and waste,0.07692307692307687
+2,Sweden,Geothermal,0.0
+3,Sweden,Solar,0.0
+4,Sweden,Wind,1.5
+5,Sweden,Tide and wave,0.0
+0,Argentina,Hydroelectricity,0.054054054054053946
+1,Argentina,Biomass and waste,-0.12499999999999989
+2,Argentina,Geothermal,0.0
+3,Argentina,Solar,0.0
+4,Argentina,Wind,0.5000000000000002
+5,Argentina,Tide and wave,0.0
+0,Saint Lucia,Hydroelectricity,0.0
+1,Saint Lucia,Biomass and waste,0.0
+2,Saint Lucia,Geothermal,0.0
+3,Saint Lucia,Solar,0.0
+4,Saint Lucia,Wind,0.0
+5,Saint Lucia,Tide and wave,0.0
+0,Uzbekistan,Hydroelectricity,0.2575757575757578
+1,Uzbekistan,Biomass and waste,0.0
+2,Uzbekistan,Geothermal,0.0
+3,Uzbekistan,Solar,0.0
+4,Uzbekistan,Wind,0.0
+5,Uzbekistan,Tide and wave,0.0
+0,Hungary,Hydroelectricity,0.0
+1,Hungary,Biomass and waste,0.2777777777777777
+2,Hungary,Geothermal,0.0
+3,Hungary,Solar,0.0
+4,Hungary,Wind,0.0
+5,Hungary,Tide and wave,0.0
+0,Antarctica,Hydroelectricity,0.0
+1,Antarctica,Biomass and waste,0.0
+2,Antarctica,Geothermal,0.0
+3,Antarctica,Solar,0.0
+4,Antarctica,Wind,0.0
+5,Antarctica,Tide and wave,0.0
+0,Sudan,Hydroelectricity,0.40909090909090917
+1,Sudan,Biomass and waste,0.0
+2,Sudan,Geothermal,0.0
+3,Sudan,Solar,0.0
+4,Sudan,Wind,0.0
+5,Sudan,Tide and wave,0.0
+0,Sierra Leone,Hydroelectricity,0.0
+1,Sierra Leone,Biomass and waste,0.0
+2,Sierra Leone,Geothermal,0.0
+3,Sierra Leone,Solar,0.0
+4,Sierra Leone,Wind,0.0
+5,Sierra Leone,Tide and wave,0.0
+0,Peru,Hydroelectricity,0.38095238095238093
+1,Peru,Biomass and waste,0.4285714285714284
+2,Peru,Geothermal,0.0
+3,Peru,Solar,0.0
+4,Peru,Wind,0.0
+5,Peru,Tide and wave,0.0
+0,Palestinian Territories,Hydroelectricity,0.0
+1,Palestinian Territories,Biomass and waste,0.0
+2,Palestinian Territories,Geothermal,0.0
+3,Palestinian Territories,Solar,0.0
+4,Palestinian Territories,Wind,0.0
+5,Palestinian Territories,Tide and wave,0.0
+0,The Bahamas,Hydroelectricity,0.0
+1,The Bahamas,Biomass and waste,0.0
+2,The Bahamas,Geothermal,0.0
+3,The Bahamas,Solar,0.0
+4,The Bahamas,Wind,0.0
+5,The Bahamas,Tide and wave,0.0
+0,Martinique,Hydroelectricity,0.0
+1,Martinique,Biomass and waste,0.0
+2,Martinique,Geothermal,0.0
+3,Martinique,Solar,0.0
+4,Martinique,Wind,0.0
+5,Martinique,Tide and wave,0.0
+0,Kenya,Hydroelectricity,-0.255813953488372
+1,Kenya,Biomass and waste,-0.5
+2,Kenya,Geothermal,2.1999999999999997
+3,Kenya,Solar,0.0
+4,Kenya,Wind,0.0
+5,Kenya,Tide and wave,0.0
+0,Côte d’Ivoire,Hydroelectricity,-0.16666666666666674
+1,Côte d’Ivoire,Biomass and waste,0.0
+2,Côte d’Ivoire,Geothermal,0.0
+3,Côte d’Ivoire,Solar,0.0
+4,Côte d’Ivoire,Wind,0.0
+5,Côte d’Ivoire,Tide and wave,0.0
+0,Mauritania,Hydroelectricity,1.0
+1,Mauritania,Biomass and waste,0.0
+2,Mauritania,Geothermal,0.0
+3,Mauritania,Solar,0.0
+4,Mauritania,Wind,0.0
+5,Mauritania,Tide and wave,0.0
+0,Greece,Hydroelectricity,-0.09090909090909094
+1,Greece,Biomass and waste,0.0
+2,Greece,Geothermal,0.0
+3,Greece,Solar,1.6666666666666665
+4,Greece,Wind,0.71875
+5,Greece,Tide and wave,0.0
+0,Central African Republic,Hydroelectricity,1.0
+1,Central African Republic,Biomass and waste,0.0
+2,Central African Republic,Geothermal,0.0
+3,Central African Republic,Solar,0.0
+4,Central African Republic,Wind,0.0
+5,Central African Republic,Tide and wave,0.0
+0,Japan,Hydroelectricity,0.09210526315789469
+1,Japan,Biomass and waste,1.0499999999999998
+2,Japan,Geothermal,-0.08333333333333326
+3,Japan,Solar,7.333333333333334
+4,Japan,Wind,0.35416666666666674
+5,Japan,Tide and wave,-0.04761904761904767
+0,Ireland,Hydroelectricity,-0.125
+1,Ireland,Biomass and waste,0.8
+2,Ireland,Geothermal,0.0
+3,Ireland,Solar,0.0
+4,Ireland,Wind,0.8500000000000001
+5,Ireland,Tide and wave,0.0
+0,Tonga,Hydroelectricity,0.0
+1,Tonga,Biomass and waste,0.0
+2,Tonga,Geothermal,0.0
+3,Tonga,Solar,0.0
+4,Tonga,Wind,0.0
+5,Tonga,Tide and wave,0.0
+0,Azerbaijan,Hydroelectricity,-0.05555555555555547
+1,Azerbaijan,Biomass and waste,0.0
+2,Azerbaijan,Geothermal,0.0
+3,Azerbaijan,Solar,0.0
+4,Azerbaijan,Wind,0.0
+5,Azerbaijan,Tide and wave,0.0
+0,Australia,Hydroelectricity,0.1428571428571428
+1,Australia,Biomass and waste,0.16666666666666674
+2,Australia,Geothermal,0.0
+3,Australia,Solar,2.5217391304347827
+4,Australia,Wind,0.8571428571428572
+5,Australia,Tide and wave,0.0
+0,Kuwait,Hydroelectricity,0.0
+1,Kuwait,Biomass and waste,0.0
+2,Kuwait,Geothermal,0.0
+3,Kuwait,Solar,0.0
+4,Kuwait,Wind,0.0
+5,Kuwait,Tide and wave,0.0
+0,Netherlands Antilles,Hydroelectricity,0.0
+1,Netherlands Antilles,Biomass and waste,0.0
+2,Netherlands Antilles,Geothermal,0.0
+3,Netherlands Antilles,Solar,0.0
+4,Netherlands Antilles,Wind,0.5000000000000002
+5,Netherlands Antilles,Tide and wave,0.0
+0,Cook Islands,Hydroelectricity,0.0
+1,Cook Islands,Biomass and waste,0.0
+2,Cook Islands,Geothermal,0.0
+3,Cook Islands,Solar,0.0
+4,Cook Islands,Wind,0.0
+5,Cook Islands,Tide and wave,0.0
+0,Eritrea,Hydroelectricity,0.0
+1,Eritrea,Biomass and waste,0.0
+2,Eritrea,Geothermal,0.0
+3,Eritrea,Solar,0.0
+4,Eritrea,Wind,0.0
+5,Eritrea,Tide and wave,0.0
+0,Venezuela,Hydroelectricity,-0.2098765432098766
+1,Venezuela,Biomass and waste,0.0
+2,Venezuela,Geothermal,0.0
+3,Venezuela,Solar,0.0
+4,Venezuela,Wind,0.0
+5,Venezuela,Tide and wave,0.0
+0,Albania,Hydroelectricity,-0.042553191489361764
+1,Albania,Biomass and waste,0.0
+2,Albania,Geothermal,0.0
+3,Albania,Solar,0.0
+4,Albania,Wind,0.0
+5,Albania,Tide and wave,0.0
+0,Afghanistan,Hydroelectricity,0.5714285714285714
+1,Afghanistan,Biomass and waste,0.0
+2,Afghanistan,Geothermal,0.0
+3,Afghanistan,Solar,0.0
+4,Afghanistan,Wind,0.0
+5,Afghanistan,Tide and wave,0.0
+0,Qatar,Hydroelectricity,0.0
+1,Qatar,Biomass and waste,0.0
+2,Qatar,Geothermal,0.0
+3,Qatar,Solar,0.0
+4,Qatar,Wind,0.0
+5,Qatar,Tide and wave,0.0
+0,Zambia,Hydroelectricity,0.0
+1,Zambia,Biomass and waste,0.0
+2,Zambia,Geothermal,0.0
+3,Zambia,Solar,0.0
+4,Zambia,Wind,0.0
+5,Zambia,Tide and wave,0.0
+0,Bhutan,Hydroelectricity,0.14925373134328357
+1,Bhutan,Biomass and waste,0.0
+2,Bhutan,Geothermal,0.0
+3,Bhutan,Solar,0.0
+4,Bhutan,Wind,0.0
+5,Bhutan,Tide and wave,0.0
+0,Wake Island,Hydroelectricity,0.0
+1,Wake Island,Biomass and waste,0.0
+2,Wake Island,Geothermal,0.0
+3,Wake Island,Solar,0.0
+4,Wake Island,Wind,0.0
+5,Wake Island,Tide and wave,0.0
+0,Dominica,Hydroelectricity,0.0
+1,Dominica,Biomass and waste,0.0
+2,Dominica,Geothermal,0.0
+3,Dominica,Solar,0.0
+4,Dominica,Wind,0.0
+5,Dominica,Tide and wave,0.0
+0,Netherlands,Hydroelectricity,0.0
+1,Netherlands,Biomass and waste,-0.30000000000000004
+2,Netherlands,Geothermal,0.0
+3,Netherlands,Solar,10.0
+4,Netherlands,Wind,1.2000000000000002
+5,Netherlands,Tide and wave,0.0
+0,Guam,Hydroelectricity,0.0
+1,Guam,Biomass and waste,0.0
+2,Guam,Geothermal,0.0
+3,Guam,Solar,0.0
+4,Guam,Wind,0.0
+5,Guam,Tide and wave,0.0
+0,Bolivia,Hydroelectricity,-0.04347826086956508
+1,Bolivia,Biomass and waste,2.0000000000000004
+2,Bolivia,Geothermal,0.0
+3,Bolivia,Solar,0.0
+4,Bolivia,Wind,0.0
+5,Bolivia,Tide and wave,0.0
+0,Panama,Hydroelectricity,0.358490566037736
+1,Panama,Biomass and waste,0.0
+2,Panama,Geothermal,0.0
+3,Panama,Solar,0.0
+4,Panama,Wind,0.0
+5,Panama,Tide and wave,0.0
+0,Vietnam,Hydroelectricity,0.34615384615384626
+1,Vietnam,Biomass and waste,0.0
+2,Vietnam,Geothermal,0.0
+3,Vietnam,Solar,0.0
+4,Vietnam,Wind,0.0
+5,Vietnam,Tide and wave,0.0
+0,Indonesia,Hydroelectricity,0.3846153846153846
+1,Indonesia,Biomass and waste,1.6666666666666665
+2,Indonesia,Geothermal,0.3829787234042552
+3,Indonesia,Solar,0.0
+4,Indonesia,Wind,0.0
+5,Indonesia,Tide and wave,0.0
+0,Mozambique,Hydroelectricity,-0.06666666666666665
+1,Mozambique,Biomass and waste,0.0
+2,Mozambique,Geothermal,0.0
+3,Mozambique,Solar,0.0
+4,Mozambique,Wind,0.0
+5,Mozambique,Tide and wave,0.0
+0,Luxembourg,Hydroelectricity,0.0
+1,Luxembourg,Biomass and waste,0.0
+2,Luxembourg,Geothermal,0.0
+3,Luxembourg,Solar,0.0
+4,Luxembourg,Wind,0.0
+5,Luxembourg,Tide and wave,0.0
+0,Fiji,Hydroelectricity,0.0
+1,Fiji,Biomass and waste,0.0
+2,Fiji,Geothermal,0.0
+3,Fiji,Solar,0.0
+4,Fiji,Wind,0.0
+5,Fiji,Tide and wave,0.0
+0,Switzerland,Hydroelectricity,-0.10526315789473684
+1,Switzerland,Biomass and waste,0.14814814814814814
+2,Switzerland,Geothermal,0.0
+3,Switzerland,Solar,4.666666666666666
+4,Switzerland,Wind,0.0
+5,Switzerland,Tide and wave,0.0
+0,Hong Kong,Hydroelectricity,0.0
+1,Hong Kong,Biomass and waste,0.0
+2,Hong Kong,Geothermal,0.0
+3,Hong Kong,Solar,0.0
+4,Hong Kong,Wind,0.0
+5,Hong Kong,Tide and wave,0.0
+0,Kiribati,Hydroelectricity,0.0
+1,Kiribati,Biomass and waste,0.0
+2,Kiribati,Geothermal,0.0
+3,Kiribati,Solar,0.0
+4,Kiribati,Wind,0.0
+5,Kiribati,Tide and wave,0.0
+0,Liberia,Hydroelectricity,0.0
+1,Liberia,Biomass and waste,0.0
+2,Liberia,Geothermal,0.0
+3,Liberia,Solar,0.0
+4,Liberia,Wind,0.0
+5,Liberia,Tide and wave,0.0
+0,Colombia,Hydroelectricity,0.2127659574468086
+1,Colombia,Biomass and waste,-0.30000000000000004
+2,Colombia,Geothermal,0.0
+3,Colombia,Solar,0.0
+4,Colombia,Wind,0.0
+5,Colombia,Tide and wave,0.0
+0,Yemen,Hydroelectricity,0.0
+1,Yemen,Biomass and waste,0.0
+2,Yemen,Geothermal,0.0
+3,Yemen,Solar,0.0
+4,Yemen,Wind,0.0
+5,Yemen,Tide and wave,0.0
+0,Finland,Hydroelectricity,-0.11764705882352944
+1,Finland,Biomass and waste,0.09090909090909083
+2,Finland,Geothermal,0.0
+3,Finland,Solar,0.0
+4,Finland,Wind,8.6
+5,Finland,Tide and wave,0.0
+0,Portugal,Hydroelectricity,0.03571428571428581
+1,Portugal,Biomass and waste,0.09375
+2,Portugal,Geothermal,1.0
+3,Portugal,Solar,1.5
+4,Portugal,Wind,0.19999999999999996
+5,Portugal,Tide and wave,0.0
+0,France,Hydroelectricity,-0.1694915254237288
+1,France,Biomass and waste,0.38888888888888884
+2,France,Geothermal,0.0
+3,France,Solar,1.1818181818181817
+4,France,Wind,0.6666666666666667
+5,France,Tide and wave,0.0
+0,Algeria,Hydroelectricity,0.0
+1,Algeria,Biomass and waste,0.0
+2,Algeria,Geothermal,0.0
+3,Algeria,Solar,2.0000000000000004
+4,Algeria,Wind,0.0
+5,Algeria,Tide and wave,0.0
+0,Timor-Leste,Hydroelectricity,0.0
+1,Timor-Leste,Biomass and waste,0.0
+2,Timor-Leste,Geothermal,0.0
+3,Timor-Leste,Solar,0.0
+4,Timor-Leste,Wind,0.0
+5,Timor-Leste,Tide and wave,0.0
+0,Serbia,Hydroelectricity,-0.010869565217391242
+1,Serbia,Biomass and waste,0.0
+2,Serbia,Geothermal,0.0
+3,Serbia,Solar,0.0
+4,Serbia,Wind,0.0
+5,Serbia,Tide and wave,0.0
+0,Saint Vincent/Grenadines,Hydroelectricity,0.0
+1,Saint Vincent/Grenadines,Biomass and waste,0.0
+2,Saint Vincent/Grenadines,Geothermal,0.0
+3,Saint Vincent/Grenadines,Solar,0.0
+4,Saint Vincent/Grenadines,Wind,0.0
+5,Saint Vincent/Grenadines,Tide and wave,0.0
+0,New Zealand,Hydroelectricity,0.08695652173913038
+1,New Zealand,Biomass and waste,0.0
+2,New Zealand,Geothermal,0.2931034482758621
+3,New Zealand,Solar,0.0
+4,New Zealand,Wind,0.0
+5,New Zealand,Tide and wave,0.0
+0,Kazakhstan,Hydroelectricity,0.44736842105263164
+1,Kazakhstan,Biomass and waste,0.0
+2,Kazakhstan,Geothermal,0.0
+3,Kazakhstan,Solar,0.0
+4,Kazakhstan,Wind,0.0
+5,Kazakhstan,Tide and wave,0.0
+0,Samoa,Hydroelectricity,0.0
+1,Samoa,Biomass and waste,0.0
+2,Samoa,Geothermal,0.0
+3,Samoa,Solar,0.0
+4,Samoa,Wind,0.0
+5,Samoa,Tide and wave,0.0
+0,Kosovo,Hydroelectricity,0.0
+1,Kosovo,Biomass and waste,0.0
+2,Kosovo,Geothermal,0.0
+3,Kosovo,Solar,0.0
+4,Kosovo,Wind,0.0
+5,Kosovo,Tide and wave,0.0
+0,Guinea,Hydroelectricity,1.2000000000000002
+1,Guinea,Biomass and waste,0.0
+2,Guinea,Geothermal,0.0
+3,Guinea,Solar,0.0
+4,Guinea,Wind,0.0
+5,Guinea,Tide and wave,0.0
+0,Saudi Arabia,Hydroelectricity,0.0
+1,Saudi Arabia,Biomass and waste,0.0
+2,Saudi Arabia,Geothermal,0.0
+3,Saudi Arabia,Solar,0.0
+4,Saudi Arabia,Wind,0.0
+5,Saudi Arabia,Tide and wave,0.0
+0,Croatia,Hydroelectricity,0.10416666666666674
+1,Croatia,Biomass and waste,0.0
+2,Croatia,Geothermal,0.0
+3,Croatia,Solar,0.0
+4,Croatia,Wind,2.999999999999999
+5,Croatia,Tide and wave,0.0
+0,India,Hydroelectricity,0.10619469026548667
+1,India,Biomass and waste,1.1428571428571428
+2,India,Geothermal,0.0
+3,India,Solar,10.304347826086957
+4,India,Wind,0.7
+5,India,Tide and wave,0.0
+0,Latvia,Hydroelectricity,0.18918918918918926
+1,Latvia,Biomass and waste,1.9999999999999996
+2,Latvia,Geothermal,0.0
+3,Latvia,Solar,0.0
+4,Latvia,Wind,0.0
+5,Latvia,Tide and wave,0.0
+0,Austria,Hydroelectricity,-0.1428571428571429
+1,Austria,Biomass and waste,0.01851851851851838
+2,Austria,Geothermal,0.0
+3,Austria,Solar,2.999999999999999
+4,Austria,Wind,1.5833333333333335
+5,Austria,Tide and wave,0.0
+0,South Africa,Hydroelectricity,-0.25
+1,South Africa,Biomass and waste,0.0
+2,South Africa,Geothermal,0.0
+3,South Africa,Solar,0.0
+4,South Africa,Wind,0.0
+5,South Africa,Tide and wave,0.0
+0,Gibraltar,Hydroelectricity,0.0
+1,Gibraltar,Biomass and waste,0.0
+2,Gibraltar,Geothermal,0.0
+3,Gibraltar,Solar,0.0
+4,Gibraltar,Wind,0.0
+5,Gibraltar,Tide and wave,0.0
+0,Rwanda,Hydroelectricity,2.0000000000000004
+1,Rwanda,Biomass and waste,0.0
+2,Rwanda,Geothermal,0.0
+3,Rwanda,Solar,0.0
+4,Rwanda,Wind,0.0
+5,Rwanda,Tide and wave,0.0
+0,Oman,Hydroelectricity,0.0
+1,Oman,Biomass and waste,0.0
+2,Oman,Geothermal,0.0
+3,Oman,Solar,0.0
+4,Oman,Wind,0.0
+5,Oman,Tide and wave,0.0
+0,Bahrain,Hydroelectricity,0.0
+1,Bahrain,Biomass and waste,0.0
+2,Bahrain,Geothermal,0.0
+3,Bahrain,Solar,0.0
+4,Bahrain,Wind,0.0
+5,Bahrain,Tide and wave,0.0
+0,Thailand,Hydroelectricity,0.08045977011494276
+1,Thailand,Biomass and waste,2.4090909090909087
+2,Thailand,Geothermal,0.0
+3,Thailand,Solar,8.0
+4,Thailand,Wind,10.0
+5,Thailand,Tide and wave,0.0
+0,Antigua and Barbuda,Hydroelectricity,0.0
+1,Antigua and Barbuda,Biomass and waste,0.0
+2,Antigua and Barbuda,Geothermal,0.0
+3,Antigua and Barbuda,Solar,0.0
+4,Antigua and Barbuda,Wind,0.0
+5,Antigua and Barbuda,Tide and wave,0.0
+0,Saint Pierre and Miquelon,Hydroelectricity,0.0
+1,Saint Pierre and Miquelon,Biomass and waste,0.0
+2,Saint Pierre and Miquelon,Geothermal,0.0
+3,Saint Pierre and Miquelon,Solar,0.0
+4,Saint Pierre and Miquelon,Wind,0.0
+5,Saint Pierre and Miquelon,Tide and wave,0.0
+0,Honduras,Hydroelectricity,0.03571428571428581
+1,Honduras,Biomass and waste,1.6666666666666665
+2,Honduras,Geothermal,0.0
+3,Honduras,Solar,0.0
+4,Honduras,Wind,1.0
+5,Honduras,Tide and wave,0.0
+0,Nigeria,Hydroelectricity,-0.017857142857142794
+1,Nigeria,Biomass and waste,0.0
+2,Nigeria,Geothermal,0.0
+3,Nigeria,Solar,0.0
+4,Nigeria,Wind,0.0
+5,Nigeria,Tide and wave,0.0
+0,Paraguay,Hydroelectricity,-0.01666666666666672
+1,Paraguay,Biomass and waste,0.0
+2,Paraguay,Geothermal,0.0
+3,Paraguay,Solar,0.0
+4,Paraguay,Wind,0.0
+5,Paraguay,Tide and wave,0.0
+0,Chile,Hydroelectricity,0.050000000000000044
+1,Chile,Biomass and waste,0.2448979591836733
+2,Chile,Geothermal,0.0
+3,Chile,Solar,0.0
+4,Chile,Wind,7.75
+5,Chile,Tide and wave,0.0
+0,Gambia,Hydroelectricity,0.0
+1,Gambia,Biomass and waste,0.0
+2,Gambia,Geothermal,0.0
+3,Gambia,Solar,0.0
+4,Gambia,Wind,0.0
+5,Gambia,Tide and wave,0.0
+0,Estonia,Hydroelectricity,0.0
+1,Estonia,Biomass and waste,0.19999999999999996
+2,Estonia,Geothermal,0.0
+3,Estonia,Solar,0.0
+4,Estonia,Wind,0.75
+5,Estonia,Tide and wave,0.0
+0,Norway,Hydroelectricity,0.0
+1,Norway,Biomass and waste,0.0
+2,Norway,Geothermal,0.0
+3,Norway,Solar,0.0
+4,Norway,Wind,0.9333333333333333
+5,Norway,Tide and wave,0.0
+0,Burundi,Hydroelectricity,1.0
+1,Burundi,Biomass and waste,0.0
+2,Burundi,Geothermal,0.0
+3,Burundi,Solar,0.0
+4,Burundi,Wind,0.0
+5,Burundi,Tide and wave,0.0
+0,Suriname,Hydroelectricity,-0.09090909090909094
+1,Suriname,Biomass and waste,0.0
+2,Suriname,Geothermal,0.0
+3,Suriname,Solar,0.0
+4,Suriname,Wind,0.0
+5,Suriname,Tide and wave,0.0
+0,Brunei,Hydroelectricity,0.0
+1,Brunei,Biomass and waste,0.0
+2,Brunei,Geothermal,0.0
+3,Brunei,Solar,0.0
+4,Brunei,Wind,0.0
+5,Brunei,Tide and wave,0.0
+0,Haiti,Hydroelectricity,0.0
+1,Haiti,Biomass and waste,0.0
+2,Haiti,Geothermal,0.0
+3,Haiti,Solar,0.0
+4,Haiti,Wind,0.0
+5,Haiti,Tide and wave,0.0
+0,Togo,Hydroelectricity,0.0
+1,Togo,Biomass and waste,0.0
+2,Togo,Geothermal,0.0
+3,Togo,Solar,0.0
+4,Togo,Wind,0.0
+5,Togo,Tide and wave,0.0
+0,American Samoa,Hydroelectricity,0.0
+1,American Samoa,Biomass and waste,0.0
+2,American Samoa,Geothermal,0.0
+3,American Samoa,Solar,0.0
+4,American Samoa,Wind,0.0
+5,American Samoa,Tide and wave,0.0
+0,Guadeloupe,Hydroelectricity,0.0
+1,Guadeloupe,Biomass and waste,0.0
+2,Guadeloupe,Geothermal,0.0
+3,Guadeloupe,Solar,0.0
+4,Guadeloupe,Wind,0.0
+5,Guadeloupe,Tide and wave,0.0
+0,Greenland,Hydroelectricity,0.33333333333333326
+1,Greenland,Biomass and waste,0.0
+2,Greenland,Geothermal,0.0
+3,Greenland,Solar,0.0
+4,Greenland,Wind,0.0
+5,Greenland,Tide and wave,0.0
+0,Malta,Hydroelectricity,0.0
+1,Malta,Biomass and waste,0.0
+2,Malta,Geothermal,0.0
+3,Malta,Solar,0.0
+4,Malta,Wind,0.0
+5,Malta,Tide and wave,0.0
+0,Eswatini,Hydroelectricity,-0.6666666666666667
+1,Eswatini,Biomass and waste,0.0
+2,Eswatini,Geothermal,0.0
+3,Eswatini,Solar,0.0
+4,Eswatini,Wind,0.0
+5,Eswatini,Tide and wave,0.0
+0,Equatorial Guinea,Hydroelectricity,0.0
+1,Equatorial Guinea,Biomass and waste,0.0
+2,Equatorial Guinea,Geothermal,0.0
+3,Equatorial Guinea,Solar,0.0
+4,Equatorial Guinea,Wind,0.0
+5,Equatorial Guinea,Tide and wave,0.0
+0,Saint Helena,Hydroelectricity,0.0
+1,Saint Helena,Biomass and waste,0.0
+2,Saint Helena,Geothermal,0.0
+3,Saint Helena,Solar,0.0
+4,Saint Helena,Wind,0.0
+5,Saint Helena,Tide and wave,0.0
+0,Sao Tome and Principe,Hydroelectricity,0.0
+1,Sao Tome and Principe,Biomass and waste,0.0
+2,Sao Tome and Principe,Geothermal,0.0
+3,Sao Tome and Principe,Solar,0.0
+4,Sao Tome and Principe,Wind,0.0
+5,Sao Tome and Principe,Tide and wave,0.0
+0,Lesotho,Hydroelectricity,0.0
+1,Lesotho,Biomass and waste,0.0
+2,Lesotho,Geothermal,0.0
+3,Lesotho,Solar,0.0
+4,Lesotho,Wind,0.0
+5,Lesotho,Tide and wave,0.0
+0,United States,Hydroelectricity,0.08695652173913038
+1,United States,Biomass and waste,0.07042253521126751
+2,United States,Geothermal,0.0
+3,United States,Solar,6.7
+4,United States,Wind,0.801418439716312
+5,United States,Tide and wave,0.0
+0,Philippines,Hydroelectricity,-0.050000000000000044
+1,Philippines,Biomass and waste,4.0
+2,Philippines,Geothermal,0.0
+3,Philippines,Solar,0.0
+4,Philippines,Wind,0.0
+5,Philippines,Tide and wave,0.0
+0,United Kingdom,Hydroelectricity,0.11320754716981152
+1,United Kingdom,Biomass and waste,1.1176470588235294
+2,United Kingdom,Geothermal,0.0
+3,United Kingdom,Solar,7.571428571428571
+4,United Kingdom,Wind,1.5
+5,United Kingdom,Tide and wave,0.0
+0,Lebanon,Hydroelectricity,-0.7
+1,Lebanon,Biomass and waste,0.0
+2,Lebanon,Geothermal,0.0
+3,Lebanon,Solar,0.0
+4,Lebanon,Wind,0.0
+5,Lebanon,Tide and wave,0.0
+0,Malawi,Hydroelectricity,-0.05263157894736836
+1,Malawi,Biomass and waste,0.0
+2,Malawi,Geothermal,0.0
+3,Malawi,Solar,0.0
+4,Malawi,Wind,0.0
+5,Malawi,Tide and wave,0.0
+0,North Korea,Hydroelectricity,-0.07692307692307687
+1,North Korea,Biomass and waste,0.0
+2,North Korea,Geothermal,0.0
+3,North Korea,Solar,0.0
+4,North Korea,Wind,0.0
+5,North Korea,Tide and wave,0.0
+0,Bermuda,Hydroelectricity,0.0
+1,Bermuda,Biomass and waste,0.0
+2,Bermuda,Geothermal,0.0
+3,Bermuda,Solar,0.0
+4,Bermuda,Wind,0.0
+5,Bermuda,Tide and wave,0.0
+0,Montenegro,Hydroelectricity,-0.33333333333333337
+1,Montenegro,Biomass and waste,0.0
+2,Montenegro,Geothermal,0.0
+3,Montenegro,Solar,0.0
+4,Montenegro,Wind,0.0
+5,Montenegro,Tide and wave,0.0
+0,Uganda,Hydroelectricity,0.3599999999999999
+1,Uganda,Biomass and waste,0.0
+2,Uganda,Geothermal,0.0
+3,Uganda,Solar,0.0
+4,Uganda,Wind,0.0
+5,Uganda,Tide and wave,0.0
+0,Sri Lanka,Hydroelectricity,0.21212121212121215
+1,Sri Lanka,Biomass and waste,0.0
+2,Sri Lanka,Geothermal,0.0
+3,Sri Lanka,Solar,0.0
+4,Sri Lanka,Wind,3.0
+5,Sri Lanka,Tide and wave,0.0
+0,Belize,Hydroelectricity,0.5000000000000002
+1,Belize,Biomass and waste,0.0
+2,Belize,Geothermal,0.0
+3,Belize,Solar,0.0
+4,Belize,Wind,0.0
+5,Belize,Tide and wave,0.0
+0,Egypt,Hydroelectricity,0.0
+1,Egypt,Biomass and waste,0.0
+2,Egypt,Geothermal,0.0
+3,Egypt,Solar,0.0
+4,Egypt,Wind,1.0
+5,Egypt,Tide and wave,0.0
+0,Faroe Islands,Hydroelectricity,0.0
+1,Faroe Islands,Biomass and waste,0.0
+2,Faroe Islands,Geothermal,0.0
+3,Faroe Islands,Solar,0.0
+4,Faroe Islands,Wind,0.0
+5,Faroe Islands,Tide and wave,0.0
+0,Germany,Hydroelectricity,-0.04761904761904767
+1,Germany,Biomass and waste,0.13725490196078427
+2,Germany,Geothermal,0.0
+3,Germany,Solar,0.5
+4,Germany,Wind,1.0392156862745097
+5,Germany,Tide and wave,-0.1578947368421052
+0,Maldives,Hydroelectricity,0.0
+1,Maldives,Biomass and waste,0.0
+2,Maldives,Geothermal,0.0
+3,Maldives,Solar,0.0
+4,Maldives,Wind,0.0
+5,Maldives,Tide and wave,0.0
+0,Bangladesh,Hydroelectricity,0.25
+1,Bangladesh,Biomass and waste,0.0
+2,Bangladesh,Geothermal,0.0
+3,Bangladesh,Solar,0.0
+4,Bangladesh,Wind,0.0
+5,Bangladesh,Tide and wave,0.0
+0,U.S. Virgin Islands,Hydroelectricity,0.0
+1,U.S. Virgin Islands,Biomass and waste,0.0
+2,U.S. Virgin Islands,Geothermal,0.0
+3,U.S. Virgin Islands,Solar,0.0
+4,U.S. Virgin Islands,Wind,0.0
+5,U.S. Virgin Islands,Tide and wave,0.0
+0,Bosnia and Herzegovina,Hydroelectricity,-0.07142857142857151
+1,Bosnia and Herzegovina,Biomass and waste,0.0
+2,Bosnia and Herzegovina,Geothermal,0.0
+3,Bosnia and Herzegovina,Solar,0.0
+4,Bosnia and Herzegovina,Wind,0.0
+5,Bosnia and Herzegovina,Tide and wave,0.0
+0,Tunisia,Hydroelectricity,0.0
+1,Tunisia,Biomass and waste,0.0
+2,Tunisia,Geothermal,0.0
+3,Tunisia,Solar,0.0
+4,Tunisia,Wind,1.0
+5,Tunisia,Tide and wave,0.0
+0,Slovenia,Hydroelectricity,0.0
+1,Slovenia,Biomass and waste,0.0
+2,Slovenia,Geothermal,0.0
+3,Slovenia,Solar,0.5000000000000002
+4,Slovenia,Wind,0.0
+5,Slovenia,Tide and wave,0.0
+0,Iceland,Hydroelectricity,0.16666666666666674
+1,Iceland,Biomass and waste,0.0
+2,Iceland,Geothermal,-0.039215686274509665
+3,Iceland,Solar,0.0
+4,Iceland,Wind,0.0
+5,Iceland,Tide and wave,0.0
+0,French Guiana,Hydroelectricity,0.0
+1,French Guiana,Biomass and waste,0.0
+2,French Guiana,Geothermal,0.0
+3,French Guiana,Solar,0.0
+4,French Guiana,Wind,0.0
+5,French Guiana,Tide and wave,0.0
+0,Cyprus,Hydroelectricity,0.0
+1,Cyprus,Biomass and waste,0.0
+2,Cyprus,Geothermal,0.0
+3,Cyprus,Solar,0.0
+4,Cyprus,Wind,0.0
+5,Cyprus,Tide and wave,0.0
+0,Malaysia,Hydroelectricity,1.8888888888888888
+1,Malaysia,Biomass and waste,0.0
+2,Malaysia,Geothermal,0.0
+3,Malaysia,Solar,0.0
+4,Malaysia,Wind,0.0
+5,Malaysia,Tide and wave,0.0
+0,Russia,Hydroelectricity,0.11585365853658547
+1,Russia,Biomass and waste,-0.09999999999999998
+2,Russia,Geothermal,-0.19999999999999996
+3,Russia,Solar,0.0
+4,Russia,Wind,0.0
+5,Russia,Tide and wave,0.0
+0,Macau,Hydroelectricity,0.0
+1,Macau,Biomass and waste,0.0
+2,Macau,Geothermal,0.0
+3,Macau,Solar,0.0
+4,Macau,Wind,0.0
+5,Macau,Tide and wave,0.0
+0,Barbados,Hydroelectricity,0.0
+1,Barbados,Biomass and waste,0.0
+2,Barbados,Geothermal,0.0
+3,Barbados,Solar,0.0
+4,Barbados,Wind,0.0
+5,Barbados,Tide and wave,0.0
+0,New Caledonia,Hydroelectricity,0.0
+1,New Caledonia,Biomass and waste,0.0
+2,New Caledonia,Geothermal,0.0
+3,New Caledonia,Solar,0.0
+4,New Caledonia,Wind,0.0
+5,New Caledonia,Tide and wave,0.0
+0,British Virgin Islands,Hydroelectricity,0.0
+1,British Virgin Islands,Biomass and waste,0.0
+2,British Virgin Islands,Geothermal,0.0
+3,British Virgin Islands,Solar,0.0
+4,British Virgin Islands,Wind,0.0
+5,British Virgin Islands,Tide and wave,0.0
+0,Senegal,Hydroelectricity,0.0
+1,Senegal,Biomass and waste,0.0
+2,Senegal,Geothermal,0.0
+3,Senegal,Solar,0.0
+4,Senegal,Wind,0.0
+5,Senegal,Tide and wave,0.0
+0,Israel,Hydroelectricity,0.0
+1,Israel,Biomass and waste,0.0
+2,Israel,Geothermal,0.0
+3,Israel,Solar,2.75
+4,Israel,Wind,0.0
+5,Israel,Tide and wave,0.0
+0,Cuba,Hydroelectricity,0.0
+1,Cuba,Biomass and waste,0.0
+2,Cuba,Geothermal,0.0
+3,Cuba,Solar,0.0
+4,Cuba,Wind,0.0
+5,Cuba,Tide and wave,0.0
+0,Turkey,Hydroelectricity,0.01754385964912286
+1,Turkey,Biomass and waste,2.4999999999999996
+2,Turkey,Geothermal,5.374999999999999
+3,Turkey,Solar,0.0
+4,Turkey,Wind,2.103448275862069
+5,Turkey,Tide and wave,7.0
+0,Italy,Hydroelectricity,-0.12195121951219512
+1,Italy,Biomass and waste,0.46666666666666656
+2,Italy,Geothermal,0.09433962264150941
+3,Italy,Solar,0.26315789473684204
+4,Italy,Wind,0.3846153846153846
+5,Italy,Tide and wave,-0.1428571428571428
+0,Angola,Hydroelectricity,1.054054054054054
+1,Angola,Biomass and waste,0.0
+2,Angola,Geothermal,0.0
+3,Angola,Solar,0.0
+4,Angola,Wind,0.0
+5,Angola,Tide and wave,0.0
+0,Nicaragua,Hydroelectricity,0.25
+1,Nicaragua,Biomass and waste,0.40000000000000013
+2,Nicaragua,Geothermal,0.6000000000000001
+3,Nicaragua,Solar,0.0
+4,Nicaragua,Wind,1.0
+5,Nicaragua,Tide and wave,0.0
+0,Romania,Hydroelectricity,0.16666666666666674
+1,Romania,Biomass and waste,1.5
+2,Romania,Geothermal,0.0
+3,Romania,Solar,0.0
+4,Romania,Wind,1.8461538461538463
+5,Romania,Tide and wave,0.0
+0,Denmark,Hydroelectricity,0.0
+1,Denmark,Biomass and waste,0.3653846153846152
+2,Denmark,Geothermal,0.0
+3,Denmark,Solar,7.0
+4,Denmark,Wind,0.5
+5,Denmark,Tide and wave,0.0
+0,El Salvador,Hydroelectricity,-0.11111111111111105
+1,El Salvador,Biomass and waste,0.75
+2,El Salvador,Geothermal,0.0714285714285714
+3,El Salvador,Solar,0.0
+4,El Salvador,Wind,0.0
+5,El Salvador,Tide and wave,0.0
+0,Iran,Hydroelectricity,0.25
+1,Iran,Biomass and waste,0.0
+2,Iran,Geothermal,0.0
+3,Iran,Solar,0.0
+4,Iran,Wind,0.5000000000000002
+5,Iran,Tide and wave,0.0
+0,Seychelles,Hydroelectricity,0.0
+1,Seychelles,Biomass and waste,0.0
+2,Seychelles,Geothermal,0.0
+3,Seychelles,Solar,0.0
+4,Seychelles,Wind,0.0
+5,Seychelles,Tide and wave,0.0
+0,Grenada,Hydroelectricity,0.0
+1,Grenada,Biomass and waste,0.0
+2,Grenada,Geothermal,0.0
+3,Grenada,Solar,0.0
+4,Grenada,Wind,0.0
+5,Grenada,Tide and wave,0.0
+0,Kyrgyzstan,Hydroelectricity,0.0
+1,Kyrgyzstan,Biomass and waste,0.0
+2,Kyrgyzstan,Geothermal,0.0
+3,Kyrgyzstan,Solar,0.0
+4,Kyrgyzstan,Wind,0.0
+5,Kyrgyzstan,Tide and wave,0.0
+0,Brazil,Hydroelectricity,-0.10705596107055959
+1,Brazil,Biomass and waste,0.48571428571428577
+2,Brazil,Geothermal,0.0
+3,Brazil,Solar,0.0
+4,Brazil,Wind,7.23529411764706
+5,Brazil,Tide and wave,0.0
+0,Ecuador,Hydroelectricity,0.6666666666666667
+1,Ecuador,Biomass and waste,0.6666666666666665
+2,Ecuador,Geothermal,0.0
+3,Ecuador,Solar,0.0
+4,Ecuador,Wind,0.0
+5,Ecuador,Tide and wave,0.0
+0,Dominican Republic,Hydroelectricity,0.22222222222222232
+1,Dominican Republic,Biomass and waste,0.0
+2,Dominican Republic,Geothermal,0.0
+3,Dominican Republic,Solar,0.0
+4,Dominican Republic,Wind,0.0
+5,Dominican Republic,Tide and wave,0.0
+0,Western Sahara,Hydroelectricity,0.0
+1,Western Sahara,Biomass and waste,0.0
+2,Western Sahara,Geothermal,0.0
+3,Western Sahara,Solar,0.0
+4,Western Sahara,Wind,0.0
+5,Western Sahara,Tide and wave,0.0
+0,United Arab Emirates,Hydroelectricity,0.0
+1,United Arab Emirates,Biomass and waste,0.0
+2,United Arab Emirates,Geothermal,0.0
+3,United Arab Emirates,Solar,0.0
+4,United Arab Emirates,Wind,0.0
+5,United Arab Emirates,Tide and wave,0.0
+0,Cabo Verde,Hydroelectricity,0.0
+1,Cabo Verde,Biomass and waste,0.0
+2,Cabo Verde,Geothermal,0.0
+3,Cabo Verde,Solar,0.0
+4,Cabo Verde,Wind,0.0
+5,Cabo Verde,Tide and wave,0.0
+0,Cameroon,Hydroelectricity,0.3142857142857143
+1,Cameroon,Biomass and waste,0.0
+2,Cameroon,Geothermal,0.0
+3,Cameroon,Solar,0.0
+4,Cameroon,Wind,0.0
+5,Cameroon,Tide and wave,0.0
+0,Czech Republic,Hydroelectricity,-0.09523809523809534
+1,Czech Republic,Biomass and waste,0.5
+2,Czech Republic,Geothermal,0.0
+3,Czech Republic,Solar,0.04761904761904767
+4,Czech Republic,Wind,0.5000000000000002
+5,Czech Republic,Tide and wave,0.0
+0,Singapore,Hydroelectricity,0.0
+1,Singapore,Biomass and waste,0.15384615384615374
+2,Singapore,Geothermal,0.0
+3,Singapore,Solar,0.0
+4,Singapore,Wind,0.0
+5,Singapore,Tide and wave,0.0
+0,Belgium,Hydroelectricity,-0.2499999999999999
+1,Belgium,Biomass and waste,0.10769230769230775
+2,Belgium,Geothermal,0.0
+3,Belgium,Solar,0.5714285714285712
+4,Belgium,Wind,1.3703703703703702
+5,Belgium,Tide and wave,0.0
+0,World,Hydroelectricity,0.10236653824986242
+1,World,Biomass and waste,0.41747572815533984
+2,World,Geothermal,0.18461538461538463
+3,World,Solar,3.2980769230769234
+4,World,Wind,1.1669865642994242
+5,World,Tide and wave,-0.0357142857142857
+0,Laos,Hydroelectricity,0.3846153846153846
+1,Laos,Biomass and waste,0.0
+2,Laos,Geothermal,0.0
+3,Laos,Solar,0.0
+4,Laos,Wind,0.0
+5,Laos,Tide and wave,0.0
+0,Taiwan,Hydroelectricity,-0.03571428571428559
+1,Taiwan,Biomass and waste,0.0
+2,Taiwan,Geothermal,0.0
+3,Taiwan,Solar,7.5
+4,Taiwan,Wind,0.2142857142857144
+5,Taiwan,Tide and wave,0.0
+0,China,Hydroelectricity,0.3419203747072599
+1,China,Biomass and waste,0.9268292682926829
+2,China,Geothermal,0.0
+3,China,Solar,17.4375
+4,China,Wind,2.1770833333333335
+5,China,Tide and wave,0.0
+0,Botswana,Hydroelectricity,0.0
+1,Botswana,Biomass and waste,0.0
+2,Botswana,Geothermal,0.0
+3,Botswana,Solar,0.0
+4,Botswana,Wind,0.0
+5,Botswana,Tide and wave,0.0
+0,Uruguay,Hydroelectricity,0.37037037037037024
+1,Uruguay,Biomass and waste,0.8
+2,Uruguay,Geothermal,0.0
+3,Uruguay,Solar,0.0
+4,Uruguay,Wind,36.99999999999999
+5,Uruguay,Tide and wave,0.0
+0,Lithuania,Hydroelectricity,0.5000000000000002
+1,Lithuania,Biomass and waste,2.0000000000000004
+2,Lithuania,Geothermal,0.0
+3,Lithuania,Solar,0.0
+4,Lithuania,Wind,1.7999999999999998
+5,Lithuania,Tide and wave,0.0
+0,Burkina Faso,Hydroelectricity,0.0
+1,Burkina Faso,Biomass and waste,0.0
+2,Burkina Faso,Geothermal,0.0
+3,Burkina Faso,Solar,0.0
+4,Burkina Faso,Wind,0.0
+5,Burkina Faso,Tide and wave,0.0
+0,Niger,Hydroelectricity,0.0
+1,Niger,Biomass and waste,0.0
+2,Niger,Geothermal,0.0
+3,Niger,Solar,0.0
+4,Niger,Wind,0.0
+5,Niger,Tide and wave,0.0
+0,Poland,Hydroelectricity,0.30000000000000004
+1,Poland,Biomass and waste,-0.32000000000000006
+2,Poland,Geothermal,0.0
+3,Poland,Solar,0.0
+4,Poland,Wind,2.1914893617021276
+5,Poland,Tide and wave,0.0
+0,Belarus,Hydroelectricity,0.0
+1,Belarus,Biomass and waste,1.0
+2,Belarus,Geothermal,0.0
+3,Belarus,Solar,0.0
+4,Belarus,Wind,0.0
+5,Belarus,Tide and wave,0.0
+0,Congo-Brazzaville,Hydroelectricity,0.19999999999999996
+1,Congo-Brazzaville,Biomass and waste,0.0
+2,Congo-Brazzaville,Geothermal,0.0
+3,Congo-Brazzaville,Solar,0.0
+4,Congo-Brazzaville,Wind,0.0
+5,Congo-Brazzaville,Tide and wave,0.0
+0,Mali,Hydroelectricity,0.375
+1,Mali,Biomass and waste,0.0
+2,Mali,Geothermal,0.0
+3,Mali,Solar,0.0
+4,Mali,Wind,0.0
+5,Mali,Tide and wave,0.0
+0,Tanzania,Hydroelectricity,0.3529411764705881
+1,Tanzania,Biomass and waste,0.0
+2,Tanzania,Geothermal,0.0
+3,Tanzania,Solar,0.0
+4,Tanzania,Wind,0.0
+5,Tanzania,Tide and wave,0.0
+0,Ethiopia,Hydroelectricity,0.7808219178082192
+1,Ethiopia,Biomass and waste,0.0
+2,Ethiopia,Geothermal,0.0
+3,Ethiopia,Solar,0.0
+4,Ethiopia,Wind,3.5
+5,Ethiopia,Tide and wave,0.0
+0,Mongolia,Hydroelectricity,0.0
+1,Mongolia,Biomass and waste,0.0
+2,Mongolia,Geothermal,0.0
+3,Mongolia,Solar,0.0
+4,Mongolia,Wind,0.0
+5,Mongolia,Tide and wave,0.0
+0,Cambodia,Hydroelectricity,4.4
+1,Cambodia,Biomass and waste,0.0
+2,Cambodia,Geothermal,0.0
+3,Cambodia,Solar,0.0
+4,Cambodia,Wind,0.0
+5,Cambodia,Tide and wave,0.0
+0,Benin,Hydroelectricity,0.0
+1,Benin,Biomass and waste,0.0
+2,Benin,Geothermal,0.0
+3,Benin,Solar,0.0
+4,Benin,Wind,0.0
+5,Benin,Tide and wave,0.0
+0,Ukraine,Hydroelectricity,-0.10999999999999999
+1,Ukraine,Biomass and waste,1.0
+2,Ukraine,Geothermal,0.0
+3,Ukraine,Solar,1.333333333333333
+4,Ukraine,Wind,2.333333333333333
+5,Ukraine,Tide and wave,0.0
+0,Turks and Caicos Islands,Hydroelectricity,0.0
+1,Turks and Caicos Islands,Biomass and waste,0.0
+2,Turks and Caicos Islands,Geothermal,0.0
+3,Turks and Caicos Islands,Solar,0.0
+4,Turks and Caicos Islands,Wind,0.0
+5,Turks and Caicos Islands,Tide and wave,0.0
+0,Moldova,Hydroelectricity,0.0
+1,Moldova,Biomass and waste,0.0
+2,Moldova,Geothermal,0.0
+3,Moldova,Solar,0.0
+4,Moldova,Wind,0.0
+5,Moldova,Tide and wave,0.0
+0,Trinidad and Tobago,Hydroelectricity,0.0
+1,Trinidad and Tobago,Biomass and waste,0.0
+2,Trinidad and Tobago,Geothermal,0.0
+3,Trinidad and Tobago,Solar,0.0
+4,Trinidad and Tobago,Wind,0.0
+5,Trinidad and Tobago,Tide and wave,0.0
+0,Niue,Hydroelectricity,0.0
+1,Niue,Biomass and waste,0.0
+2,Niue,Geothermal,0.0
+3,Niue,Solar,0.0
+4,Niue,Wind,0.0
+5,Niue,Tide and wave,0.0
+0,Djibouti,Hydroelectricity,0.0
+1,Djibouti,Biomass and waste,0.0
+2,Djibouti,Geothermal,0.0
+3,Djibouti,Solar,0.0
+4,Djibouti,Wind,0.0
+5,Djibouti,Tide and wave,0.0
+0,U.S. Pacific Islands,Hydroelectricity,0.0
+1,U.S. Pacific Islands,Biomass and waste,0.0
+2,U.S. Pacific Islands,Geothermal,0.0
+3,U.S. Pacific Islands,Solar,0.0
+4,U.S. Pacific Islands,Wind,0.0
+5,U.S. Pacific Islands,Tide and wave,0.0
+0,Guinea-Bissau,Hydroelectricity,0.0
+1,Guinea-Bissau,Biomass and waste,0.0
+2,Guinea-Bissau,Geothermal,0.0
+3,Guinea-Bissau,Solar,0.0
+4,Guinea-Bissau,Wind,0.0
+5,Guinea-Bissau,Tide and wave,0.0
+0,Georgia,Hydroelectricity,0.26388888888888884
+1,Georgia,Biomass and waste,0.0
+2,Georgia,Geothermal,0.0
+3,Georgia,Solar,0.0
+4,Georgia,Wind,0.0
+5,Georgia,Tide and wave,0.0
+0,Nauru,Hydroelectricity,0.0
+1,Nauru,Biomass and waste,0.0
+2,Nauru,Geothermal,0.0
+3,Nauru,Solar,0.0
+4,Nauru,Wind,0.0
+5,Nauru,Tide and wave,0.0
+0,Canada,Hydroelectricity,0.034574468085106336
+1,Canada,Biomass and waste,-0.26
+2,Canada,Geothermal,0.0
+3,Canada,Solar,2.888888888888889
+4,Canada,Wind,1.5454545454545454
+5,Canada,Tide and wave,-0.9285714285714286
+0,French Polynesia,Hydroelectricity,0.0
+1,French Polynesia,Biomass and waste,0.0
+2,French Polynesia,Geothermal,0.0
+3,French Polynesia,Solar,0.0
+4,French Polynesia,Wind,0.0
+5,French Polynesia,Tide and wave,0.0
+0,Congo-Kinshasa,Hydroelectricity,0.2533333333333334
+1,Congo-Kinshasa,Biomass and waste,0.0
+2,Congo-Kinshasa,Geothermal,0.0
+3,Congo-Kinshasa,Solar,0.0
+4,Congo-Kinshasa,Wind,0.0
+5,Congo-Kinshasa,Tide and wave,0.0
+0,Jordan,Hydroelectricity,0.0
+1,Jordan,Biomass and waste,0.0
+2,Jordan,Geothermal,0.0
+3,Jordan,Solar,0.0
+4,Jordan,Wind,0.0
+5,Jordan,Tide and wave,0.0
+0,Morocco,Hydroelectricity,-0.2500000000000001
+1,Morocco,Biomass and waste,0.0
+2,Morocco,Geothermal,0.0
+3,Morocco,Solar,0.0
+4,Morocco,Wind,3.2857142857142856
+5,Morocco,Tide and wave,0.0
+0,Mexico,Hydroelectricity,0.0
+1,Mexico,Biomass and waste,0.8333333333333335
+2,Mexico,Geothermal,0.036363636363636376
+3,Mexico,Solar,0.0
+4,Mexico,Wind,1.6756756756756754
+5,Mexico,Tide and wave,0.0
+0,Chad,Hydroelectricity,0.0
+1,Chad,Biomass and waste,0.0
+2,Chad,Geothermal,0.0
+3,Chad,Solar,0.0
+4,Chad,Wind,0.0
+5,Chad,Tide and wave,0.0
+0,Bulgaria,Hydroelectricity,-0.1250000000000001
+1,Bulgaria,Biomass and waste,0.0
+2,Bulgaria,Geothermal,0.0
+3,Bulgaria,Solar,0.7499999999999998
+4,Bulgaria,Wind,0.25
+5,Bulgaria,Tide and wave,0.0
+0,Gabon,Hydroelectricity,0.0
+1,Gabon,Biomass and waste,0.0
+2,Gabon,Geothermal,0.0
+3,Gabon,Solar,0.0
+4,Gabon,Wind,0.0
+5,Gabon,Tide and wave,0.0
+0,Vanuatu,Hydroelectricity,0.0
+1,Vanuatu,Biomass and waste,0.0
+2,Vanuatu,Geothermal,0.0
+3,Vanuatu,Solar,0.0
+4,Vanuatu,Wind,0.0
+5,Vanuatu,Tide and wave,0.0
+0,Madagascar,Hydroelectricity,0.125
+1,Madagascar,Biomass and waste,0.0
+2,Madagascar,Geothermal,0.0
+3,Madagascar,Solar,0.0
+4,Madagascar,Wind,0.0
+5,Madagascar,Tide and wave,0.0
+0,Montserrat,Hydroelectricity,0.0
+1,Montserrat,Biomass and waste,0.0
+2,Montserrat,Geothermal,0.0
+3,Montserrat,Solar,0.0
+4,Montserrat,Wind,0.0
+5,Montserrat,Tide and wave,0.0
+0,Falkland Islands,Hydroelectricity,0.0
+1,Falkland Islands,Biomass and waste,0.0
+2,Falkland Islands,Geothermal,0.0
+3,Falkland Islands,Solar,0.0
+4,Falkland Islands,Wind,0.0
+5,Falkland Islands,Tide and wave,0.0
+0,Aruba,Hydroelectricity,0.0
+1,Aruba,Biomass and waste,0.0
+2,Aruba,Geothermal,0.0
+3,Aruba,Solar,0.0
+4,Aruba,Wind,0.0
+5,Aruba,Tide and wave,0.0
+0,Libya,Hydroelectricity,0.0
+1,Libya,Biomass and waste,0.0
+2,Libya,Geothermal,0.0
+3,Libya,Solar,0.0
+4,Libya,Wind,0.0
+5,Libya,Tide and wave,0.0
+0,Slovakia,Hydroelectricity,0.16216216216216206
+1,Slovakia,Biomass and waste,0.7000000000000002
+2,Slovakia,Geothermal,0.0
+3,Slovakia,Solar,0.25
+4,Slovakia,Wind,0.0
+5,Slovakia,Tide and wave,0.0
+0,North Macedonia,Hydroelectricity,0.10000000000000009
+1,North Macedonia,Biomass and waste,0.0
+2,North Macedonia,Geothermal,0.0
+3,North Macedonia,Solar,0.0
+4,North Macedonia,Wind,0.0
+5,North Macedonia,Tide and wave,0.0
+0,Syria,Hydroelectricity,-0.78125
+1,Syria,Biomass and waste,0.0
+2,Syria,Geothermal,0.0
+3,Syria,Solar,0.0
+4,Syria,Wind,0.0
+5,Syria,Tide and wave,0.0
+0,Spain,Hydroelectricity,-0.09999999999999998
+1,Spain,Biomass and waste,0.21052631578947367
+2,Spain,Geothermal,0.0
+3,Spain,Solar,0.16666666666666674
+4,Spain,Wind,0.0
+5,Spain,Tide and wave,0.0
+0,Burma,Hydroelectricity,0.5584415584415585
+1,Burma,Biomass and waste,0.0
+2,Burma,Geothermal,0.0
+3,Burma,Solar,0.0
+4,Burma,Wind,0.0
+5,Burma,Tide and wave,0.0
+0,Guatemala,Hydroelectricity,0.2666666666666666
+1,Guatemala,Biomass and waste,0.47058823529411753
+2,Guatemala,Geothermal,0.5000000000000002
+3,Guatemala,Solar,0.0
+4,Guatemala,Wind,0.0
+5,Guatemala,Tide and wave,0.0
+0,Mauritius,Hydroelectricity,0.0
+1,Mauritius,Biomass and waste,0.0
+2,Mauritius,Geothermal,0.0
+3,Mauritius,Solar,0.0
+4,Mauritius,Wind,0.0
+5,Mauritius,Tide and wave,0.0
+0,Pakistan,Hydroelectricity,-0.06666666666666665
+1,Pakistan,Biomass and waste,1.0666666666666669
+2,Pakistan,Geothermal,0.0
+3,Pakistan,Solar,0.0
+4,Pakistan,Wind,0.0
+5,Pakistan,Tide and wave,0.0
+0,Jamaica,Hydroelectricity,1.0
+1,Jamaica,Biomass and waste,0.5000000000000002
+2,Jamaica,Geothermal,0.0
+3,Jamaica,Solar,0.0
+4,Jamaica,Wind,2.0000000000000004
+5,Jamaica,Tide and wave,0.0
+0,Armenia,Hydroelectricity,-0.04347826086956508
+1,Armenia,Biomass and waste,0.0
+2,Armenia,Geothermal,0.0
+3,Armenia,Solar,0.0
+4,Armenia,Wind,0.0
+5,Armenia,Tide and wave,0.0
+0,Cayman Islands,Hydroelectricity,0.0
+1,Cayman Islands,Biomass and waste,0.0
+2,Cayman Islands,Geothermal,0.0
+3,Cayman Islands,Solar,0.0
+4,Cayman Islands,Wind,0.0
+5,Cayman Islands,Tide and wave,0.0
+0,Comoros,Hydroelectricity,0.0
+1,Comoros,Biomass and waste,0.0
+2,Comoros,Geothermal,0.0
+3,Comoros,Solar,0.0
+4,Comoros,Wind,0.0
+5,Comoros,Tide and wave,0.0
+0,Somalia,Hydroelectricity,0.0
+1,Somalia,Biomass and waste,0.0
+2,Somalia,Geothermal,0.0
+3,Somalia,Solar,0.0
+4,Somalia,Wind,0.0
+5,Somalia,Tide and wave,0.0
+0,Turkmenistan,Hydroelectricity,0.0
+1,Turkmenistan,Biomass and waste,0.0
+2,Turkmenistan,Geothermal,0.0
+3,Turkmenistan,Solar,0.0
+4,Turkmenistan,Wind,0.0
+5,Turkmenistan,Tide and wave,0.0
+0,South Korea,Hydroelectricity,-0.28205128205128205
+1,South Korea,Biomass and waste,3.0588235294117645
+2,South Korea,Geothermal,0.0
+3,South Korea,Solar,5.454545454545454
+4,South Korea,Wind,1.4444444444444446
+5,South Korea,Tide and wave,4.0
+0,Ghana,Hydroelectricity,-0.30000000000000004
+1,Ghana,Biomass and waste,0.0
+2,Ghana,Geothermal,0.0
+3,Ghana,Solar,0.0
+4,Ghana,Wind,0.0
+5,Ghana,Tide and wave,0.0
+0,Puerto Rico,Hydroelectricity,0.0
+1,Puerto Rico,Biomass and waste,0.0
+2,Puerto Rico,Geothermal,0.0
+3,Puerto Rico,Solar,0.0
+4,Puerto Rico,Wind,0.0
+5,Puerto Rico,Tide and wave,0.0
+0,Papua New Guinea,Hydroelectricity,-0.19999999999999996
+1,Papua New Guinea,Biomass and waste,0.0
+2,Papua New Guinea,Geothermal,0.0
+3,Papua New Guinea,Solar,0.0
+4,Papua New Guinea,Wind,0.0
+5,Papua New Guinea,Tide and wave,0.0
+0,Tajikistan,Hydroelectricity,0.0
+1,Tajikistan,Biomass and waste,0.0
+2,Tajikistan,Geothermal,0.0
+3,Tajikistan,Solar,0.0
+4,Tajikistan,Wind,0.0
+5,Tajikistan,Tide and wave,0.0
