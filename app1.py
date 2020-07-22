@@ -51,7 +51,7 @@ df_growth=pd.read_csv("data/df_growth.csv")
 df=pd.read_json("data/IntElecGen.json")
 
 metrics=[
-      {'label': 'Dominant fuel type for electricity generation', 'value': 'dominant'},
+      {'label': 'Dominant power source for electricity generation', 'value': 'dominant'},
       {'label': 'Total net electricity generation', 'value': "lastValue"},
       {'label': 'Electricity generation per capita', 'value': "kWh PP"},  
   ]
@@ -166,7 +166,7 @@ l_bar_w=go.Layout(
   paper_bgcolor=boxcolor,
   yaxis={"tickfont":{"size":12},"gridwidth":2, "gridcolor":background},
   xaxis={"tickfont":{"size":12}},
-  legend={'orientation':'h','x':0.2, 'y':-0.2,'font':{'size':12}, 'itemclick': 'toggleothers'},
+  legend={'orientation':'h','x':0.1, 'y':-0.2,'font':{'size':12}, 'itemclick': 'toggleothers'},
   dragmode=False
   )
 
@@ -516,7 +516,7 @@ app.layout = html.Div([
           className="four columns flex-display"
           ),
         html.Div([#left side bottom half four columns
-          html.P(id="dep_title", children= "Top 10 dependence, by fuel type", style={"color": titlecolor}),
+          html.P(id="dep_title", children= "Top 10 dependence, by power source", style={"color": titlecolor}),
           html.Div([
             dcc.Dropdown(
               id='metric-select-dep',
@@ -682,7 +682,7 @@ def update_title(metric):
   if metric=="Total Electricity net generation":
     title="Top 10 total (net) generation"
   else:
-    title="Top 10 total, by fuel type"
+    title="Top 10 total, by power source"
   return title
 
 @app.callback(
@@ -700,7 +700,7 @@ def update_title(metric):
   if metric=="Total Electricity net generation":
     title="Top 10 total (net) generation"
   else:
-    title="Top 10 per capita, by fuel type"
+    title="Top 10 per capita, by power source"
   return title
 
 @app.callback(
@@ -717,7 +717,7 @@ def update_chart(metric):
 def update_chart(country):
   fig= make_fig_2(country)
   fig.update_layout(yaxis_title= "billion kWh")
-  fig.update_layout(title="Total generation: "+country)
+  fig.update_layout(title="Total electricity generation: "+country)
   return fig
 
 @app.callback(
@@ -726,7 +726,7 @@ def update_chart(country):
 def update_chart(country):
   fig= make_fig_2b(country)
   fig.update_layout(yaxis_title= "billion kWh")
-  fig.update_layout(title="Renewables: "+country)
+  fig.update_layout(title="Renewables in electricity generation: "+country)
   return fig
 
 
@@ -741,18 +741,18 @@ def update_chart(country):
   [Input('country-select', 'value')])
 def update_chart(country):
   if df_dom["dominant_source"][df_dom["country"]==country].values[0]=='Nuclear':
-    statement="Nuclear power is the dominant fuel for electricity generation."
+    statement="Nuclear power is the dominant power source for electricity generation."
   elif df_dom["dominant_source"][df_dom["country"]==country].values[0]=='Fossil fuels':
-    statement= "Fossil fuels are the dominant fuel for electricity generation."
+    statement= "Fossil fuels are the dominant power source for electricity generation."
   else:
-    statement="Renewables are the dominant fuel for electricity generation."
+    statement="Renewables are the dominant power source for electricity generation."
   return statement
 
 @app.callback(
   Output('li3', 'children'),
   [Input('country-select', 'value')])
 def update_chart(country):
-  return "Renewables constitute {}% of fuel used for electricity generation.".format(round(100*df_dep["dependence"][df_dep["label"]=="Renewable"][df_dep["country"]==country].values[0],1))
+  return "Renewables constitute {}% of power used for electricity generation.".format(round(100*df_dep["dependence"][df_dep["label"]=="Renewable"][df_dep["country"]==country].values[0],1))
 
 @app.callback(
   Output('li21', 'children'),
