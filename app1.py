@@ -71,6 +71,7 @@ metrics_max=[
       {'label': 'Renewables: Geothermal', 'value': 'Geothermal'},
       {'label': "Renewables: Solar","value":"Solar"},
       {'label': "Renewables: Wind","value":"Wind"},
+      {'label': "Renewables: Tide and wave","value":"Tide and wave"},
       {'label': 'All power sources', 'value': "Total Electricity net generation"}
 ]
 
