@@ -1,7 +1,7 @@
 # dash_elec_gen
 Electricity Generation Mix: An interactive dashboard in Python
 
-View the finished product here: Https://elec-gen.herokuapp.com
+View the finished product here: https://elec-gen.herokuapp.com
 
 
 #### Screenshots
