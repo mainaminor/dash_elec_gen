@@ -7,4 +7,4 @@ View the finished product here: Https://elec-gen.herokuapp.com
 #### Screenshots
 The following are screenshots for the app in this repo:
 
-![elec_gen](assets/elec_gen.png)
+![screenshot](assets/screenshot.png)
